@@ -5,6 +5,9 @@ import pickle
 from fuzzywuzzy import process
 from streamlit_extras.add_vertical_space import add_vertical_space
 
+st.markdown('''## Schedule An Appointment''')
+
+st.caption("Schedule an appointment here")
 
 list_of_symptoms = pd.read_csv("../Backend/Dataset/list_of_symptoms.csv")
 symptoms = list_of_symptoms['Symptoms'].to_list()
@@ -52,24 +55,24 @@ def predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5):
 
 
 def main():
-    st.subheader('Please give the following information')
-    Name = st.text_input("Enter your name")
-    Location = st.text_input("Enter your location")
-    st.subheader('Please mention your symptoms here')
+    st.markdown('''#### Please give your information''')
+    Name = st.text_input("Enter your name:")
+    Location = st.text_input("Enter your location:")
+    st.markdown('''#### Mention your symptoms here''')
     Symptom1 = st.text_input("Symptom 1")
-    Symptom2 = st.text_input("Symptom 2")
-    Symptom3 = st.text_input("Symptom 3")
-    Symptom4 = st.text_input("Symptom 4")
-    Symptom5 = st.text_input("Symptom 5")
+    Symptom2 = st.text_input("Symptom 2 (Optional)")
+    Symptom3 = st.text_input("Symptom 3 (Optional)")
+    Symptom4 = st.text_input("Symptom 4 (Optional)")
+    Symptom5 = st.text_input("Symptom 5 (Optional)")
 
-    st.write("if you want to book an appointment tomorrow, choose a convinient time for you")
-    question = "What time are you available tomorrow"
-    options = ["9AM", "10AM", "11AM", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM"]
+    st.write("If you want to book an appointment tomorrow, choose a convinient time for you")
+    question = "When do you want to book an appointment"
+    options = ['Monday','Tuesday','Wednestday','Thursday','Friday','Saturday']
     answer = st.selectbox(question, options)
 
-    if st.button("Tomorrow"):
+    if st.button("Schedule"):
         data=predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5)
-        avail = data[data[answer] == 1]
+        avail = data[data[answer] != "None"]
         if avail.empty:
             st.write("Sorry, nothing is available at the moment, please reach out again soon")
         else:
@@ -80,14 +83,16 @@ def main():
                 if avail.empty:
                     st.write("Sorry, nothing is available at the moment, please reach out again soon")
                 else:
-                    columns_to_drop = ['Availability', '9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5PM','Location']
+                    avail['Time Slot'] = avail[answer]
+                    columns_to_drop = ['Availability', 'Monday','Tuesday','Wednestday','Thursday','Friday','Saturday','Location']
                     avail=avail.drop(columns=columns_to_drop)
                     avail=avail.head(5)
-                    st.write(f"{Name}, The Doctors available tomorrow at your {answer} at {Location} are:")
+                    st.write(f"{Name}, The Doctors available on {answer} at {Location} are:")
                     st.write(avail)
-                    st.write("You can book an appointment tomorrow at your convinient time and location, or you can also have a quick video call or chat with one of our experts online by heading to the immediate page")
+                    avail = avail.reset_index()
+                    st.write(f"You can book an appointment on {answer} at the available time in {Location}, or you can also have a quick video call or chat with one of our experts online by heading to the immediate page")
 
-
+    st.write("Thank You for visiting us")
 if __name__=='__main__':
     main()
 

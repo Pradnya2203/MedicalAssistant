@@ -1,1001 +1,201 @@
-Name,Location,Specialization,Rating,Availability,9AM,10AM,11AM,12PM,1PM,2PM,3PM,4PM,5PM
-Dr. Elizabeth Baker,Dallas,Orthopedic Surgeon,2,0,1,0,0,0,0,0,1,1,0
-Dr. Noah Hill,Chicago,Neurologist,5,1,1,1,1,1,0,1,1,0,0
-Dr. Evelyn Cook,San Diego,Vascular Surgeon,1,0,1,0,1,1,0,1,1,1,0
-Dr. Ethan Coleman,New York,Orthopedic Surgeon,4,0,0,1,1,1,1,1,1,1,1
-Dr. Sophia Wright,Philadelphia,Cardiologist,2,0,0,0,1,1,1,0,0,0,0
-Dr. Chloe Stewart,New York,General Practitioner (GP),4,1,0,1,1,1,1,1,1,1,0
-Dr. Olivia Bailey,Phoenix,Allergist/Immunologist,3,0,1,1,0,1,1,1,0,0,0
-Dr. William Garcia,San Antonio,Rheumatologist,4,0,0,0,1,1,0,0,1,1,0
-Dr. Isabella Cook,Philadelphia,Pulmonologist,4,1,1,0,0,1,1,1,1,0,1
-Dr. Olivia Roberts,Los Angeles,Neurologist,3,0,0,1,0,1,0,1,0,1,0
-Dr. Olivia Davis,Houston,Orthopedic Surgeon,4,0,1,1,1,1,1,0,0,1,1
-Dr. James Martinez,San Antonio,Neurologist,4,0,1,0,0,1,0,0,1,1,0
-Dr. Ava Garcia,Chicago,Rheumatologist,2,1,0,0,0,1,1,0,0,0,0
-Dr. Olivia Coleman,Houston,Pharmacologist,3,0,0,1,0,1,0,1,0,1,1
-Dr. Amelia Anderson,New York,Urologist,2,1,0,1,0,1,0,0,1,0,0
-Dr. Charlotte Morris,Chicago,Proctologist,1,0,0,0,1,0,0,0,0,1,0
-Dr. Ava Wilson,Houston,General Practitioner (GP),3,1,1,0,1,1,0,1,0,1,1
-Dr. Sophia Hill,Dallas,Infectious Disease Specialist,4,1,0,1,0,1,0,0,1,0,1
-Dr. Daniel Evans,San Diego,Endocrinologist,3,0,0,0,0,0,0,0,0,1,0
-Dr. Charlotte Jones,Houston,Endocrinologist,2,1,1,1,0,1,1,1,1,1,0
-Dr. Mason Thompson,San Jose,Vascular Surgeon,4,0,0,0,1,1,1,1,0,1,0
-Dr. Ava Gonzalez,San Antonio,Allergist/Immunologist,2,1,0,0,0,0,1,0,1,1,0
-Dr. Jacob Carter,Los Angeles,Pulmonologist,5,0,0,0,0,1,0,1,0,0,1
-Dr. Olivia White,New York,Orthopedic Surgeon,5,0,0,1,0,0,1,0,0,0,1
-Dr. Elizabeth Rodriguez,Phoenix,Allergist/Immunologist,3,1,0,1,1,1,0,1,1,1,1
-Dr. Evelyn Gonzalez,Chicago,Orthopedic Surgeon,2,0,1,1,0,0,0,0,1,0,0
-Dr. Mason Martinez,Houston,Urologist,1,0,0,0,0,1,1,1,0,0,0
-Dr. Emily Roberts,San Antonio,"Ear, Nose, and Throat (ENT) Specialist",2,1,1,0,1,0,1,0,0,0,1
-Dr. William Rivera,San Diego,Orthopedic Surgeon,4,1,1,1,0,1,1,1,1,1,0
-Dr. Ethan Rodriguez,San Antonio,Cardiologist,3,1,1,1,0,1,1,0,0,0,1
-Dr. Olivia Perez,Los Angeles,"Ear, Nose, and Throat (ENT) Specialist",5,0,0,0,1,1,0,1,1,0,1
-Dr. Ethan Harris,Los Angeles,Orthopedic Surgeon,4,0,0,1,0,0,1,1,0,0,1
-Dr. Harper Baker,Los Angeles,Gastroenterologist,2,1,1,0,0,0,0,1,1,0,1
-Dr. James Lee,Phoenix,Pulmonologist,5,1,1,0,1,1,0,1,0,1,0
-Dr. Olivia Hall,Houston,"Ear, Nose, and Throat (ENT) Specialist",5,0,1,1,1,0,0,0,1,1,0
-Dr. William Mitchell,Chicago,Allergist/Immunologist,3,0,0,1,0,0,0,0,0,0,0
-Dr. Jacob Garcia,Los Angeles,Dermatologist,4,1,0,1,1,1,1,0,0,1,1
-Dr. Ava Gonzalez,Chicago,Pulmonologist,5,1,1,1,1,1,0,0,0,1,1
-Dr. Olivia Moore,San Diego,Gastroenterologist,1,0,0,1,1,1,1,1,0,0,0
-Dr. Olivia Adams,San Diego,Dermatologist,4,0,1,0,1,1,1,1,0,0,0
-Dr. Daniel Wilson,Los Angeles,Vascular Surgeon,4,0,1,1,1,0,1,0,1,1,1
-Dr. Ava Harris,Los Angeles,Rheumatologist,3,0,1,1,1,1,1,1,1,0,1
-Dr. Isabella White,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",3,1,1,0,0,1,0,0,1,0,0
-Dr. Emily Anderson,San Jose,Cardiologist,2,1,1,0,0,1,1,0,0,0,1
-Dr. Olivia Gonzalez,Chicago,Orthopedic Surgeon,2,0,0,1,1,1,1,0,0,0,0
-Dr. Charlotte Edwards,San Diego,Pulmonologist,4,1,1,1,1,1,0,1,0,1,0
-Dr. Olivia White,Phoenix,Allergist/Immunologist,5,1,1,1,1,1,0,1,0,0,1
-Dr. Mason Clark,San Diego,"Ear, Nose, and Throat (ENT) Specialist",1,1,0,0,1,0,0,1,0,1,0
-Dr. Ava Anderson,Phoenix,Allergist/Immunologist,1,1,1,0,1,0,1,1,0,0,0
-Dr. Chloe Johnson,Los Angeles,Allergist/Immunologist,3,1,1,0,0,1,1,0,0,1,0
-Dr. Ethan Brown,New York,"Ear, Nose, and Throat (ENT) Specialist",4,0,1,1,1,1,0,0,0,0,1
-Dr. Mia Coleman,Los Angeles,Endocrinologist,2,1,0,1,0,0,0,1,0,0,0
-Dr. Charlotte Lopez,New York,Neurologist,5,1,1,1,1,1,0,1,0,0,0
-Dr. Madison Rivera,Los Angeles,"Ear, Nose, and Throat (ENT) Specialist",5,1,0,0,1,1,1,1,1,1,1
-Dr. Harper Carter,Los Angeles,Dermatologist,5,0,1,0,1,0,1,1,1,1,1
-Dr. Aiden Gonzalez,San Jose,General Practitioner (GP),3,1,0,1,0,1,1,1,0,0,0
-Dr. Harper Williams,San Diego,Endocrinologist,3,1,1,1,0,0,0,1,1,1,1
-Dr. Isabella Thompson,Chicago,Pharmacologist,5,0,1,1,1,0,0,0,0,1,0
-Dr. Evelyn Clark,New York,Infectious Disease Specialist,4,0,0,0,0,0,1,1,0,1,0
-Dr. Amelia Morris,San Antonio,Allergist/Immunologist,1,0,1,1,1,0,1,1,0,0,0
-Dr. Emily Lee,Philadelphia,Vascular Surgeon,3,1,1,0,1,0,0,0,0,1,0
-Dr. Logan Gonzales,Dallas,Allergist/Immunologist,4,1,1,1,1,1,0,1,1,0,0
-Dr. Olivia Harris,Chicago,Proctologist,2,1,0,1,1,1,0,1,1,0,1
-Dr. Ava Carter,Houston,Dermatologist,3,1,1,0,0,0,1,1,0,0,0
-Dr. Madison Hernandez,San Antonio,Dermatologist,1,0,1,0,0,1,0,0,0,0,0
-Dr. Charlotte Mitchell,Philadelphia,Neurologist,2,0,0,1,0,1,0,0,0,0,0
-Dr. Harper Bailey,San Diego,Proctologist,1,0,1,0,1,0,0,0,1,1,1
-Dr. Matthew Taylor,San Antonio,Vascular Surgeon,2,0,1,0,1,0,0,1,0,0,0
-Dr. Olivia Stewart,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",5,0,0,0,1,0,0,1,0,0,1
-Dr. Olivia King,Houston,"Ear, Nose, and Throat (ENT) Specialist",3,1,0,0,1,1,1,1,0,0,0
-Dr. Harper Anderson,Dallas,Proctologist,3,1,0,1,0,1,1,0,0,0,1
-Dr. Amelia Davis,Houston,Infectious Disease Specialist,3,0,0,0,0,1,1,1,1,0,0
-Dr. Mia Nelson,San Jose,Cardiologist,4,0,0,1,0,0,1,0,1,1,1
-Dr. Benjamin Rivera,Houston,Dermatologist,4,0,1,0,1,1,0,1,1,1,0
-Dr. Harper Clark,Houston,Dermatologist,1,1,1,1,1,1,1,0,0,0,0
-Dr. Charlotte Lopez,Los Angeles,Urologist,1,1,1,1,1,0,0,0,0,0,1
-Dr. Ethan Evans,New York,Allergist/Immunologist,4,1,0,1,0,0,0,1,0,0,0
-Dr. Harper Perez,San Jose,Endocrinologist,1,1,0,1,0,0,0,1,0,1,1
-Dr. Ethan Evans,San Jose,Neurologist,1,1,0,0,1,1,1,0,0,1,0
-Dr. Emily Roberts,Houston,General Practitioner (GP),2,1,1,1,0,0,0,1,0,1,0
-Dr. Mia Roberts,Houston,Vascular Surgeon,3,0,1,1,1,0,1,0,1,1,0
-Dr. Logan Russell,San Diego,General Practitioner (GP),1,1,1,0,0,0,1,0,0,1,0
-Dr. Harper King,New York,Rheumatologist,2,0,1,1,0,1,1,1,0,0,1
-Dr. Benjamin King,New York,Cardiologist,1,0,0,1,1,1,0,1,1,0,0
-Dr. Daniel Lewis,Chicago,Orthopedic Surgeon,3,0,0,0,0,1,1,0,0,1,1
-Dr. Michael White,Dallas,Pharmacologist,3,1,1,0,0,0,0,1,1,0,0
-Dr. Elijah Scott,San Antonio,Pharmacologist,4,0,0,0,1,1,1,0,1,1,0
-Dr. Michael Morris,Dallas,Pharmacologist,1,0,0,0,0,0,0,1,0,1,1
-Dr. Mason Harris,San Antonio,Orthopedic Surgeon,3,1,0,1,0,0,0,0,1,1,1
-Dr. Benjamin Gonzales,Houston,Cardiologist,5,0,0,0,0,1,0,1,1,0,0
-Dr. Daniel Rivera,Dallas,Dermatologist,2,0,1,1,0,0,0,1,1,1,0
-Dr. Abigail Rivera,San Diego,Cardiologist,4,0,1,1,0,1,0,1,0,0,1
-Dr. Jacob Harris,Chicago,Endocrinologist,1,1,1,1,0,0,1,1,0,1,0
-Dr. Madison Stewart,Los Angeles,Proctologist,5,1,0,1,1,0,0,1,0,1,1
-Dr. Noah Taylor,San Jose,Proctologist,5,1,0,0,0,1,1,0,1,1,0
-Dr. Evelyn Hall,San Jose,Infectious Disease Specialist,4,1,1,1,1,0,1,1,1,0,1
-Dr. Alexander Jones,Phoenix,Vascular Surgeon,2,0,0,0,1,0,0,1,1,0,1
-Dr. Charlotte King,San Antonio,Cardiologist,2,1,1,0,1,1,1,1,1,1,0
-Dr. Matthew Morris,Chicago,Vascular Surgeon,5,0,0,1,1,1,1,0,1,1,0
-Dr. Jacob Scott,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",2,1,0,0,0,0,0,1,0,1,1
-Dr. Benjamin Anderson,San Jose,Rheumatologist,2,0,0,0,0,0,0,1,0,0,0
-Dr. Daniel Cook,Chicago,Gastroenterologist,1,0,0,0,1,1,0,0,0,0,0
-Dr. Ava Roberts,Dallas,General Practitioner (GP),1,1,0,0,1,1,0,1,0,0,0
-Dr. Logan Rivera,Phoenix,Vascular Surgeon,3,1,1,0,1,0,1,0,1,1,0
-Dr. Harper Anderson,San Diego,Pulmonologist,2,0,1,0,1,0,1,1,1,1,0
-Dr. Ethan Smith,San Diego,Pharmacologist,2,0,0,0,0,1,0,1,0,0,1
-Dr. Sophia Adams,Chicago,Cardiologist,3,1,0,1,0,0,0,0,1,1,1
-Dr. Benjamin Hill,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",5,1,1,1,0,1,0,1,0,0,0
-Dr. Mason Wright,San Antonio,Orthopedic Surgeon,4,1,1,0,1,1,0,1,0,1,1
-Dr. Olivia Wilson,Dallas,Infectious Disease Specialist,1,1,0,0,1,0,1,0,1,1,0
-Dr. Michael Martinez,Dallas,Gastroenterologist,5,0,0,0,1,0,1,1,0,0,1
-Dr. William Smith,San Diego,Infectious Disease Specialist,4,1,0,0,0,0,1,1,0,1,1
-Dr. Mia Russell,Houston,Urologist,2,1,0,0,0,1,0,0,1,1,1
-Dr. Michael King,Dallas,Cardiologist,2,0,0,0,0,1,1,0,0,1,1
-Dr. Alexander White,Phoenix,Orthopedic Surgeon,2,1,1,0,1,1,0,0,1,0,1
-Dr. William Stewart,Chicago,Neurologist,3,0,1,0,1,1,0,0,0,0,1
-Dr. Mia Hill,New York,Endocrinologist,3,0,1,0,1,1,1,1,0,1,1
-Dr. Harper Smith,Philadelphia,Endocrinologist,1,1,0,1,1,1,1,0,0,1,1
-Dr. Madison Stewart,Los Angeles,Cardiologist,2,1,1,0,1,0,1,0,0,0,0
-Dr. William Evans,Phoenix,Gastroenterologist,3,0,0,0,1,1,1,0,1,0,1
-Dr. Evelyn Wright,Houston,Gastroenterologist,5,0,0,1,0,1,0,1,0,1,0
-Dr. William Green,Houston,Dermatologist,5,0,0,0,0,0,0,1,0,0,0
-Dr. Ethan Jones,Philadelphia,Pulmonologist,3,0,0,1,0,0,0,0,1,0,0
-Dr. Benjamin Hernandez,Philadelphia,Infectious Disease Specialist,2,0,1,0,0,0,0,1,0,0,1
-Dr. Benjamin White,Los Angeles,Urologist,3,1,1,1,1,0,1,0,0,0,1
-Dr. Harper Evans,San Antonio,Endocrinologist,1,0,0,1,0,1,0,0,1,0,1
-Dr. Olivia Wilson,New York,Orthopedic Surgeon,1,0,0,0,1,0,0,1,0,0,0
-Dr. Daniel Baker,Phoenix,Rheumatologist,3,0,1,1,1,1,1,1,1,1,1
-Dr. Harper Lewis,Houston,Pharmacologist,4,1,1,0,1,1,1,0,0,1,0
-Dr. Jacob Morris,Chicago,Pharmacologist,4,1,1,0,1,0,1,0,1,0,1
-Dr. Jacob Lopez,Dallas,Gastroenterologist,4,0,1,0,0,1,0,1,0,1,1
-Dr. Jacob Murphy,Chicago,Neurologist,4,0,1,1,0,0,1,1,0,0,0
-Dr. Jacob Gonzales,Chicago,Orthopedic Surgeon,1,1,1,0,0,0,0,1,1,0,1
-Dr. Ethan Green,Philadelphia,Gastroenterologist,3,0,1,1,1,0,1,0,1,1,1
-Dr. Chloe Rodriguez,San Diego,Rheumatologist,1,0,1,0,0,1,1,0,1,0,0
-Dr. Madison Johnson,San Antonio,Proctologist,2,0,0,1,0,1,0,0,1,0,1
-Dr. Daniel King,Phoenix,Neurologist,4,1,1,0,1,1,0,0,1,0,1
-Dr. Jacob King,San Diego,Rheumatologist,5,1,0,0,1,0,1,0,1,1,0
-Dr. Daniel Green,Houston,Pharmacologist,1,0,0,1,1,0,1,0,0,0,0
-Dr. Harper Cook,San Antonio,General Practitioner (GP),1,0,0,0,0,1,1,1,0,0,1
-Dr. Benjamin Green,Phoenix,Endocrinologist,3,0,0,1,0,1,0,1,1,0,0
-Dr. Charlotte Scott,Philadelphia,Proctologist,4,1,0,1,0,0,0,0,0,0,0
-Dr. Aiden Harris,San Diego,Cardiologist,5,0,0,1,1,1,0,0,0,1,1
-Dr. Sophia Carter,Dallas,Allergist/Immunologist,1,0,0,0,0,1,1,1,0,0,1
-Dr. Jacob Hernandez,San Antonio,Vascular Surgeon,1,1,0,0,1,0,1,0,1,0,0
-Dr. Abigail Brown,San Diego,Neurologist,2,1,1,1,1,1,0,1,1,1,1
-Dr. Mia Nelson,New York,Urologist,2,0,0,1,0,0,1,0,0,0,1
-Dr. Isabella Thompson,Dallas,Rheumatologist,3,0,1,0,0,1,0,1,0,1,1
-Dr. Mason Hernandez,Philadelphia,Orthopedic Surgeon,5,0,0,1,0,0,1,1,0,0,0
-Dr. Benjamin Phillips,San Antonio,Endocrinologist,4,1,0,1,1,1,0,1,0,1,0
-Dr. Ava Brown,Dallas,Infectious Disease Specialist,3,0,1,0,1,0,1,0,1,0,1
-Dr. Emily Roberts,New York,Proctologist,3,1,1,0,1,0,1,1,1,1,1
-Dr. Aiden Lopez,San Antonio,Allergist/Immunologist,4,0,1,0,1,1,0,0,0,0,1
-Dr. William Hill,San Jose,Endocrinologist,1,0,1,0,0,1,0,1,0,0,0
-Dr. Olivia Taylor,Chicago,Pharmacologist,2,0,0,0,0,1,0,1,0,0,1
-Dr. Daniel Stewart,Chicago,"Ear, Nose, and Throat (ENT) Specialist",3,0,1,1,1,1,1,1,1,1,1
-Dr. William Thompson,Chicago,Orthopedic Surgeon,5,0,1,1,0,1,1,0,1,1,0
-Dr. Benjamin Bailey,San Jose,Neurologist,5,1,1,1,0,0,0,0,0,0,1
-Dr. Daniel Martinez,Dallas,Cardiologist,1,1,1,1,0,0,0,1,0,0,1
-Dr. Noah King,Phoenix,Dermatologist,2,1,1,1,1,1,1,0,0,0,1
-Dr. Harper Lopez,Phoenix,Rheumatologist,2,1,1,0,1,1,1,1,0,0,1
-Dr. Olivia Murphy,Los Angeles,Dermatologist,5,1,0,0,1,0,0,1,1,0,0
-Dr. Daniel Moore,Chicago,Orthopedic Surgeon,5,1,1,0,0,0,1,0,1,0,0
-Dr. Ethan Johnson,Philadelphia,Neurologist,4,1,1,0,1,0,0,1,0,1,0
-Dr. Daniel Lopez,Philadelphia,Rheumatologist,1,0,0,1,1,0,1,1,0,1,1
-Dr. Noah Coleman,San Jose,Pharmacologist,5,1,0,1,1,0,0,1,0,1,1
-Dr. Michael Miller,Dallas,Neurologist,4,1,1,0,0,0,0,0,1,1,1
-Dr. Amelia Baker,Los Angeles,Proctologist,3,0,1,1,0,0,1,1,1,0,1
-Dr. Michael Lee,Dallas,Vascular Surgeon,5,1,1,0,1,1,0,0,1,1,0
-Dr. Matthew King,Philadelphia,Allergist/Immunologist,1,1,1,1,0,1,1,1,0,0,1
-Dr. Chloe Nelson,San Jose,Cardiologist,2,0,0,1,0,0,0,1,1,0,1
-Dr. William Morris,Houston,General Practitioner (GP),5,1,0,0,1,1,0,1,0,1,0
-Dr. Benjamin Evans,Chicago,Pulmonologist,3,1,0,1,1,0,1,0,0,0,1
-Dr. Daniel Stewart,San Antonio,Vascular Surgeon,2,1,0,0,1,1,0,0,0,0,1
-Dr. Elijah Miller,Los Angeles,Vascular Surgeon,2,1,0,0,0,1,1,0,1,1,0
-Dr. Elizabeth Lee,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,1,0,1,0,0,1,0,0,0,0
-Dr. Emily Lewis,Philadelphia,Cardiologist,5,0,1,1,1,1,1,1,0,0,1
-Dr. Harper Carter,San Diego,Urologist,2,1,1,0,0,0,0,1,0,1,0
-Dr. Evelyn Gonzales,Los Angeles,General Practitioner (GP),4,0,0,0,0,1,1,0,1,0,0
-Dr. Mason Roberts,Los Angeles,General Practitioner (GP),1,1,1,0,1,0,0,1,1,1,0
-Dr. Harper Clark,Houston,Rheumatologist,1,1,0,1,1,1,1,0,1,1,1
-Dr. Harper Roberts,Dallas,Allergist/Immunologist,4,0,1,0,0,0,1,1,0,0,0
-Dr. Mia Evans,Houston,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,0,0,0,0,1,0,1,0
-Dr. Harper Johnson,Philadelphia,Neurologist,1,0,1,1,1,0,0,1,1,1,1
-Dr. Amelia Davis,Los Angeles,Orthopedic Surgeon,1,0,1,0,0,0,0,1,1,1,1
-Dr. Sophia Davis,Phoenix,Neurologist,5,1,1,0,1,0,1,1,1,0,0
-Dr. Michael Lopez,Philadelphia,Infectious Disease Specialist,2,0,1,1,1,0,1,1,0,1,1
-Dr. Isabella Harris,Dallas,Pharmacologist,5,0,1,0,0,1,0,0,1,0,1
-Dr. Mia Edwards,San Jose,Endocrinologist,5,1,0,1,1,0,0,1,1,0,0
-Dr. Madison Green,Dallas,"Ear, Nose, and Throat (ENT) Specialist",2,1,1,1,1,0,0,1,1,0,1
-Dr. Harper Jones,Los Angeles,Orthopedic Surgeon,1,0,0,1,1,0,0,0,0,1,1
-Dr. Aiden King,Los Angeles,Cardiologist,1,1,0,1,0,1,1,1,0,1,1
-Dr. Olivia Hernandez,Chicago,General Practitioner (GP),1,0,1,0,0,0,0,1,0,0,1
-Dr. Mason Johnson,Philadelphia,Cardiologist,1,0,1,0,1,1,0,1,1,1,0
-Dr. Ava Moore,Chicago,Rheumatologist,4,1,0,1,0,1,1,0,0,0,1
-Dr. Noah Miller,San Diego,Gastroenterologist,4,1,0,0,1,1,0,0,1,0,0
-Dr. Mia Lewis,San Jose,Cardiologist,5,1,0,0,0,0,0,0,1,1,0
-Dr. Mason Adams,Chicago,Vascular Surgeon,1,1,0,1,0,0,1,0,0,1,1
-Dr. Harper Davis,Chicago,Dermatologist,5,1,0,1,1,0,1,0,0,0,1
-Dr. Isabella Johnson,Philadelphia,Cardiologist,3,1,1,1,0,1,0,1,0,0,1
-Dr. Mason Bailey,Philadelphia,Urologist,4,1,1,0,0,1,0,1,1,0,0
-Dr. Harper Stewart,San Jose,Gastroenterologist,3,1,1,1,1,1,0,0,0,1,1
-Dr. Amelia Perez,Dallas,Allergist/Immunologist,3,0,0,0,0,1,1,1,0,0,1
-Dr. Abigail Scott,Chicago,Allergist/Immunologist,3,1,1,0,1,0,0,1,1,1,0
-Dr. Charlotte Russell,San Jose,Urologist,1,1,1,0,0,1,0,0,0,1,1
-Dr. Chloe Martinez,Houston,General Practitioner (GP),5,1,1,1,0,0,1,1,1,0,0
-Dr. Olivia Anderson,Los Angeles,Pulmonologist,2,1,1,0,1,0,1,1,0,0,0
-Dr. Evelyn Nelson,San Jose,Allergist/Immunologist,1,1,1,1,1,1,0,1,0,1,0
-Dr. Ava Wright,San Diego,Urologist,3,1,0,1,1,1,0,1,1,1,1
-Dr. Amelia Adams,Los Angeles,Neurologist,2,1,0,1,0,1,0,1,1,0,0
-Dr. William Garcia,Dallas,Neurologist,5,0,0,0,0,0,0,1,1,0,1
-Dr. Harper Thompson,Dallas,"Ear, Nose, and Throat (ENT) Specialist",3,1,1,1,1,0,0,1,1,1,1
-Dr. Amelia Johnson,Phoenix,Neurologist,1,0,0,0,1,1,0,0,1,1,1
-Dr. James Russell,Dallas,Neurologist,3,1,0,0,0,1,0,0,0,1,0
-Dr. Aiden Brown,Phoenix,Vascular Surgeon,3,0,1,1,1,1,0,1,1,0,0
-Dr. Sophia Moore,Houston,Pharmacologist,2,0,0,1,0,0,1,1,1,0,1
-Dr. Aiden Roberts,Houston,Endocrinologist,4,0,1,1,1,1,1,0,1,1,1
-Dr. Olivia Perez,Los Angeles,General Practitioner (GP),3,0,1,1,1,0,0,1,0,1,0
-Dr. Chloe Nelson,San Antonio,Gastroenterologist,2,1,1,0,1,0,1,1,1,1,0
-Dr. Sophia Rodriguez,Philadelphia,Rheumatologist,5,0,0,0,0,0,1,0,0,0,1
-Dr. Elijah Roberts,San Antonio,Urologist,3,0,1,0,1,1,0,0,1,0,0
-Dr. Matthew Carter,Chicago,Pharmacologist,5,1,0,0,1,1,1,0,1,0,1
-Dr. Olivia Murphy,San Diego,Vascular Surgeon,2,0,0,0,1,0,1,0,0,1,0
-Dr. Sophia Wilson,New York,Cardiologist,4,1,1,1,1,0,0,1,1,1,1
-Dr. Matthew Bailey,San Diego,Cardiologist,5,0,0,1,1,1,1,1,0,1,0
-Dr. Daniel Smith,Chicago,Pulmonologist,4,0,1,0,1,0,1,0,0,0,1
-Dr. Mia Gonzalez,San Antonio,Infectious Disease Specialist,3,0,1,0,0,1,0,0,0,0,0
-Dr. Ethan Rivera,Chicago,Infectious Disease Specialist,4,1,1,0,1,0,0,1,1,0,1
-Dr. Charlotte Davis,Houston,Neurologist,5,1,0,0,1,0,1,0,1,1,0
-Dr. Isabella Moore,New York,Infectious Disease Specialist,5,0,1,0,1,0,1,1,0,1,1
-Dr. Aiden Anderson,San Antonio,Allergist/Immunologist,4,1,0,0,1,0,0,0,0,1,0
-Dr. Isabella Russell,New York,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,1,0,0,1,0,0,1,1
-Dr. Mia Rivera,San Jose,Dermatologist,1,1,1,0,1,0,0,0,0,1,1
-Dr. Michael Murphy,Houston,"Ear, Nose, and Throat (ENT) Specialist",2,1,0,0,0,0,1,1,1,0,1
-Dr. Benjamin Jones,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,1,0,1,1,0,0,0,0
-Dr. Noah Jones,Los Angeles,"Ear, Nose, and Throat (ENT) Specialist",3,1,1,1,1,1,1,0,1,0,1
-Dr. William Lewis,Chicago,Dermatologist,4,1,0,0,1,1,0,0,0,1,0
-Dr. Madison Hernandez,Dallas,Allergist/Immunologist,4,1,0,0,0,0,1,1,1,1,0
-Dr. Ava Jones,Los Angeles,Pharmacologist,1,0,0,1,0,0,1,1,1,1,0
-Dr. Lucas Harris,Dallas,Dermatologist,1,0,0,1,0,1,1,1,0,1,0
-Dr. Evelyn Cook,San Diego,Vascular Surgeon,3,0,1,1,1,0,0,0,0,1,0
-Dr. Jacob Perez,Dallas,General Practitioner (GP),4,0,1,1,1,0,1,1,0,0,1
-Dr. Ethan Harris,San Antonio,Urologist,1,0,1,0,0,0,0,0,0,0,1
-Dr. Daniel Adams,San Diego,Proctologist,4,1,0,1,0,0,1,1,1,1,0
-Dr. Elizabeth Adams,Philadelphia,General Practitioner (GP),1,1,1,0,1,0,1,1,0,1,1
-Dr. Harper Green,Dallas,Pulmonologist,2,0,1,0,1,1,1,1,1,0,0
-Dr. Harper Rodriguez,Los Angeles,Gastroenterologist,1,1,0,1,0,1,1,1,1,1,0
-Dr. Lucas Evans,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",5,0,1,1,0,0,1,0,1,1,0
-Dr. Elijah White,New York,"Ear, Nose, and Throat (ENT) Specialist",1,0,0,0,0,0,1,1,1,1,1
-Dr. Madison Hernandez,San Jose,General Practitioner (GP),3,0,1,0,1,1,1,1,0,1,0
-Dr. Benjamin Lopez,New York,Rheumatologist,3,1,1,0,0,0,0,1,0,1,1
-Dr. Amelia Rodriguez,Dallas,Proctologist,1,1,1,0,0,1,0,0,0,1,0
-Dr. Olivia Wright,Dallas,Pharmacologist,5,0,1,1,0,0,1,0,1,1,1
-Dr. Abigail Gonzalez,San Jose,Vascular Surgeon,1,0,1,0,1,0,1,0,0,0,0
-Dr. Abigail Miller,Philadelphia,Cardiologist,5,1,1,0,0,1,0,1,1,1,0
-Dr. Emily Scott,New York,Cardiologist,1,1,0,1,0,0,1,1,0,0,0
-Dr. Ava King,Houston,Allergist/Immunologist,4,0,0,1,1,0,0,0,1,0,0
-Dr. Evelyn Brown,Chicago,Cardiologist,4,1,0,0,0,0,1,0,1,0,1
-Dr. Mason Anderson,Phoenix,Urologist,2,1,0,0,0,0,0,1,1,0,1
-Dr. Mia Baker,San Diego,Endocrinologist,1,1,1,1,0,1,0,0,0,0,1
-Dr. Ethan Morris,Philadelphia,Pulmonologist,2,1,0,1,0,1,0,0,0,0,1
-Dr. Alexander Nelson,Phoenix,Infectious Disease Specialist,3,0,1,1,1,0,0,0,1,1,1
-Dr. Benjamin Moore,Philadelphia,Pharmacologist,4,0,1,0,0,0,0,0,1,0,1
-Dr. Sophia Anderson,New York,Rheumatologist,2,1,0,0,0,0,0,1,0,0,0
-Dr. Elijah Lee,Chicago,Endocrinologist,1,1,0,1,0,0,1,0,0,1,0
-Dr. Sophia Harris,Philadelphia,Infectious Disease Specialist,1,0,1,0,0,1,0,1,0,1,0
-Dr. Ava Taylor,Los Angeles,Pharmacologist,3,0,0,0,1,0,1,0,0,1,1
-Dr. Ava Lee,Chicago,Urologist,5,0,0,1,1,1,0,0,0,0,1
-Dr. Amelia Rodriguez,Chicago,General Practitioner (GP),1,1,1,0,1,0,1,0,1,0,0
-Dr. Mason Hill,Philadelphia,Allergist/Immunologist,1,1,0,1,1,1,1,1,1,1,1
-Dr. William Garcia,Phoenix,Infectious Disease Specialist,5,0,1,0,0,0,0,0,1,1,0
-Dr. Daniel Gonzales,New York,Gastroenterologist,3,0,0,1,0,1,1,1,0,0,1
-Dr. Logan Thompson,San Diego,General Practitioner (GP),3,1,1,1,0,0,1,1,0,1,0
-Dr. Benjamin Roberts,Dallas,Cardiologist,4,0,1,1,1,1,0,0,1,1,1
-Dr. Harper Wilson,Los Angeles,Gastroenterologist,2,0,1,1,0,1,1,1,0,1,0
-Dr. Logan White,San Diego,Pulmonologist,1,1,0,1,0,0,0,1,1,0,1
-Dr. Harper Jones,Chicago,Dermatologist,3,0,1,1,0,1,0,1,0,0,0
-Dr. Ethan Jones,San Jose,Cardiologist,5,1,0,1,0,0,0,0,1,0,1
-Dr. Chloe Coleman,Dallas,General Practitioner (GP),3,0,1,1,0,1,0,0,0,0,0
-Dr. Alexander Nelson,New York,Vascular Surgeon,3,1,0,0,0,0,1,0,0,1,0
-Dr. William Perez,Philadelphia,Proctologist,3,1,1,0,1,1,0,1,1,0,1
-Dr. Aiden Perez,Chicago,Vascular Surgeon,2,0,1,1,1,0,0,0,0,1,1
-Dr. Aiden Scott,Phoenix,Pulmonologist,1,1,1,1,0,0,1,1,0,1,1
-Dr. Evelyn Lewis,San Antonio,Rheumatologist,5,1,1,1,1,1,1,0,1,1,1
-Dr. Michael Perez,San Jose,Urologist,1,1,0,1,0,1,1,1,0,1,0
-Dr. Evelyn Nelson,Philadelphia,Proctologist,2,1,1,0,1,1,0,0,1,1,0
-Dr. Lucas Stewart,New York,Rheumatologist,1,0,0,0,0,0,1,1,1,0,0
-Dr. Evelyn Rodriguez,Philadelphia,Cardiologist,3,1,1,1,1,1,0,1,1,0,1
-Dr. Olivia Taylor,San Antonio,Gastroenterologist,3,0,1,1,1,1,1,1,0,0,0
-Dr. Michael Lee,Los Angeles,Infectious Disease Specialist,2,1,1,1,1,1,1,1,0,0,1
-Dr. Sophia Perez,San Jose,Infectious Disease Specialist,1,1,1,0,1,0,1,0,1,1,0
-Dr. Mason Green,San Antonio,Vascular Surgeon,5,0,1,1,0,0,1,0,0,1,0
-Dr. Abigail White,New York,Neurologist,4,0,0,0,1,0,1,1,0,1,0
-Dr. Madison Perez,San Antonio,Proctologist,5,0,1,0,1,0,1,1,0,1,0
-Dr. Harper King,Chicago,Urologist,4,1,0,1,1,1,0,0,0,0,0
-Dr. Alexander Thompson,Chicago,Pulmonologist,2,0,0,1,1,1,1,0,1,0,0
-Dr. Alexander Edwards,San Jose,Gastroenterologist,5,1,0,0,0,1,1,1,0,1,1
-Dr. Jacob Phillips,Chicago,Dermatologist,3,0,1,1,1,0,1,0,1,0,1
-Dr. William Adams,Chicago,Pulmonologist,1,0,0,0,0,0,1,0,1,1,1
-Dr. Charlotte White,San Diego,Proctologist,1,0,1,0,1,1,1,1,0,0,0
-Dr. Mia Phillips,Dallas,Infectious Disease Specialist,4,0,1,1,1,0,0,1,0,0,0
-Dr. Olivia Bailey,Chicago,Endocrinologist,2,1,1,1,0,0,0,1,1,1,0
-Dr. Harper Moore,Dallas,Allergist/Immunologist,1,0,1,0,0,0,0,0,1,0,0
-Dr. Olivia Murphy,New York,Rheumatologist,2,0,0,1,0,0,0,0,1,1,0
-Dr. Emily Anderson,San Antonio,General Practitioner (GP),5,0,0,1,1,0,0,0,1,0,1
-Dr. Ava Carter,New York,Pharmacologist,1,1,1,1,0,1,0,0,1,0,0
-Dr. Ethan Smith,New York,Dermatologist,2,1,0,0,0,0,0,0,1,0,1
-Dr. Amelia Morris,Philadelphia,Allergist/Immunologist,1,1,0,1,0,1,0,0,0,1,1
-Dr. Sophia Davis,Philadelphia,Gastroenterologist,2,0,1,0,1,1,0,0,0,0,0
-Dr. Mia Stewart,Houston,Allergist/Immunologist,1,0,0,1,1,0,1,1,0,0,0
-Dr. James King,Philadelphia,General Practitioner (GP),1,1,0,1,1,1,1,1,1,0,1
-Dr. Harper Adams,Philadelphia,Gastroenterologist,2,1,0,1,0,0,0,1,0,0,0
-Dr. Mason Harris,Phoenix,Endocrinologist,4,1,0,0,0,1,0,1,1,1,0
-Dr. Ava Perez,Houston,Proctologist,3,1,1,0,0,1,1,1,1,0,0
-Dr. Chloe Rodriguez,Houston,Rheumatologist,2,1,0,1,1,1,0,0,0,0,0
-Dr. Michael Green,Dallas,Cardiologist,1,1,0,0,1,0,0,1,0,1,1
-Dr. Noah Nelson,Houston,General Practitioner (GP),5,1,0,1,1,0,1,1,0,1,0
-Dr. Benjamin Moore,Dallas,"Ear, Nose, and Throat (ENT) Specialist",3,0,1,1,1,1,0,0,1,0,0
-Dr. Amelia Bailey,Houston,Orthopedic Surgeon,2,0,0,1,0,0,1,0,0,1,0
-Dr. Abigail Phillips,Dallas,Neurologist,1,1,1,1,1,0,0,1,0,0,0
-Dr. Sophia Rivera,Houston,Gastroenterologist,2,1,1,1,0,1,1,0,1,0,1
-Dr. Aiden Taylor,Los Angeles,Infectious Disease Specialist,2,0,1,0,0,1,1,0,0,1,0
-Dr. Ava Rodriguez,San Diego,Gastroenterologist,3,0,1,1,1,1,1,0,1,0,1
-Dr. William Edwards,Phoenix,Pharmacologist,4,0,0,0,1,1,1,1,1,1,0
-Dr. Evelyn Smith,Philadelphia,Proctologist,1,0,1,0,1,0,0,1,0,1,0
-Dr. Harper Martinez,Los Angeles,Orthopedic Surgeon,2,0,0,0,1,1,1,0,1,0,0
-Dr. Mason Thompson,Dallas,Allergist/Immunologist,4,0,1,0,0,1,0,0,0,1,1
-Dr. Daniel Moore,Phoenix,Vascular Surgeon,2,1,1,0,1,0,1,0,0,1,1
-Dr. James Hall,Philadelphia,Urologist,3,1,0,0,1,0,1,0,0,0,1
-Dr. Abigail Hall,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,0,1,1,1,1,1,1,0
-Dr. Daniel Hernandez,Phoenix,General Practitioner (GP),2,0,0,1,1,1,0,0,0,0,1
-Dr. Charlotte White,San Jose,Endocrinologist,1,0,0,1,0,0,1,1,1,1,1
-Dr. Aiden Williams,Phoenix,Dermatologist,1,0,1,1,1,1,0,0,1,0,1
-Dr. Michael Phillips,Phoenix,Proctologist,5,0,0,1,0,1,0,1,1,0,0
-Dr. Isabella Carter,Los Angeles,General Practitioner (GP),2,0,0,1,0,0,0,0,1,1,0
-Dr. Harper Carter,Houston,Infectious Disease Specialist,1,1,0,0,1,1,1,0,1,1,0
-Dr. Aiden Adams,New York,Proctologist,1,0,0,0,1,0,0,1,0,1,1
-Dr. Abigail Moore,New York,Infectious Disease Specialist,5,0,0,1,0,1,1,1,1,1,0
-Dr. William Anderson,Los Angeles,Pulmonologist,3,0,0,0,1,0,1,1,0,0,1
-Dr. Amelia Wright,Philadelphia,Infectious Disease Specialist,5,0,0,1,1,0,1,1,0,1,0
-Dr. Olivia Nelson,Dallas,Gastroenterologist,5,1,1,0,0,1,1,0,1,1,1
-Dr. Mia Perez,Philadelphia,Gastroenterologist,5,0,1,0,1,1,0,0,1,1,1
-Dr. Olivia Harris,San Antonio,Rheumatologist,1,0,0,0,0,1,1,0,0,1,0
-Dr. Daniel Nelson,San Jose,Infectious Disease Specialist,4,0,1,0,1,0,1,1,0,1,1
-Dr. Olivia Brown,San Antonio,Dermatologist,2,1,1,0,0,0,0,0,0,1,0
-Dr. Alexander Thompson,Chicago,Orthopedic Surgeon,4,1,1,0,0,1,1,1,1,1,1
-Dr. Emily Roberts,Chicago,Pulmonologist,5,1,0,0,1,0,0,0,0,1,1
-Dr. Daniel Rodriguez,Chicago,Proctologist,3,1,1,1,1,1,1,0,0,0,1
-Dr. Ava Gonzalez,Dallas,Pharmacologist,2,0,0,1,1,1,0,0,1,1,0
-Dr. Jacob Williams,Houston,Allergist/Immunologist,4,0,0,1,0,0,0,1,0,0,1
-Dr. Olivia King,San Diego,General Practitioner (GP),1,0,1,1,0,1,1,1,0,1,1
-Dr. Lucas Perez,Los Angeles,"Ear, Nose, and Throat (ENT) Specialist",4,0,1,1,0,1,1,0,1,1,0
-Dr. William Nelson,Los Angeles,Rheumatologist,1,1,0,1,0,0,1,0,0,1,0
-Dr. Sophia Evans,Dallas,Gastroenterologist,5,0,1,0,0,0,1,1,1,0,1
-Dr. Jacob Hill,Philadelphia,Neurologist,2,1,0,0,1,1,0,1,0,0,1
-Dr. Alexander Nelson,Los Angeles,General Practitioner (GP),1,0,0,1,0,0,0,1,0,0,0
-Dr. Olivia Edwards,San Jose,Cardiologist,5,1,1,0,0,0,0,1,0,1,0
-Dr. Ethan Wilson,Chicago,Neurologist,2,0,1,1,1,0,1,1,0,0,0
-Dr. Benjamin White,Phoenix,Rheumatologist,2,0,0,0,0,1,1,1,1,0,0
-Dr. Charlotte Gonzales,Dallas,Urologist,4,1,0,0,0,1,0,0,0,1,1
-Dr. Daniel Smith,Houston,"Ear, Nose, and Throat (ENT) Specialist",3,1,0,1,0,0,0,1,1,1,1
-Dr. Sophia Lee,Phoenix,Orthopedic Surgeon,1,1,0,1,1,1,0,0,0,1,1
-Dr. Elizabeth Brown,San Antonio,Cardiologist,2,0,0,0,1,0,0,1,1,0,1
-Dr. Michael Bailey,San Jose,Gastroenterologist,4,1,1,0,1,1,0,1,0,1,1
-Dr. Sophia Johnson,San Jose,Gastroenterologist,4,1,0,0,0,1,1,0,1,0,1
-Dr. Harper Scott,Dallas,"Ear, Nose, and Throat (ENT) Specialist",2,0,1,1,1,1,0,1,0,0,0
-Dr. Emily Garcia,San Antonio,Dermatologist,1,1,1,1,0,1,1,0,1,1,0
-Dr. Emily Morris,San Diego,Dermatologist,1,1,0,0,0,0,0,0,0,1,1
-Dr. Ava Hall,San Diego,Gastroenterologist,4,1,0,0,1,0,0,0,0,1,1
-Dr. Benjamin Bailey,Dallas,Cardiologist,5,1,1,0,1,0,0,1,0,0,0
-Dr. Daniel Gonzalez,San Jose,General Practitioner (GP),3,1,1,0,0,0,1,1,0,0,0
-Dr. Charlotte Rodriguez,New York,General Practitioner (GP),2,1,0,1,0,0,0,1,0,1,0
-Dr. Jacob Martinez,Phoenix,Pharmacologist,1,1,1,0,0,0,1,0,0,1,0
-Dr. Olivia Coleman,Houston,General Practitioner (GP),4,0,1,1,1,1,1,1,1,1,0
-Dr. Lucas Thompson,San Antonio,Gastroenterologist,3,0,1,0,1,0,0,0,0,1,1
-Dr. Michael Russell,Los Angeles,Cardiologist,4,1,0,1,0,0,0,0,1,1,1
-Dr. Aiden Jones,San Antonio,Vascular Surgeon,2,0,0,1,1,1,0,0,1,1,0
-Dr. Evelyn Stewart,Dallas,Pulmonologist,2,0,0,0,0,0,0,0,0,1,1
-Dr. Sophia Murphy,Phoenix,Cardiologist,2,0,1,1,1,1,1,0,0,0,0
-Dr. Mason Roberts,San Diego,Allergist/Immunologist,3,0,1,1,1,0,1,1,1,1,1
-Dr. Chloe Bailey,Chicago,Gastroenterologist,5,1,1,1,1,1,0,1,1,1,1
-Dr. Mason Miller,Houston,Cardiologist,4,1,1,0,1,1,0,1,1,0,0
-Dr. Michael Edwards,Phoenix,Pulmonologist,3,0,0,1,0,0,0,0,0,0,1
-Dr. Mason Miller,Dallas,"Ear, Nose, and Throat (ENT) Specialist",2,1,0,0,1,0,1,1,1,0,1
-Dr. Alexander Nelson,Houston,Pulmonologist,2,0,0,1,0,0,1,1,1,0,1
-Dr. Mia Hill,San Diego,Neurologist,5,1,0,1,1,1,0,1,0,1,1
-Dr. Madison Lopez,Dallas,Vascular Surgeon,1,1,1,1,0,1,0,0,1,1,1
-Dr. Emily Moore,San Jose,Pulmonologist,1,0,1,0,1,1,1,0,1,0,0
-Dr. Mia Rodriguez,San Jose,Allergist/Immunologist,1,1,0,1,1,0,1,0,0,0,0
-Dr. Jacob Roberts,San Jose,Urologist,5,0,1,0,1,1,0,0,0,1,0
-Dr. Logan King,Chicago,Vascular Surgeon,2,1,0,1,1,0,1,0,0,0,1
-Dr. Alexander Coleman,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",3,0,1,1,1,1,1,1,1,0,1
-Dr. Madison Brown,Phoenix,Rheumatologist,4,1,0,0,1,1,0,1,1,0,0
-Dr. Evelyn Wright,San Diego,Infectious Disease Specialist,4,0,0,1,0,0,1,0,1,1,0
-Dr. Michael Morris,San Jose,Orthopedic Surgeon,3,1,0,0,0,0,1,1,0,1,0
-Dr. Mason Perez,Phoenix,Proctologist,4,1,0,0,0,0,0,0,0,1,0
-Dr. Elizabeth Anderson,Philadelphia,Infectious Disease Specialist,4,0,0,1,0,1,0,1,0,0,1
-Dr. Jacob White,Los Angeles,Infectious Disease Specialist,2,0,0,0,0,0,1,0,1,1,0
-Dr. Matthew Taylor,Phoenix,Vascular Surgeon,2,0,1,1,1,0,1,0,1,1,1
-Dr. Emily White,Dallas,Dermatologist,1,1,1,1,0,0,1,0,0,0,0
-Dr. Mia Roberts,Dallas,Neurologist,2,0,0,1,0,0,0,1,0,1,0
-Dr. Lucas Brown,New York,Neurologist,4,0,1,1,0,1,0,0,1,0,0
-Dr. Benjamin Lewis,Houston,Proctologist,5,0,0,0,0,0,0,1,1,1,1
-Dr. Charlotte Roberts,San Diego,Urologist,5,1,1,0,1,1,1,0,1,1,1
-Dr. Daniel Taylor,New York,Rheumatologist,2,0,1,1,0,1,0,0,1,0,0
-Dr. Sophia Lee,Houston,Pharmacologist,3,0,1,1,1,0,0,1,0,1,0
-Dr. Ethan Perez,Chicago,Cardiologist,1,1,0,0,0,1,1,1,1,0,0
-Dr. Alexander Miller,San Antonio,Allergist/Immunologist,1,0,0,0,0,1,0,0,1,1,0
-Dr. Harper Miller,Dallas,Urologist,5,0,1,0,0,0,0,0,1,1,1
-Dr. Daniel Green,Los Angeles,"Ear, Nose, and Throat (ENT) Specialist",3,0,0,1,0,0,0,1,0,1,0
-Dr. Ethan Edwards,New York,Dermatologist,3,1,0,1,0,1,1,0,1,1,0
-Dr. Emily Cook,Philadelphia,Neurologist,4,1,1,0,1,1,0,1,0,0,0
-Dr. Ethan Hall,San Jose,Dermatologist,4,0,1,1,0,1,1,1,0,0,0
-Dr. Olivia Adams,Los Angeles,Vascular Surgeon,3,0,1,0,1,0,0,0,1,0,1
-Dr. Benjamin Hernandez,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",3,1,1,1,1,1,0,0,0,1,0
-Dr. Olivia Brown,San Antonio,Orthopedic Surgeon,5,1,1,0,1,1,1,0,0,0,1
-Dr. Logan Perez,Dallas,Cardiologist,2,1,1,0,0,0,1,0,0,1,0
-Dr. Mason Wright,Philadelphia,Rheumatologist,3,1,1,0,1,0,1,1,0,1,0
-Dr. Ava King,San Antonio,General Practitioner (GP),2,0,1,0,0,1,1,0,0,1,1
-Dr. Mia Moore,Philadelphia,Urologist,3,1,0,1,1,0,0,0,0,1,0
-Dr. Daniel Lopez,Chicago,Rheumatologist,1,0,1,0,1,0,0,1,1,0,0
-Dr. Michael Baker,Houston,Pulmonologist,2,1,1,1,1,1,1,1,1,0,0
-Dr. Ethan Clark,Dallas,Neurologist,1,1,0,0,0,0,1,1,1,0,0
-Dr. Matthew Wilson,Chicago,Pharmacologist,1,0,0,1,0,0,1,0,1,0,0
-Dr. Elizabeth Wilson,Houston,Rheumatologist,3,1,0,1,1,1,0,1,0,0,1
-Dr. Harper Williams,Philadelphia,Allergist/Immunologist,4,1,0,1,1,1,0,0,0,1,1
-Dr. Lucas Harris,San Diego,Neurologist,5,1,0,0,0,1,1,0,1,0,1
-Dr. Aiden Green,Chicago,General Practitioner (GP),4,1,0,1,1,1,0,0,0,1,0
-Dr. Noah Thompson,Philadelphia,Allergist/Immunologist,3,1,0,1,1,1,1,0,0,1,1
-Dr. Mia Davis,Phoenix,Pharmacologist,2,0,0,1,1,1,0,0,1,0,0
-Dr. Charlotte Lopez,Philadelphia,Dermatologist,2,1,1,1,1,1,0,0,1,0,1
-Dr. Amelia Williams,Philadelphia,Gastroenterologist,2,1,1,0,0,1,0,1,0,0,0
-Dr. Jacob Anderson,Houston,Orthopedic Surgeon,4,1,0,1,1,0,1,1,0,1,0
-Dr. Emily Rodriguez,Houston,Infectious Disease Specialist,3,1,0,0,0,1,0,1,1,1,1
-Dr. Noah Evans,Chicago,Proctologist,2,1,1,1,1,0,0,1,1,1,1
-Dr. Chloe Martinez,San Jose,Vascular Surgeon,3,1,1,0,1,0,1,0,1,0,0
-Dr. Mason Adams,Chicago,Neurologist,1,0,0,1,1,1,1,1,1,1,0
-Dr. Sophia Phillips,San Diego,Rheumatologist,2,1,1,0,0,0,1,0,1,1,1
-Dr. Charlotte Anderson,Los Angeles,Allergist/Immunologist,4,1,0,0,0,1,1,1,0,0,0
-Dr. Madison Moore,Phoenix,Cardiologist,4,0,1,1,0,1,1,0,1,0,1
-Dr. Harper Bailey,Houston,Proctologist,1,1,0,0,1,1,1,1,1,1,0
-Dr. Ethan Williams,San Antonio,Neurologist,3,1,0,0,0,0,1,0,0,0,0
-Dr. Daniel Harris,Dallas,Rheumatologist,2,1,0,0,0,0,1,1,0,0,1
-Dr. Elizabeth Evans,Chicago,Urologist,5,1,1,0,0,1,1,1,1,0,0
-Dr. Michael Davis,San Diego,Pharmacologist,3,0,0,0,1,1,0,1,0,1,0
-Dr. Ava Edwards,San Jose,"Ear, Nose, and Throat (ENT) Specialist",3,1,1,1,0,0,1,1,1,0,0
-Dr. Harper Garcia,Chicago,Dermatologist,5,1,0,0,0,1,1,0,0,1,1
-Dr. Daniel Martinez,San Jose,Orthopedic Surgeon,3,1,0,1,1,1,0,1,0,1,1
-Dr. Michael White,San Diego,Rheumatologist,5,0,1,1,1,0,1,0,1,1,1
-Dr. Jacob Hill,Los Angeles,Cardiologist,4,0,0,1,0,1,0,0,1,0,1
-Dr. Harper Carter,San Diego,Infectious Disease Specialist,2,1,1,1,1,0,0,1,0,0,1
-Dr. Ava Moore,San Antonio,Allergist/Immunologist,4,1,0,1,1,0,0,0,1,1,0
-Dr. Ava White,Houston,Pulmonologist,2,1,1,1,1,0,0,0,0,1,1
-Dr. Sophia Lopez,San Antonio,Proctologist,2,0,1,1,1,0,1,1,0,0,1
-Dr. Madison Hill,Dallas,Allergist/Immunologist,3,0,0,0,1,0,1,0,0,0,0
-Dr. William Wright,Los Angeles,Pulmonologist,5,1,0,0,0,1,1,0,1,0,0
-Dr. Michael Brown,Los Angeles,Orthopedic Surgeon,2,1,1,0,1,0,0,0,1,1,1
-Dr. Noah Rodriguez,San Jose,Rheumatologist,4,0,1,0,1,0,1,1,0,1,1
-Dr. Isabella Martinez,Dallas,Proctologist,1,1,0,0,0,0,0,0,0,1,1
-Dr. Matthew Lee,Chicago,Endocrinologist,4,1,0,0,0,0,1,0,1,1,0
-Dr. Isabella Hernandez,San Diego,Pharmacologist,1,1,1,1,0,0,1,0,1,1,1
-Dr. Daniel Morris,Chicago,Gastroenterologist,1,1,0,0,0,0,0,1,1,0,0
-Dr. Olivia Russell,Chicago,Cardiologist,3,0,1,1,1,0,0,0,0,1,0
-Dr. Sophia Cook,San Antonio,Allergist/Immunologist,3,1,0,0,0,0,0,0,0,1,0
-Dr. Ava Thompson,Phoenix,Orthopedic Surgeon,5,1,1,1,0,0,0,1,0,0,0
-Dr. Emily Cook,Dallas,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,1,1,1,0,0,0,0,0
-Dr. Emily Martinez,San Antonio,Pulmonologist,4,1,0,1,0,0,0,1,0,1,1
-Dr. Ava Mitchell,San Diego,Pulmonologist,2,0,0,1,0,1,1,1,1,1,1
-Dr. Ethan Coleman,Dallas,Pulmonologist,5,1,1,1,1,0,1,0,1,0,1
-Dr. Logan Russell,Phoenix,Urologist,2,1,0,1,0,1,0,0,0,1,0
-Dr. Benjamin Harris,Phoenix,Proctologist,4,1,1,0,0,0,0,1,1,0,1
-Dr. Alexander Scott,Los Angeles,Proctologist,2,0,1,1,0,0,1,0,1,1,0
-Dr. Elijah Coleman,San Diego,Dermatologist,4,1,1,0,1,1,1,0,0,0,0
-Dr. Ethan Murphy,San Jose,General Practitioner (GP),4,0,1,0,0,0,0,0,1,1,0
-Dr. Ethan Bailey,Phoenix,Pharmacologist,1,0,0,0,1,0,1,0,1,0,1
-Dr. Elizabeth Edwards,New York,General Practitioner (GP),5,1,1,0,1,1,0,1,1,1,0
-Dr. Chloe Williams,Los Angeles,Rheumatologist,1,1,0,1,1,0,1,0,1,1,0
-Dr. Jacob Lewis,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",1,0,0,0,1,1,0,1,1,0,1
-Dr. Noah Gonzalez,Dallas,Urologist,4,0,1,0,0,0,0,0,0,1,0
-Dr. Emily Martinez,New York,Pulmonologist,1,0,1,0,0,1,0,0,0,1,1
-Dr. Mason Lewis,San Antonio,Dermatologist,3,0,0,0,0,1,0,0,1,1,1
-Dr. Ethan Morris,Phoenix,Allergist/Immunologist,4,1,1,1,1,1,0,0,1,0,1
-Dr. Harper Stewart,San Antonio,Gastroenterologist,1,0,0,0,1,1,1,0,1,1,1
-Dr. Isabella Edwards,Philadelphia,Infectious Disease Specialist,5,1,1,1,0,1,1,0,1,1,1
-Dr. Daniel Lopez,San Jose,Dermatologist,3,0,0,0,0,0,1,0,1,0,1
-Dr. William Davis,New York,General Practitioner (GP),2,0,0,1,1,0,1,1,1,0,0
-Dr. Benjamin Rivera,Dallas,Pharmacologist,1,1,0,1,1,1,0,1,1,0,0
-Dr. Matthew Evans,New York,Endocrinologist,5,1,1,0,1,1,1,0,0,1,0
-Dr. Alexander Mitchell,Philadelphia,Cardiologist,2,0,1,0,0,1,0,0,1,0,1
-Dr. Mason Clark,San Diego,General Practitioner (GP),2,0,0,1,1,1,0,0,1,0,0
-Dr. Ava Davis,Dallas,Cardiologist,3,1,0,1,0,0,1,0,0,1,1
-Dr. Noah Nelson,New York,Cardiologist,4,1,1,0,0,0,0,1,0,1,1
-Dr. Elizabeth Thompson,Philadelphia,Orthopedic Surgeon,1,1,0,1,1,1,1,0,0,0,1
-Dr. Ava Murphy,San Diego,Vascular Surgeon,4,0,0,0,0,1,1,1,0,0,1
-Dr. Mason Murphy,Houston,Infectious Disease Specialist,1,0,1,1,0,0,1,1,1,1,1
-Dr. Harper Miller,Chicago,Infectious Disease Specialist,4,1,0,1,0,0,1,0,1,0,1
-Dr. Olivia Martinez,Phoenix,Allergist/Immunologist,1,1,1,0,0,1,1,1,0,0,1
-Dr. Olivia Evans,San Antonio,Pulmonologist,1,0,0,0,1,0,0,0,1,0,0
-Dr. Logan Perez,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",1,0,0,0,1,1,1,0,0,0,1
-Dr. William King,Philadelphia,Proctologist,4,1,0,1,0,1,1,1,1,1,0
-Dr. Benjamin Miller,Houston,Allergist/Immunologist,5,1,0,1,1,1,0,0,0,1,0
-Dr. Harper Evans,Dallas,Infectious Disease Specialist,2,1,1,1,1,1,1,0,0,1,1
-Dr. Evelyn Miller,San Diego,Pulmonologist,2,1,0,0,0,0,0,0,1,1,0
-Dr. Sophia Harris,Dallas,Pharmacologist,4,0,1,0,0,0,1,0,1,1,0
-Dr. Ethan Scott,Philadelphia,Gastroenterologist,1,0,0,1,0,0,0,1,1,1,1
-Dr. Emily Thompson,San Diego,Orthopedic Surgeon,2,1,1,0,1,1,1,1,0,1,0
-Dr. William Rodriguez,Phoenix,Urologist,1,0,1,1,1,1,0,1,0,1,0
-Dr. Olivia Scott,Dallas,Endocrinologist,3,0,1,1,1,0,0,0,1,0,0
-Dr. Olivia Phillips,San Diego,Allergist/Immunologist,2,0,1,1,0,1,0,1,0,0,1
-Dr. Olivia Gonzales,Philadelphia,Allergist/Immunologist,1,0,1,1,0,0,0,0,1,0,0
-Dr. Noah Morris,Phoenix,Pulmonologist,3,1,1,0,1,1,1,1,0,1,0
-Dr. Sophia Gonzales,Phoenix,Rheumatologist,3,1,1,1,1,0,0,1,0,0,1
-Dr. Harper Hall,San Jose,Rheumatologist,4,0,1,0,0,1,0,1,0,0,1
-Dr. Olivia Taylor,New York,Pharmacologist,4,0,1,1,1,0,1,1,1,0,0
-Dr. Charlotte Adams,Phoenix,Proctologist,2,1,1,0,0,0,0,1,1,0,0
-Dr. William Evans,Chicago,"Ear, Nose, and Throat (ENT) Specialist",4,1,1,0,0,1,1,0,1,0,1
-Dr. Ethan Johnson,Dallas,Pulmonologist,4,1,0,0,0,1,0,0,1,1,0
-Dr. Olivia Wright,Los Angeles,Gastroenterologist,4,0,1,0,0,0,1,0,0,0,1
-Dr. James Lewis,Los Angeles,Urologist,4,1,1,1,0,1,0,0,0,0,1
-Dr. Olivia Johnson,Chicago,Pharmacologist,2,1,1,1,1,0,1,1,0,0,1
-Dr. Harper Coleman,San Antonio,General Practitioner (GP),4,0,1,0,0,1,1,1,1,1,0
-Dr. Jacob Adams,Phoenix,Cardiologist,1,1,0,0,1,1,1,1,1,0,0
-Dr. Ava Hill,Philadelphia,Proctologist,5,0,0,1,0,0,0,1,0,0,0
-Dr. Elizabeth Phillips,Chicago,Pharmacologist,2,1,1,1,0,1,1,1,0,1,1
-Dr. Chloe Cook,Dallas,Rheumatologist,5,1,1,0,0,0,1,1,0,1,1
-Dr. Olivia Nelson,San Jose,Neurologist,3,0,0,1,0,1,0,1,1,1,0
-Dr. Amelia Jones,Dallas,Cardiologist,4,1,1,0,1,1,0,0,0,1,0
-Dr. Sophia Carter,Philadelphia,Rheumatologist,4,1,0,0,0,1,0,0,0,1,1
-Dr. Michael Adams,Philadelphia,Gastroenterologist,4,0,0,0,1,0,1,0,0,0,0
-Dr. Michael Perez,Phoenix,General Practitioner (GP),2,0,1,0,1,1,0,1,1,0,0
-Dr. William Williams,Chicago,Dermatologist,3,0,1,1,0,1,0,0,0,0,1
-Dr. Elizabeth Clark,San Jose,"Ear, Nose, and Throat (ENT) Specialist",2,1,1,0,0,1,1,0,1,1,1
-Dr. Emily Russell,Los Angeles,Pharmacologist,2,1,0,0,0,0,1,1,1,1,1
-Dr. Abigail Jones,Houston,Endocrinologist,5,0,1,1,0,0,1,0,0,0,1
-Dr. Ava Wright,Dallas,Proctologist,1,0,1,0,0,1,1,1,1,0,0
-Dr. Elijah Coleman,Phoenix,Pulmonologist,4,0,1,0,0,1,1,0,0,1,0
-Dr. Evelyn Wilson,Los Angeles,Infectious Disease Specialist,3,1,1,0,0,0,1,1,0,1,0
-Dr. Ava Evans,San Antonio,Endocrinologist,4,1,0,1,0,0,0,1,1,1,1
-Dr. Ava Wright,Chicago,Pulmonologist,3,1,0,1,1,1,0,1,0,0,0
-Dr. Michael Davis,New York,"Ear, Nose, and Throat (ENT) Specialist",1,0,1,1,0,1,0,1,0,0,1
-Dr. Charlotte Lee,Houston,Endocrinologist,5,1,1,0,0,1,0,0,0,0,0
-Dr. Mia Nelson,San Antonio,Orthopedic Surgeon,2,0,1,0,1,0,0,1,0,1,0
-Dr. Charlotte Miller,San Antonio,Pulmonologist,4,0,1,1,1,0,0,1,1,0,1
-Dr. Michael Rivera,Houston,Pulmonologist,3,0,0,0,0,1,1,0,0,1,1
-Dr. Benjamin Anderson,San Diego,"Ear, Nose, and Throat (ENT) Specialist",1,1,1,1,1,0,1,1,0,0,0
-Dr. Abigail Roberts,Philadelphia,General Practitioner (GP),5,1,1,1,0,1,1,0,1,1,0
-Dr. Aiden Hill,Dallas,Vascular Surgeon,5,0,1,1,0,1,1,0,1,0,0
-Dr. Aiden Brown,Houston,Endocrinologist,1,0,0,1,0,1,1,0,0,0,1
-Dr. Daniel Edwards,Dallas,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,0,1,1,1,1,0,0,0
-Dr. Emily Mitchell,Philadelphia,Dermatologist,5,0,1,0,1,1,1,0,0,1,0
-Dr. Ava Jones,Chicago,Gastroenterologist,4,0,1,0,0,1,0,1,0,0,1
-Dr. Ethan Hall,San Antonio,Urologist,4,0,0,1,0,1,0,0,1,1,0
-Dr. Ava Roberts,Chicago,"Ear, Nose, and Throat (ENT) Specialist",1,0,1,1,1,1,1,0,1,1,1
-Dr. Aiden Wilson,Los Angeles,Neurologist,4,1,0,0,1,0,0,0,1,1,1
-Dr. Madison Lewis,San Jose,Urologist,1,0,1,1,1,0,1,1,0,0,1
-Dr. Harper Morris,Houston,Allergist/Immunologist,3,0,0,0,0,1,1,0,0,1,1
-Dr. James Brown,New York,"Ear, Nose, and Throat (ENT) Specialist",1,0,1,0,1,1,0,0,1,1,0
-Dr. Madison Nelson,San Jose,Proctologist,4,1,0,1,1,0,1,1,1,0,1
-Dr. Ethan Green,San Antonio,Pharmacologist,3,1,0,0,0,1,1,0,1,0,0
-Dr. Michael Russell,San Antonio,Cardiologist,4,1,1,1,0,0,1,0,0,1,1
-Dr. Chloe Carter,Houston,Infectious Disease Specialist,2,1,1,0,1,0,0,1,1,0,0
-Dr. Olivia Evans,San Jose,Infectious Disease Specialist,2,1,1,1,1,0,0,0,0,1,1
-Dr. Madison Rodriguez,Chicago,Cardiologist,5,1,1,1,1,0,0,0,0,0,0
-Dr. Ethan Coleman,San Antonio,Pulmonologist,4,1,1,1,0,0,1,0,0,0,1
-Dr. Ethan Smith,Philadelphia,Infectious Disease Specialist,5,0,1,1,1,0,0,1,0,1,0
-Dr. Benjamin Lewis,Chicago,Pulmonologist,2,1,1,0,0,0,0,0,1,1,0
-Dr. Benjamin Davis,Chicago,Infectious Disease Specialist,3,0,0,1,0,0,1,1,0,0,0
-Dr. Harper Bailey,Dallas,Pulmonologist,4,1,0,0,0,0,1,1,1,1,1
-Dr. Emily Hall,Dallas,Pulmonologist,5,0,1,1,1,1,0,0,1,0,1
-Dr. Jacob Green,San Diego,General Practitioner (GP),1,1,0,1,1,1,1,1,1,1,0
-Dr. Daniel King,Philadelphia,Infectious Disease Specialist,2,1,1,0,1,0,0,0,1,1,0
-Dr. Amelia Lopez,San Diego,Gastroenterologist,3,0,0,1,1,1,1,1,0,0,1
-Dr. William King,Phoenix,Orthopedic Surgeon,2,0,1,1,0,0,0,0,1,0,0
-Dr. Ethan Perez,San Diego,Allergist/Immunologist,2,1,1,1,1,1,0,1,1,1,0
-Dr. Jacob Adams,San Diego,Pharmacologist,2,1,0,0,1,0,0,1,0,1,0
-Dr. Elizabeth Baker,Dallas,Proctologist,1,1,0,0,1,0,0,1,0,1,1
-Dr. Logan Lee,Chicago,Allergist/Immunologist,3,0,0,1,1,0,0,1,0,0,1
-Dr. William Lewis,San Antonio,General Practitioner (GP),2,0,1,0,1,1,1,0,0,0,1
-Dr. Harper Hall,San Jose,Gastroenterologist,1,0,1,1,0,1,1,1,0,1,1
-Dr. Ethan Green,San Diego,Gastroenterologist,3,1,1,0,0,0,1,0,1,0,1
-Dr. Michael Murphy,San Jose,Gastroenterologist,5,0,1,0,1,0,0,1,0,1,1
-Dr. Lucas Lee,Dallas,Pharmacologist,2,1,1,1,1,0,0,1,1,0,1
-Dr. Mason Phillips,San Antonio,Vascular Surgeon,4,1,1,1,0,1,0,0,1,1,0
-Dr. Logan Morris,New York,Infectious Disease Specialist,1,0,0,1,0,1,0,1,0,0,1
-Dr. Alexander Baker,Houston,Orthopedic Surgeon,3,0,0,0,1,1,1,1,1,0,1
-Dr. Olivia Perez,Phoenix,Pulmonologist,5,1,1,1,0,0,1,0,0,1,0
-Dr. Ava Smith,Dallas,Rheumatologist,1,1,1,1,1,1,0,1,1,0,0
-Dr. Ethan Phillips,Phoenix,Vascular Surgeon,5,0,0,1,0,0,0,0,0,1,0
-Dr. Matthew Gonzalez,Philadelphia,Allergist/Immunologist,2,0,1,0,1,0,1,1,0,0,0
-Dr. Elizabeth Jones,New York,Infectious Disease Specialist,1,0,1,1,0,0,0,1,0,1,1
-Dr. Isabella Davis,Los Angeles,Dermatologist,5,0,1,0,0,0,0,0,0,1,0
-Dr. Ethan Perez,Houston,Vascular Surgeon,2,1,0,0,0,1,0,1,0,0,1
-Dr. William Coleman,Los Angeles,Proctologist,4,0,1,0,1,1,1,0,0,1,0
-Dr. Aiden Mitchell,Philadelphia,Urologist,3,0,0,0,0,1,1,0,0,0,1
-Dr. Mason Brown,San Diego,Dermatologist,2,0,0,1,1,0,0,0,1,1,0
-Dr. Abigail Coleman,Los Angeles,Neurologist,3,1,0,1,1,0,1,1,1,1,0
-Dr. William White,Phoenix,Pulmonologist,1,0,0,1,1,1,0,0,1,0,0
-Dr. William Garcia,Phoenix,Proctologist,4,0,0,0,1,0,0,1,1,1,1
-Dr. Harper Harris,Dallas,"Ear, Nose, and Throat (ENT) Specialist",5,1,1,1,0,0,0,0,0,1,0
-Dr. Mia Coleman,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",4,1,1,1,0,1,1,0,1,0,0
-Dr. Mia Thompson,Los Angeles,Allergist/Immunologist,2,0,1,1,0,1,1,0,1,1,1
-Dr. Mason Lee,San Diego,Orthopedic Surgeon,4,1,0,0,0,1,0,1,0,0,1
-Dr. Isabella Brown,Houston,Pulmonologist,1,1,1,0,0,0,0,0,0,0,0
-Dr. Matthew Evans,Dallas,Orthopedic Surgeon,3,0,1,0,0,1,0,1,1,0,1
-Dr. William Hernandez,San Diego,Neurologist,4,1,0,0,0,0,1,1,1,1,1
-Dr. Harper Bailey,San Jose,Gastroenterologist,1,1,0,1,0,0,1,0,1,0,0
-Dr. Logan Nelson,San Diego,Dermatologist,2,0,1,0,0,1,1,1,1,1,0
-Dr. Charlotte Phillips,San Diego,"Ear, Nose, and Throat (ENT) Specialist",3,0,0,0,0,0,1,0,1,1,1
-Dr. Aiden Jones,San Antonio,General Practitioner (GP),1,1,1,1,1,1,0,1,0,1,1
-Dr. Emily Bailey,New York,Urologist,3,0,0,1,1,1,1,0,1,0,0
-Dr. Ethan Mitchell,Phoenix,Cardiologist,5,0,0,1,1,0,1,0,1,1,1
-Dr. Mia Roberts,Chicago,Proctologist,3,1,0,0,1,0,1,1,0,1,1
-Dr. Isabella Hernandez,San Jose,Vascular Surgeon,1,1,1,1,0,0,1,1,1,0,0
-Dr. William Bailey,Chicago,Vascular Surgeon,1,0,1,0,1,0,1,1,0,1,0
-Dr. Ethan King,San Antonio,Pulmonologist,1,0,0,1,0,0,1,1,0,0,0
-Dr. Emily Wright,Phoenix,Allergist/Immunologist,3,1,0,1,0,0,0,1,0,0,1
-Dr. Sophia Lewis,San Diego,General Practitioner (GP),5,1,1,0,0,0,1,0,0,0,0
-Dr. Olivia Adams,Houston,Orthopedic Surgeon,5,1,1,1,1,1,0,0,1,0,0
-Dr. Jacob Lopez,Dallas,Vascular Surgeon,5,1,1,1,1,0,1,0,1,1,0
-Dr. Olivia Morris,San Diego,"Ear, Nose, and Throat (ENT) Specialist",5,1,1,0,1,1,0,0,1,0,0
-Dr. Alexander Williams,New York,Endocrinologist,2,1,1,0,0,1,0,1,1,1,1
-Dr. Emily Lewis,San Antonio,Gastroenterologist,2,1,1,1,1,0,1,0,1,0,1
-Dr. Olivia Williams,Chicago,Urologist,4,0,0,1,0,1,0,0,1,0,1
-Dr. James Phillips,San Diego,Allergist/Immunologist,3,1,0,0,0,0,0,1,1,1,1
-Dr. Matthew Nelson,San Jose,Proctologist,5,0,1,1,1,0,0,0,0,0,1
-Dr. Alexander King,San Antonio,Gastroenterologist,2,0,1,1,1,1,0,1,0,0,1
-Dr. Ava Hernandez,Los Angeles,Gastroenterologist,3,1,0,1,1,0,1,1,1,0,1
-Dr. Madison Anderson,San Jose,Rheumatologist,4,1,1,1,0,1,0,1,1,0,0
-Dr. Benjamin Anderson,Phoenix,Cardiologist,5,1,0,1,1,0,1,1,0,1,1
-Dr. Madison Johnson,Dallas,"Ear, Nose, and Throat (ENT) Specialist",2,1,1,1,0,1,0,1,1,0,0
-Dr. Mia Lewis,San Jose,Cardiologist,5,1,1,1,0,1,0,0,0,0,0
-Dr. Abigail Russell,San Jose,Cardiologist,2,1,0,1,0,1,1,0,0,0,1
-Dr. Charlotte Green,Phoenix,General Practitioner (GP),4,0,0,0,1,0,1,1,1,0,0
-Dr. Elizabeth Taylor,Phoenix,Cardiologist,1,1,0,0,1,1,1,0,1,1,1
-Dr. Ava Green,Dallas,Urologist,5,0,0,0,1,1,0,1,0,0,1
-Dr. Sophia Wright,Dallas,Rheumatologist,3,0,1,0,1,1,1,1,0,1,1
-Dr. Isabella Johnson,San Diego,Orthopedic Surgeon,3,1,1,1,1,1,0,0,1,1,1
-Dr. Madison Gonzales,Dallas,Allergist/Immunologist,1,1,0,1,1,0,1,1,1,1,1
-Dr. Olivia Coleman,San Antonio,Infectious Disease Specialist,3,0,0,1,0,1,1,0,1,0,1
-Dr. Mia Martinez,New York,Dermatologist,5,1,0,1,0,0,1,0,0,0,1
-Dr. Emily Murphy,Houston,Neurologist,4,1,1,0,0,1,0,1,0,0,0
-Dr. Harper Lopez,New York,General Practitioner (GP),2,0,0,1,1,0,1,1,1,1,1
-Dr. James Bailey,Dallas,General Practitioner (GP),3,0,1,1,0,1,0,0,1,1,0
-Dr. Daniel Edwards,Chicago,Neurologist,3,1,1,1,1,0,0,1,0,1,0
-Dr. Matthew Wilson,Phoenix,General Practitioner (GP),3,1,1,1,1,0,1,0,1,1,1
-Dr. Harper Hall,San Antonio,Vascular Surgeon,3,0,0,1,1,0,1,0,1,1,1
-Dr. Michael Coleman,New York,General Practitioner (GP),5,1,1,1,0,1,1,1,1,1,1
-Dr. Lucas Martinez,Phoenix,Infectious Disease Specialist,3,0,0,0,1,1,1,0,1,0,0
-Dr. Sophia Jones,Philadelphia,Neurologist,5,0,0,1,1,0,1,1,0,1,0
-Dr. Matthew Davis,Chicago,Vascular Surgeon,2,1,1,0,1,1,1,0,1,1,1
-Dr. Daniel Hill,Houston,Pharmacologist,5,1,0,0,1,1,0,0,1,0,0
-Dr. Mason Edwards,New York,Vascular Surgeon,5,0,0,0,1,1,0,1,0,1,1
-Dr. Elijah Scott,San Antonio,"Ear, Nose, and Throat (ENT) Specialist",2,0,0,0,1,0,0,1,1,1,0
-Dr. Daniel Gonzales,Phoenix,Pharmacologist,5,0,1,0,1,0,1,0,1,1,1
-Dr. Jacob Garcia,Houston,Allergist/Immunologist,4,0,1,1,1,0,1,0,1,1,1
-Dr. Emily Taylor,New York,Orthopedic Surgeon,3,1,0,1,0,0,0,1,1,0,1
-Dr. Mia Lopez,Philadelphia,Cardiologist,4,1,0,1,0,0,0,0,1,0,1
-Dr. Elijah King,Houston,Endocrinologist,2,1,1,0,1,0,0,1,0,1,1
-Dr. Michael Adams,Phoenix,Allergist/Immunologist,1,0,0,1,0,1,1,1,0,0,1
-Dr. Mia Thompson,San Jose,Orthopedic Surgeon,4,0,0,1,1,0,1,1,1,1,1
-Dr. Alexander Hall,New York,Endocrinologist,1,0,1,0,1,0,0,1,1,0,1
-Dr. Jacob Wright,San Antonio,Urologist,3,1,0,0,1,0,1,0,0,1,0
-Dr. William Anderson,Phoenix,Cardiologist,5,1,0,0,0,0,1,0,1,1,1
-Dr. Sophia Hall,San Antonio,Vascular Surgeon,3,0,0,1,1,1,1,1,1,1,1
-Dr. Benjamin Roberts,San Diego,Pharmacologist,5,0,1,1,0,1,0,0,1,0,1
-Dr. Ethan Stewart,San Antonio,Urologist,5,1,1,1,1,1,0,0,1,1,1
-Dr. Emily Johnson,San Jose,Allergist/Immunologist,1,1,0,1,0,1,0,0,0,1,1
-Dr. William Perez,Philadelphia,General Practitioner (GP),5,1,0,0,1,0,0,1,0,1,0
-Dr. Olivia Harris,Houston,Gastroenterologist,1,0,1,1,1,1,1,1,1,1,0
-Dr. Ava Stewart,Phoenix,Pulmonologist,2,1,0,0,0,0,1,0,1,1,1
-Dr. Logan Wilson,San Diego,Allergist/Immunologist,3,0,1,0,0,0,1,0,1,0,0
-Dr. Isabella Hall,San Diego,Proctologist,2,1,0,0,1,0,1,1,1,0,0
-Dr. Chloe Jones,Los Angeles,Orthopedic Surgeon,2,1,0,0,0,0,0,1,0,0,1
-Dr. William Rodriguez,Dallas,Cardiologist,3,0,1,1,1,0,0,0,0,0,0
-Dr. Mason Wilson,Dallas,Rheumatologist,4,0,1,0,1,1,1,1,0,1,1
-Dr. William Lee,Chicago,General Practitioner (GP),1,0,0,1,0,0,0,0,0,0,1
-Dr. Ava Murphy,San Antonio,Infectious Disease Specialist,4,0,0,1,1,0,0,1,1,1,0
-Dr. Daniel Edwards,Philadelphia,General Practitioner (GP),1,1,1,1,0,0,1,0,1,0,0
-Dr. William Edwards,Phoenix,Neurologist,4,0,1,1,0,1,1,0,1,0,0
-Dr. Charlotte Hall,San Antonio,Neurologist,3,1,0,1,0,0,1,0,0,1,1
-Dr. Ethan Wilson,Phoenix,Cardiologist,5,1,0,1,0,0,0,1,1,1,0
-Dr. Matthew Martinez,Dallas,Orthopedic Surgeon,3,0,1,1,1,1,1,0,1,0,1
-Dr. Sophia Rodriguez,Los Angeles,Vascular Surgeon,2,0,0,1,1,0,1,1,0,0,1
-Dr. Evelyn Clark,New York,Cardiologist,3,0,1,1,0,0,1,1,0,1,0
-Dr. Logan Hall,New York,Infectious Disease Specialist,5,0,0,0,1,1,0,0,0,0,1
-Dr. Ava Green,Houston,Gastroenterologist,5,1,1,1,0,1,0,0,1,0,1
-Dr. Lucas Phillips,Los Angeles,Urologist,3,1,0,1,0,1,0,1,1,1,0
-Dr. Ava Phillips,Philadelphia,Rheumatologist,3,1,1,1,0,1,1,1,0,1,1
-Dr. Harper Nelson,Houston,Rheumatologist,3,0,0,1,0,1,0,1,0,0,1
-Dr. William Murphy,Dallas,Neurologist,4,1,1,1,1,0,1,1,0,0,0
-Dr. Emily Rodriguez,San Antonio,Pulmonologist,1,0,1,1,0,0,0,0,0,1,0
-Dr. Sophia Moore,San Diego,Urologist,4,0,1,0,1,0,0,0,1,0,0
-Dr. Isabella Garcia,San Jose,"Ear, Nose, and Throat (ENT) Specialist",3,1,0,1,1,1,0,1,0,0,1
-Dr. Elizabeth Baker,San Jose,Urologist,5,1,1,1,1,0,0,0,0,1,0
-Dr. Ethan Harris,Philadelphia,Vascular Surgeon,1,1,0,0,1,1,0,0,1,1,0
-Dr. Harper Phillips,New York,Infectious Disease Specialist,5,1,1,0,1,0,1,0,0,1,1
-Dr. Aiden Davis,Phoenix,Dermatologist,3,1,0,0,0,0,0,1,1,1,0
-Dr. Olivia Murphy,New York,Rheumatologist,2,1,1,1,0,1,0,0,0,0,0
-Dr. William Baker,Houston,Pharmacologist,3,0,0,0,1,0,1,0,0,0,1
-Dr. Sophia Evans,San Antonio,Orthopedic Surgeon,5,1,0,0,0,0,1,0,1,1,0
-Dr. Sophia Wilson,Chicago,Orthopedic Surgeon,5,1,0,0,0,1,1,1,0,1,0
-Dr. Aiden Coleman,Phoenix,Urologist,5,0,1,1,0,0,1,1,1,0,0
-Dr. Evelyn Stewart,San Diego,Pulmonologist,4,0,0,0,0,0,0,1,0,0,0
-Dr. Benjamin Morris,San Jose,Neurologist,3,0,0,0,1,1,1,1,1,1,1
-Dr. Benjamin Lopez,Houston,Gastroenterologist,1,0,0,0,0,1,0,1,0,0,0
-Dr. Jacob Russell,Houston,Neurologist,1,1,1,1,0,0,1,0,1,0,1
-Dr. Sophia Adams,Dallas,Allergist/Immunologist,2,1,1,0,0,1,0,1,0,0,1
-Dr. Benjamin Harris,Houston,Endocrinologist,1,1,0,0,0,1,1,1,0,1,1
-Dr. Lucas Hall,San Jose,Neurologist,4,0,1,0,0,0,0,0,0,0,1
-Dr. Olivia Martinez,San Jose,Proctologist,1,0,1,1,1,0,1,1,1,0,1
-Dr. Mia Carter,Chicago,Endocrinologist,3,0,1,1,0,1,0,0,0,1,1
-Dr. Elijah Gonzalez,Dallas,Gastroenterologist,2,0,1,1,1,0,1,1,0,1,0
-Dr. Noah Rodriguez,San Diego,Rheumatologist,1,1,0,1,0,0,1,1,0,1,0
-Dr. William Russell,Philadelphia,Dermatologist,2,1,0,0,0,0,1,1,0,0,1
-Dr. Noah Smith,Los Angeles,Proctologist,5,1,1,0,1,0,0,0,0,1,1
-Dr. Sophia Miller,Chicago,"Ear, Nose, and Throat (ENT) Specialist",4,1,1,0,0,0,1,0,0,1,1
-Dr. Charlotte Miller,San Jose,Cardiologist,4,0,0,0,0,0,1,0,1,1,0
-Dr. Isabella Garcia,San Antonio,Vascular Surgeon,1,1,0,1,0,1,0,1,0,0,1
-Dr. Mia Nelson,Dallas,Proctologist,1,1,1,0,0,1,1,1,0,0,0
-Dr. Madison Gonzalez,New York,Neurologist,5,0,0,0,0,0,0,1,1,1,1
-Dr. Elijah Russell,Phoenix,Cardiologist,5,1,0,0,1,0,0,1,1,1,0
-Dr. Evelyn Stewart,San Antonio,Vascular Surgeon,1,0,0,1,0,1,0,1,0,1,1
-Dr. Abigail Davis,San Diego,General Practitioner (GP),2,0,0,1,1,1,0,0,0,0,0
-Dr. Benjamin Clark,Philadelphia,Endocrinologist,1,1,1,0,1,0,0,0,1,1,1
-Dr. Benjamin Cook,San Jose,Gastroenterologist,4,1,0,0,1,1,1,1,0,1,1
-Dr. Michael Russell,Houston,General Practitioner (GP),5,0,1,1,1,0,0,0,0,1,0
-Dr. William Clark,Houston,Cardiologist,4,0,1,1,0,1,0,1,0,1,0
-Dr. James Mitchell,San Antonio,Cardiologist,4,1,0,1,1,0,1,0,0,0,0
-Dr. Lucas Russell,Los Angeles,Dermatologist,5,0,1,1,0,0,0,0,0,1,1
-Dr. Michael Bailey,San Diego,Gastroenterologist,2,0,0,0,1,0,0,0,1,0,1
-Dr. Ava Martinez,Houston,"Ear, Nose, and Throat (ENT) Specialist",2,0,1,1,0,1,0,1,0,1,0
-Dr. Isabella Hall,San Antonio,Neurologist,4,1,0,0,0,1,1,1,1,0,1
-Dr. Logan Green,San Jose,General Practitioner (GP),3,0,0,0,0,1,0,1,1,0,1
-Dr. Sophia Evans,Phoenix,Neurologist,1,0,0,0,0,0,0,1,0,1,0
-Dr. Sophia Carter,Philadelphia,Endocrinologist,2,0,1,0,1,1,0,0,1,0,1
-Dr. Abigail Lee,New York,Rheumatologist,4,1,1,0,1,0,0,1,1,1,1
-Dr. Emily Hall,Houston,Cardiologist,2,0,0,1,1,0,0,1,1,0,0
-Dr. James Mitchell,San Diego,Pulmonologist,4,1,0,1,0,1,0,1,1,0,1
-Dr. Benjamin Stewart,Los Angeles,Rheumatologist,3,0,1,1,1,1,0,0,0,1,0
-Dr. Emily Gonzalez,Phoenix,Pulmonologist,1,0,0,1,0,0,0,0,0,1,1
-Dr. Sophia Wright,New York,Dermatologist,1,1,1,0,1,0,1,1,0,1,0
-Dr. Aiden Smith,Dallas,Orthopedic Surgeon,2,0,0,0,0,0,0,0,0,1,1
-Dr. Aiden Evans,Houston,Cardiologist,1,1,0,0,1,1,1,0,0,1,1
-Dr. Olivia White,Dallas,Cardiologist,1,1,1,1,1,0,1,1,1,0,0
-Dr. Ethan Phillips,San Jose,Pulmonologist,1,1,1,0,1,1,1,1,0,1,0
-Dr. Mia Rodriguez,Philadelphia,Dermatologist,2,1,1,1,0,0,0,1,0,0,1
-Dr. Jacob Martinez,New York,Rheumatologist,4,0,0,0,1,1,1,1,1,1,1
-Dr. Aiden Roberts,New York,Cardiologist,1,0,0,1,0,1,0,1,0,0,1
-Dr. Evelyn Coleman,San Antonio,"Ear, Nose, and Throat (ENT) Specialist",4,1,0,1,0,1,1,1,0,1,0
-Dr. Ava Perez,Los Angeles,Dermatologist,1,1,1,1,0,1,1,1,0,0,1
-Dr. Ethan Edwards,Los Angeles,Infectious Disease Specialist,4,0,0,1,1,0,1,1,1,0,0
-Dr. William Cook,Los Angeles,Pulmonologist,5,0,1,0,1,1,0,0,1,1,1
-Dr. Ethan Lewis,Houston,Pulmonologist,1,0,0,1,1,1,0,0,1,1,0
-Dr. Ethan Gonzales,New York,"Ear, Nose, and Throat (ENT) Specialist",2,0,1,1,0,1,1,1,1,1,1
-Dr. Ava Moore,Philadelphia,Infectious Disease Specialist,1,1,0,1,0,0,1,1,0,1,0
-Dr. Ethan Murphy,San Antonio,Neurologist,5,1,0,1,1,1,0,1,1,0,0
-Dr. Michael Rivera,Chicago,Infectious Disease Specialist,5,0,0,1,0,0,1,0,0,0,0
-Dr. Emily Edwards,Dallas,Allergist/Immunologist,4,1,0,1,0,0,1,1,1,1,1
-Dr. Jacob Morris,Chicago,Cardiologist,1,1,1,0,1,1,0,1,1,1,1
-Dr. William Lopez,Chicago,Rheumatologist,3,1,1,0,0,1,0,0,0,0,0
-Dr. Harper Clark,San Antonio,Allergist/Immunologist,1,1,1,0,0,0,1,0,1,1,1
-Dr. Jacob Bailey,Phoenix,Cardiologist,1,0,1,1,1,1,1,1,0,1,0
-Dr. Harper King,Dallas,Infectious Disease Specialist,4,1,1,0,1,1,0,1,1,0,1
-Dr. Logan King,Houston,Endocrinologist,5,1,0,1,1,0,0,0,1,0,1
-Dr. Abigail Lopez,New York,Pharmacologist,5,0,1,0,1,1,1,0,0,1,0
-Dr. Charlotte Edwards,Los Angeles,Cardiologist,5,1,0,0,0,0,0,1,1,1,1
-Dr. Benjamin Hall,San Jose,General Practitioner (GP),2,0,0,0,0,0,0,0,1,0,0
-Dr. Aiden Clark,Los Angeles,Pulmonologist,3,1,1,1,0,1,0,1,1,1,1
-Dr. Michael Lopez,New York,Proctologist,2,1,1,0,0,1,1,1,1,0,0
-Dr. Ethan Hall,New York,General Practitioner (GP),5,0,1,1,0,1,0,1,1,0,1
-Dr. Ava Williams,Philadelphia,Infectious Disease Specialist,3,1,1,1,0,1,1,1,1,0,0
-Dr. Daniel Nelson,San Antonio,Endocrinologist,5,0,0,0,1,1,0,1,1,0,0
-Dr. Benjamin Roberts,San Jose,Orthopedic Surgeon,2,1,1,0,1,1,1,0,1,0,0
-Dr. Jacob Phillips,Houston,Infectious Disease Specialist,1,1,0,0,1,1,0,1,1,0,0
-Dr. Harper Hill,San Jose,Dermatologist,2,1,1,1,0,0,0,0,0,1,1
-Dr. Mason Lee,San Antonio,Vascular Surgeon,3,1,0,0,0,1,0,0,1,0,0
-Dr. Jacob Lopez,New York,"Ear, Nose, and Throat (ENT) Specialist",4,1,0,1,0,0,1,1,0,1,1
-Dr. Ethan Hall,Chicago,Rheumatologist,5,0,0,1,0,1,0,0,0,1,0
-Dr. Ethan Baker,Dallas,Pulmonologist,1,0,0,1,1,0,0,1,1,0,1
-Dr. Ava Evans,Philadelphia,Allergist/Immunologist,5,0,0,1,0,0,0,1,1,1,0
-Dr. Benjamin Scott,Chicago,Rheumatologist,5,1,1,1,0,0,0,1,1,0,1
-Dr. Harper Moore,Chicago,Cardiologist,1,1,0,0,0,0,1,1,0,0,1
-Dr. Mia Clark,Philadelphia,Urologist,3,0,0,1,0,0,0,1,0,1,1
-Dr. Harper Rivera,Los Angeles,Proctologist,4,1,1,0,0,0,0,0,1,0,1
-Dr. Charlotte Cook,Houston,General Practitioner (GP),4,1,0,0,1,0,1,1,0,1,0
-Dr. Michael Brown,Dallas,Gastroenterologist,2,1,0,0,1,0,0,0,1,0,0
-Dr. Elijah King,New York,General Practitioner (GP),1,0,1,0,0,1,1,0,0,1,1
-Dr. James Taylor,Dallas,Allergist/Immunologist,3,0,1,1,1,0,0,1,1,0,1
-Dr. Benjamin Moore,Dallas,Infectious Disease Specialist,2,1,0,0,0,0,0,0,1,1,1
-Dr. Mason Thompson,Los Angeles,Infectious Disease Specialist,5,0,1,1,1,1,1,1,0,1,0
-Dr. Elijah Thompson,San Diego,Gastroenterologist,1,0,0,1,1,1,0,1,0,0,0
-Dr. Noah Gonzales,San Jose,"Ear, Nose, and Throat (ENT) Specialist",2,1,0,1,1,0,0,0,0,1,1
-Dr. Harper Gonzalez,San Antonio,Dermatologist,1,0,1,1,0,0,1,1,1,0,0
-Dr. Aiden Nelson,Chicago,General Practitioner (GP),1,1,1,0,1,1,1,0,1,1,0
-Dr. Ethan Scott,San Diego,Cardiologist,1,1,1,1,1,0,1,0,1,1,0
-Dr. Isabella Davis,San Jose,Urologist,3,1,1,1,0,0,1,0,0,1,1
-Dr. Sophia Roberts,New York,Urologist,3,1,1,1,0,0,0,0,1,1,1
-Dr. Evelyn Wilson,Philadelphia,Neurologist,4,0,1,0,0,1,1,0,1,1,1
-Dr. Isabella Jones,Houston,Proctologist,2,0,1,0,0,0,1,0,1,1,0
-Dr. Olivia Davis,San Antonio,Allergist/Immunologist,2,0,0,1,1,0,1,1,1,0,1
-Dr. Olivia White,New York,Dermatologist,4,0,1,1,0,1,1,1,1,0,0
-Dr. Olivia Wright,Phoenix,General Practitioner (GP),1,1,1,1,0,1,0,0,1,0,0
-Dr. Isabella Scott,Los Angeles,Infectious Disease Specialist,5,1,0,0,1,1,1,1,1,0,1
-Dr. Sophia Lewis,San Antonio,Proctologist,3,0,0,1,1,0,1,1,1,1,0
-Dr. Harper Smith,San Diego,Proctologist,1,0,0,1,1,0,0,1,1,1,1
-Dr. Amelia Stewart,Philadelphia,Orthopedic Surgeon,3,0,0,0,0,1,0,1,1,1,1
-Dr. Ethan Williams,New York,Orthopedic Surgeon,4,0,0,0,1,0,1,0,0,0,1
-Dr. Logan Lee,San Jose,Urologist,3,1,1,0,0,0,0,1,0,1,1
-Dr. Elijah Roberts,Los Angeles,General Practitioner (GP),4,1,0,0,1,0,0,1,1,0,1
-Dr. Ava Miller,Los Angeles,General Practitioner (GP),4,1,1,0,1,1,0,1,1,1,1
-Dr. Harper Taylor,New York,Cardiologist,3,0,1,0,1,1,0,0,1,0,1
-Dr. William White,New York,Vascular Surgeon,5,1,0,0,1,0,0,0,1,1,0
-Dr. Ava Phillips,Houston,Infectious Disease Specialist,4,0,1,1,0,0,0,0,0,0,0
-Dr. Ethan Thompson,Philadelphia,Proctologist,2,0,1,0,1,0,0,0,1,0,1
-Dr. Harper Smith,San Antonio,Rheumatologist,1,1,1,0,0,0,1,0,1,0,0
-Dr. Mia Cook,Philadelphia,Pulmonologist,5,0,1,0,1,0,1,0,1,0,0
-Dr. Michael Gonzalez,Los Angeles,Neurologist,4,0,0,0,1,1,1,0,1,0,0
-Dr. Harper Gonzalez,San Antonio,Orthopedic Surgeon,3,1,0,1,1,0,1,1,1,1,1
-Dr. Benjamin Anderson,San Diego,Pulmonologist,5,1,0,0,0,0,1,1,1,0,1
-Dr. Benjamin Miller,San Jose,Pharmacologist,1,1,0,0,0,0,1,1,0,0,1
-Dr. Sophia Moore,San Diego,Allergist/Immunologist,2,0,0,1,1,0,1,0,1,1,1
-Dr. Madison Nelson,Dallas,Rheumatologist,1,0,1,0,1,0,0,1,1,1,0
-Dr. Harper Murphy,Dallas,General Practitioner (GP),5,1,1,1,1,0,1,0,0,0,0
-Dr. Ava Scott,Chicago,Dermatologist,1,1,0,0,1,1,1,1,1,0,1
-Dr. Isabella Cook,San Diego,Rheumatologist,2,0,1,1,0,1,1,1,0,0,0
-Dr. Elijah Brown,Dallas,Gastroenterologist,5,0,1,0,0,0,1,1,0,1,1
-Dr. Isabella Hill,San Jose,Orthopedic Surgeon,1,0,0,1,1,1,1,0,0,0,0
-Dr. Sophia White,Los Angeles,Gastroenterologist,3,0,1,1,1,1,1,0,0,0,1
-Dr. Mia Johnson,San Antonio,Rheumatologist,1,0,0,1,0,1,1,0,0,1,0
-Dr. Mason Hernandez,San Antonio,Infectious Disease Specialist,2,0,1,1,0,1,1,1,0,0,0
-Dr. Lucas Bailey,New York,Dermatologist,2,1,0,0,0,1,0,0,1,0,1
-Dr. Harper Murphy,San Diego,"Ear, Nose, and Throat (ENT) Specialist",5,1,1,0,0,1,1,0,1,0,0
-Dr. Mason King,Houston,Cardiologist,4,1,1,0,0,1,1,1,0,0,1
-Dr. Benjamin King,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,1,1,0,1,1,0,0,0
-Dr. Ava Smith,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",3,1,0,0,1,1,0,0,0,0,0
-Dr. Mason Thompson,San Antonio,Pharmacologist,1,0,0,1,1,0,1,0,1,0,1
-Dr. Sophia Morris,Houston,Urologist,2,0,0,0,1,1,0,1,1,0,1
-Dr. Mia Bailey,San Antonio,Proctologist,1,0,0,0,1,1,1,0,1,1,0
-Dr. Ava White,San Jose,Gastroenterologist,2,1,1,1,0,0,1,0,0,1,0
-Dr. Michael Russell,Philadelphia,General Practitioner (GP),2,1,1,0,1,0,1,0,1,1,0
-Dr. Olivia White,San Jose,Endocrinologist,5,1,1,1,0,0,0,1,0,0,1
-Dr. Aiden Gonzalez,Los Angeles,Pulmonologist,5,1,1,1,1,0,0,0,0,0,1
-Dr. Emily Gonzales,San Diego,Neurologist,5,1,0,0,0,1,1,0,1,1,0
-Dr. Olivia Bailey,Philadelphia,Vascular Surgeon,5,1,0,1,0,0,1,1,1,0,0
-Dr. Emily Rivera,San Jose,Cardiologist,2,0,1,1,1,0,1,1,0,1,1
-Dr. Sophia Taylor,Chicago,Endocrinologist,3,0,1,1,1,1,1,1,0,1,0
-Dr. Emily Russell,San Antonio,Rheumatologist,5,1,0,0,1,1,1,1,1,1,0
-Dr. Aiden Hall,Dallas,Pulmonologist,5,1,1,1,1,1,1,1,0,1,1
-Dr. Jacob Adams,San Jose,Vascular Surgeon,1,1,0,1,0,1,0,1,0,0,1
-Dr. Michael Morris,San Diego,Rheumatologist,4,0,0,1,1,0,0,1,0,0,1
-Dr. Jacob Moore,San Diego,General Practitioner (GP),5,0,0,1,1,1,0,1,1,0,1
-Dr. Mia White,New York,Neurologist,1,0,0,1,1,1,0,0,0,0,0
-Dr. William Jones,Houston,Dermatologist,2,1,0,0,1,1,0,1,0,1,0
-Dr. Jacob Williams,San Antonio,Allergist/Immunologist,4,1,1,0,0,1,1,1,1,1,1
-Dr. Isabella Bailey,Phoenix,Cardiologist,2,0,1,1,1,0,1,1,0,0,1
-Dr. Logan Lewis,New York,Gastroenterologist,1,1,0,0,0,0,1,0,0,1,1
-Dr. Ava Adams,San Antonio,Proctologist,1,0,0,0,1,1,1,0,0,0,1
-Dr. Aiden Gonzalez,Los Angeles,Pulmonologist,4,1,0,0,1,0,0,1,0,0,0
-Dr. Isabella White,San Antonio,General Practitioner (GP),3,0,1,1,1,1,1,1,0,0,1
-Dr. Mia Hernandez,Houston,Endocrinologist,5,1,1,1,0,1,0,1,0,1,1
-Dr. Mia Bailey,San Antonio,Dermatologist,1,0,0,0,0,0,1,0,0,0,1
-Dr. Daniel Adams,Chicago,"Ear, Nose, and Throat (ENT) Specialist",4,0,0,0,1,0,0,1,1,1,1
-Dr. Olivia Garcia,Los Angeles,Orthopedic Surgeon,3,1,1,0,1,1,1,0,1,1,0
-Dr. Emily Morris,Philadelphia,Gastroenterologist,3,1,1,1,1,1,1,0,0,0,0
-Dr. Mason Baker,San Diego,Cardiologist,1,0,0,1,1,1,1,0,1,0,1
-Dr. Mia Green,Los Angeles,Vascular Surgeon,4,1,0,1,1,1,0,0,0,0,0
-Dr. Daniel Wright,San Jose,Infectious Disease Specialist,2,0,1,1,1,1,0,1,1,1,1
-Dr. Michael Williams,Chicago,Dermatologist,3,0,0,1,1,0,0,0,1,1,0
-Dr. Logan Miller,Houston,Pulmonologist,4,1,0,1,1,1,1,0,1,1,0
-Dr. Olivia Roberts,Dallas,Vascular Surgeon,1,0,0,0,0,0,0,0,0,1,1
-Dr. Mia Lopez,Los Angeles,Endocrinologist,5,1,0,1,0,0,0,1,1,0,1
-Dr. Harper Murphy,Chicago,Proctologist,1,1,1,1,0,1,0,0,0,0,0
-Dr. Jacob Hernandez,Chicago,Dermatologist,4,1,0,1,0,1,1,0,1,1,1
-Dr. Jacob Harris,San Diego,Cardiologist,2,1,0,1,1,0,1,1,1,1,1
-Dr. James Scott,San Antonio,Vascular Surgeon,2,0,0,0,1,1,1,0,1,1,0
-Dr. Matthew Lee,Philadelphia,Allergist/Immunologist,2,0,0,0,0,1,1,0,1,1,0
-Dr. Elizabeth Jones,San Antonio,Endocrinologist,2,0,1,1,1,1,0,0,1,1,0
-Dr. Isabella Morris,Phoenix,Urologist,1,0,0,0,1,1,0,0,1,0,0
-Dr. Michael Bailey,San Diego,Infectious Disease Specialist,3,1,0,1,1,0,1,1,1,1,1
-Dr. Benjamin Thompson,San Jose,Endocrinologist,3,1,1,0,0,1,1,1,1,1,0
-Dr. Ethan Gonzalez,New York,Pharmacologist,1,1,1,0,1,1,1,0,0,0,0
-Dr. Sophia Scott,Dallas,Dermatologist,2,1,1,1,0,1,1,1,0,0,0
-Dr. Ethan Lee,San Jose,Endocrinologist,4,0,0,1,1,1,0,1,0,1,0
-Dr. William Wright,New York,Orthopedic Surgeon,4,0,0,0,1,1,0,0,0,1,1
-Dr. Isabella Gonzales,Houston,Gastroenterologist,2,0,0,1,1,1,1,1,1,0,1
-Dr. Emily Miller,Houston,Endocrinologist,1,1,0,1,0,1,0,1,0,1,0
-Dr. Ethan Scott,San Antonio,General Practitioner (GP),1,0,0,1,0,1,1,1,0,0,0
-Dr. Alexander Morris,San Jose,Neurologist,4,0,1,0,1,1,1,0,0,0,1
-Dr. Ava Rivera,Dallas,Gastroenterologist,4,1,0,0,1,0,1,1,1,0,0
-Dr. Emily Hernandez,San Diego,Rheumatologist,1,0,1,0,0,1,1,0,1,0,0
-Dr. Mason Miller,San Antonio,General Practitioner (GP),2,0,1,1,0,1,1,1,1,0,1
-Dr. Olivia Evans,Philadelphia,Rheumatologist,4,1,0,1,0,0,0,0,1,1,0
-Dr. Noah Wilson,Houston,Dermatologist,5,0,1,0,0,0,1,0,0,0,0
-Dr. Mason Bailey,San Antonio,Pharmacologist,1,1,0,0,1,0,0,0,1,0,1
-Dr. Jacob Morris,Phoenix,Endocrinologist,2,0,0,1,1,0,1,1,0,1,0
-Dr. Harper Hernandez,Los Angeles,General Practitioner (GP),4,0,1,0,1,0,0,1,0,1,0
-Dr. Aiden Carter,Philadelphia,Endocrinologist,5,1,0,1,0,1,0,1,0,0,0
-Dr. Charlotte Brown,Los Angeles,Vascular Surgeon,2,1,0,0,1,1,1,0,0,1,1
-Dr. Madison Williams,Dallas,Gastroenterologist,4,1,0,1,0,0,0,1,1,0,1
-Dr. Logan Green,Chicago,Pulmonologist,5,0,1,0,0,1,1,0,0,1,1
-Dr. Mason Russell,Phoenix,Pulmonologist,5,0,0,1,1,0,0,1,0,0,0
-Dr. Mia Stewart,Chicago,Endocrinologist,2,1,1,1,0,1,0,0,0,1,0
-Dr. Jacob Jones,Phoenix,Dermatologist,3,1,1,1,0,0,1,0,1,1,0
-Dr. Matthew Wilson,San Antonio,Infectious Disease Specialist,2,0,1,1,1,1,0,0,0,0,1
-Dr. Sophia Carter,Dallas,Endocrinologist,2,1,1,0,0,1,1,0,1,1,1
-Dr. Olivia Lopez,San Antonio,Pulmonologist,4,1,0,1,0,1,1,0,1,1,1
-Dr. Benjamin Scott,San Diego,Endocrinologist,4,0,1,0,0,1,0,0,1,0,1
-Dr. Michael Johnson,San Jose,Pharmacologist,3,1,0,1,1,0,1,0,0,0,1
-Dr. Ava Baker,Philadelphia,Cardiologist,5,1,0,0,0,1,0,0,1,1,0
-Dr. Ethan Davis,Dallas,Dermatologist,2,1,1,1,0,0,1,1,1,1,0
-Dr. Isabella White,San Diego,Vascular Surgeon,4,1,0,0,1,0,0,1,0,1,1
-Dr. Emily Miller,Houston,Dermatologist,4,0,0,0,0,0,0,0,0,0,0
-Dr. Mia Edwards,San Antonio,Pulmonologist,2,0,0,0,1,0,1,1,1,1,1
-Dr. Harper Jones,Chicago,Dermatologist,2,1,0,1,1,0,0,0,1,0,1
-Dr. William Wright,Los Angeles,Neurologist,5,0,0,0,1,1,1,0,1,0,0
-Dr. Sophia White,Philadelphia,Pharmacologist,2,0,0,1,1,1,0,1,0,1,0
-Dr. Jacob Bailey,San Diego,Pharmacologist,5,0,0,1,0,0,1,0,0,0,0
-Dr. Lucas Davis,Dallas,Gastroenterologist,1,0,1,1,1,1,0,1,0,0,0
-Dr. Ava Harris,Philadelphia,Vascular Surgeon,4,0,1,0,1,1,0,0,1,0,0
-Dr. Harper Morris,San Antonio,Pharmacologist,5,1,1,1,0,1,0,0,0,1,1
-Dr. Emily Johnson,Philadelphia,Rheumatologist,5,1,1,1,1,1,0,0,0,0,1
-Dr. Emily Lewis,San Jose,Proctologist,4,0,0,0,1,0,0,0,0,0,0
-Dr. Harper Johnson,San Diego,Allergist/Immunologist,1,1,1,0,1,1,0,0,1,0,0
-Dr. Emily Nelson,Philadelphia,Urologist,2,0,1,1,1,0,1,1,1,0,1
-Dr. Jacob Lee,Phoenix,Infectious Disease Specialist,4,0,0,1,1,1,1,1,0,1,0
-Dr. Harper Lee,Los Angeles,General Practitioner (GP),3,0,1,1,0,1,0,0,1,1,1
-Dr. Olivia Coleman,San Antonio,Infectious Disease Specialist,2,0,0,0,0,0,0,1,1,0,0
-Dr. Amelia Russell,San Diego,Pharmacologist,5,1,1,1,0,1,0,1,1,0,1
-Dr. Noah Adams,San Diego,Urologist,4,0,0,0,0,1,1,1,0,0,1
-Dr. Daniel Taylor,New York,Vascular Surgeon,3,0,1,1,1,1,1,1,0,0,0
-Dr. Mason Brown,San Diego,Gastroenterologist,4,0,1,1,0,1,1,1,0,0,0
-Dr. Michael Davis,New York,Urologist,2,1,0,1,0,0,1,1,0,0,0
-Dr. Daniel Wright,Los Angeles,General Practitioner (GP),2,0,0,0,0,1,0,0,1,1,1
-Dr. Charlotte Moore,Chicago,Gastroenterologist,3,1,0,1,1,1,1,1,0,0,1
-Dr. Matthew Thompson,New York,Cardiologist,1,0,1,0,1,0,1,0,1,1,0
-Dr. Isabella Hall,San Jose,Allergist/Immunologist,3,0,1,0,0,0,1,0,0,0,0
-Dr. Michael Harris,New York,Pulmonologist,3,0,1,1,0,1,0,0,0,1,1
-Dr. Mason Rivera,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,0,1,1,0,1,1,1,0,1,0
-Dr. Jacob Hill,San Diego,Pharmacologist,5,0,1,1,0,0,1,1,0,1,1
-Dr. Noah Garcia,San Antonio,Pharmacologist,4,0,1,0,0,0,1,0,1,1,0
-Dr. Harper Lee,New York,Gastroenterologist,2,0,1,1,0,0,1,1,1,0,0
-Dr. Evelyn Thompson,New York,Endocrinologist,1,0,0,0,0,1,1,1,1,0,1
-Dr. Alexander Evans,Philadelphia,Gastroenterologist,1,0,1,0,1,1,1,0,1,1,0
-Dr. Ethan Roberts,San Diego,Allergist/Immunologist,1,0,1,0,1,0,0,1,1,1,0
-Dr. Michael Nelson,Houston,Neurologist,3,1,1,0,1,1,1,0,1,0,1
-Dr. William Taylor,Philadelphia,Urologist,5,1,0,1,1,0,0,1,0,0,1
-Dr. Chloe Lewis,Chicago,Cardiologist,1,1,1,0,1,1,0,1,0,1,0
-Dr. Benjamin Bailey,San Antonio,Urologist,4,1,0,0,1,1,0,0,0,0,1
-Dr. James Adams,Philadelphia,Allergist/Immunologist,1,0,1,1,0,1,0,1,1,0,1
-Dr. Madison Phillips,San Diego,Endocrinologist,1,1,0,0,0,1,0,0,0,1,1
-Dr. Charlotte Morris,Philadelphia,Neurologist,2,0,0,1,0,1,1,0,1,0,0
-Dr. Harper Wilson,San Jose,Cardiologist,5,1,1,1,0,1,1,1,0,0,1
-Dr. Isabella Rodriguez,Dallas,Proctologist,4,0,1,0,0,1,0,0,0,0,0
-Dr. Benjamin Harris,San Diego,Urologist,2,0,0,1,0,1,0,1,1,0,0
-Dr. Daniel Harris,San Antonio,"Ear, Nose, and Throat (ENT) Specialist",5,0,1,0,1,0,1,0,1,1,1
-Dr. Charlotte Phillips,San Antonio,Rheumatologist,1,0,1,1,1,1,0,0,1,0,1
-Dr. Emily Lewis,Dallas,Neurologist,5,1,0,1,0,1,0,1,0,1,1
-Dr. Jacob Bailey,Philadelphia,Pharmacologist,1,0,0,1,0,0,1,1,1,1,1
-Dr. Michael Phillips,Houston,Infectious Disease Specialist,3,1,0,0,0,0,1,1,1,0,0
-Dr. Evelyn Gonzalez,San Jose,Cardiologist,3,0,0,1,0,1,1,1,0,1,1
-Dr. Olivia Stewart,Los Angeles,Proctologist,1,1,1,0,1,1,0,0,0,1,0
-Dr. Isabella King,Philadelphia,Proctologist,2,0,0,1,1,0,1,0,1,1,0
-Dr. Mason Miller,Chicago,Neurologist,1,0,1,1,1,1,1,1,0,1,0
-Dr. Abigail Green,Phoenix,Gastroenterologist,1,0,1,0,0,1,0,1,0,0,0
-Dr. Jacob Moore,Los Angeles,Pulmonologist,5,0,1,1,1,1,1,1,1,1,0
-Dr. Mason Perez,Chicago,Neurologist,2,0,1,0,1,0,1,1,0,0,1
-Dr. Abigail Wright,Dallas,Dermatologist,2,1,0,1,1,1,1,1,1,0,0
-Dr. Emily Mitchell,Los Angeles,Orthopedic Surgeon,1,1,0,1,1,1,1,0,1,0,0
-Dr. Benjamin Phillips,San Antonio,Neurologist,2,0,0,0,0,1,0,1,0,0,1
-Dr. Ava Perez,Los Angeles,Vascular Surgeon,3,0,0,1,1,1,1,0,1,0,0
-Dr. Benjamin Smith,Houston,Rheumatologist,2,0,1,1,1,1,0,0,0,1,0
-Dr. Mason Scott,New York,Endocrinologist,1,0,0,0,1,0,0,1,1,1,0
-Dr. Olivia White,Houston,Gastroenterologist,3,1,0,0,0,0,0,1,1,1,1
-Dr. Michael Scott,Dallas,Allergist/Immunologist,2,1,1,0,0,1,1,1,1,1,0
-Dr. Emily Cook,Philadelphia,Cardiologist,2,1,0,0,0,0,1,1,1,1,1
-Dr. Amelia Brown,Chicago,Endocrinologist,2,0,0,0,0,1,0,0,0,0,1
-Dr. Emily Harris,Philadelphia,Neurologist,4,0,0,0,1,0,0,1,0,0,0
-Dr. Olivia Carter,Phoenix,Cardiologist,3,1,1,0,0,0,0,1,0,1,0
-Dr. William Scott,Philadelphia,Cardiologist,1,0,1,0,0,0,1,1,1,0,1
-Dr. Ava Lopez,Chicago,Gastroenterologist,5,1,1,0,0,0,1,1,0,0,1
-Dr. Isabella Wilson,Philadelphia,General Practitioner (GP),2,0,0,0,1,0,0,1,0,1,0
-Dr. Sophia Garcia,Chicago,Vascular Surgeon,5,1,0,1,0,0,1,0,1,1,1
-Dr. Logan Baker,Chicago,Proctologist,1,0,0,0,0,1,0,1,0,1,1
-Dr. Michael Clark,Philadelphia,Orthopedic Surgeon,3,1,1,0,1,1,1,1,1,1,1
-Dr. Jacob Miller,San Antonio,General Practitioner (GP),1,1,1,1,1,1,1,0,0,1,0
-Dr. Abigail Anderson,New York,Cardiologist,5,0,0,1,0,1,0,1,1,0,1
-Dr. Ethan Bailey,Phoenix,Urologist,3,1,1,0,1,1,0,0,0,0,0
-Dr. James Roberts,Los Angeles,Vascular Surgeon,5,0,0,0,0,1,1,0,1,0,1
-Dr. Ethan Nelson,Los Angeles,Allergist/Immunologist,4,0,0,0,0,1,1,0,0,1,0
-Dr. Chloe Smith,Philadelphia,Proctologist,5,1,1,0,1,1,1,0,1,0,1
-Dr. Amelia Harris,Los Angeles,Proctologist,1,1,0,1,0,0,1,1,1,1,1
-Dr. William Hill,Philadelphia,Urologist,5,1,0,0,0,1,1,0,0,0,1
-Dr. Ava Taylor,San Diego,General Practitioner (GP),5,0,0,0,0,1,0,1,1,0,1
-Dr. Harper Scott,Phoenix,Allergist/Immunologist,5,1,1,1,0,1,1,0,0,0,0
-Dr. Madison Lee,Chicago,Endocrinologist,3,1,1,1,0,0,0,1,0,0,1
-Dr. Isabella Garcia,San Antonio,Endocrinologist,5,1,0,1,1,1,1,1,0,0,0
-Dr. Chloe Hill,Dallas,Allergist/Immunologist,4,0,1,1,0,0,0,1,0,0,1
-Dr. Ethan Mitchell,Dallas,Dermatologist,2,1,1,1,1,0,1,0,1,0,0
-Dr. Michael Hall,Houston,Rheumatologist,3,0,1,1,0,0,1,0,0,0,1
-Dr. Harper Coleman,New York,Cardiologist,1,0,0,0,0,0,1,1,0,0,0
+Name,Location,Specialization,Rating,Availability,Monday,Tuesday,Wednestday,Thursday,Friday,Saturday
+Dr. Noah Rivera,Dallas,Allergist/Immunologist,5,1,12PM,1PM,9AM,10AM,1PM,5PM
+Dr. Elizabeth Phillips,San Antonio,General Practitioner (GP),3,0,10AM,1PM,1PM,4PM,11AM,11AM
+Dr. Olivia Taylor,San Antonio,Urologist,1,1,5PM,5PM,12PM,11AM,1PM,3PM
+Dr. Harper Martinez,Phoenix,Urologist,5,0,5PM,4PM,4PM,12PM,1PM,12PM
+Dr. Harper Williams,San Diego,Urologist,4,0,3PM,4PM,5PM,5PM,4PM,5PM
+Dr. Harper Evans,Chicago,Allergist/Immunologist,4,0,5PM,3PM,11AM,5PM,4PM,5PM
+Dr. Jacob Miller,San Antonio,Gastroenterologist,4,1,3PM,4PM,12PM,10AM,11AM,None
+Dr. Logan Clark,Los Angeles,Pharmacologist,4,1,10AM,12PM,9AM,1PM,1PM,4PM
+Dr. Daniel Rivera,San Jose,Gastroenterologist,4,0,5PM,None,2PM,9AM,2PM,3PM
+Dr. Benjamin Edwards,Chicago,Allergist/Immunologist,2,1,None,5PM,3PM,12PM,1PM,None
+Dr. Madison Anderson,New York,Pulmonologist,3,0,4PM,10AM,4PM,9AM,2PM,2PM
+Dr. Madison Wilson,San Jose,Orthopedic Surgeon,5,1,12PM,None,5PM,5PM,10AM,10AM
+Dr. Amelia Moore,Phoenix,Gastroenterologist,5,0,3PM,12PM,4PM,9AM,2PM,11AM
+Dr. James Clark,San Jose,Infectious Disease Specialist,2,1,10AM,11AM,9AM,3PM,2PM,None
+Dr. Daniel Russell,Philadelphia,Cardiologist,5,0,3PM,12PM,12PM,1PM,10AM,1PM
+Dr. Ethan Jones,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,1,11AM,5PM,2PM,3PM,5PM,None
+Dr. Mia Lee,San Jose,Pharmacologist,5,1,10AM,11AM,None,12PM,5PM,10AM
+Dr. Daniel Mitchell,Houston,Urologist,1,0,3PM,3PM,4PM,9AM,11AM,None
+Dr. Elizabeth Lopez,Phoenix,Dermatologist,1,0,1PM,2PM,None,12PM,12PM,11AM
+Dr. Jacob Lewis,Dallas,Pharmacologist,2,0,10AM,10AM,12PM,12PM,5PM,9AM
+Dr. Sophia Clark,Philadelphia,General Practitioner (GP),5,1,9AM,4PM,4PM,2PM,9AM,None
+Dr. Noah Lopez,Philadelphia,Rheumatologist,3,1,4PM,10AM,10AM,12PM,10AM,2PM
+Dr. Harper Gonzalez,San Diego,General Practitioner (GP),2,0,4PM,11AM,4PM,1PM,4PM,10AM
+Dr. Mason Murphy,New York,Allergist/Immunologist,2,0,11AM,2PM,5PM,10AM,11AM,3PM
+Dr. Olivia Green,Chicago,Gastroenterologist,1,1,2PM,5PM,1PM,4PM,None,12PM
+Dr. Evelyn Hill,New York,Infectious Disease Specialist,2,0,12PM,None,2PM,11AM,None,3PM
+Dr. Noah Rodriguez,Los Angeles,Pharmacologist,4,1,1PM,None,None,3PM,5PM,None
+Dr. Chloe Wilson,Phoenix,Pulmonologist,2,1,12PM,10AM,12PM,12PM,3PM,4PM
+Dr. Daniel Murphy,Houston,Urologist,4,1,12PM,None,11AM,3PM,2PM,1PM
+Dr. Jacob Phillips,Dallas,Gastroenterologist,3,0,None,3PM,10AM,5PM,1PM,1PM
+Dr. Emily Edwards,San Diego,Pharmacologist,5,0,11AM,3PM,11AM,12PM,4PM,5PM
+Dr. Alexander Murphy,Phoenix,Infectious Disease Specialist,1,1,3PM,2PM,9AM,9AM,10AM,9AM
+Dr. Abigail Perez,Los Angeles,Dermatologist,5,0,12PM,None,10AM,12PM,5PM,4PM
+Dr. Mason Wright,New York,Allergist/Immunologist,2,1,12PM,12PM,4PM,5PM,11AM,5PM
+Dr. Daniel Davis,Chicago,Dermatologist,4,1,10AM,12PM,10AM,11AM,12PM,3PM
+Dr. James White,Dallas,Infectious Disease Specialist,5,0,1PM,2PM,9AM,12PM,2PM,3PM
+Dr. Sophia Gonzales,Houston,Allergist/Immunologist,5,0,12PM,12PM,2PM,5PM,10AM,12PM
+Dr. Logan Garcia,New York,Cardiologist,4,1,10AM,None,4PM,None,2PM,1PM
+Dr. Isabella Phillips,New York,Proctologist,3,1,4PM,11AM,2PM,2PM,11AM,None
+Dr. Michael Thompson,Chicago,Urologist,4,1,9AM,4PM,3PM,5PM,11AM,4PM
+Dr. Abigail Edwards,New York,Allergist/Immunologist,2,0,1PM,4PM,1PM,None,11AM,2PM
+Dr. Ava Mitchell,Philadelphia,Urologist,5,0,11AM,9AM,12PM,3PM,2PM,10AM
+Dr. Ethan Taylor,San Jose,Neurologist,1,1,3PM,12PM,1PM,9AM,3PM,12PM
+Dr. Amelia Mitchell,New York,Vascular Surgeon,3,1,11AM,None,None,11AM,5PM,11AM
+Dr. Mia Lewis,Houston,Neurologist,4,0,5PM,4PM,1PM,None,4PM,2PM
+Dr. Mason Adams,Dallas,"Ear, Nose, and Throat (ENT) Specialist",1,1,12PM,3PM,1PM,11AM,10AM,12PM
+Dr. Charlotte Scott,San Diego,"Ear, Nose, and Throat (ENT) Specialist",4,1,3PM,10AM,11AM,11AM,2PM,5PM
+Dr. Sophia Russell,San Antonio,Neurologist,4,0,12PM,5PM,9AM,9AM,5PM,2PM
+Dr. Mia Taylor,New York,"Ear, Nose, and Throat (ENT) Specialist",4,1,11AM,None,1PM,12PM,None,2PM
+Dr. Ethan Carter,Chicago,"Ear, Nose, and Throat (ENT) Specialist",4,1,5PM,9AM,2PM,3PM,12PM,3PM
+Dr. Emily Gonzalez,Chicago,Dermatologist,4,1,11AM,5PM,1PM,3PM,5PM,9AM
+Dr. Michael Scott,San Jose,Proctologist,5,1,11AM,3PM,None,3PM,5PM,5PM
+Dr. Logan Morris,Philadelphia,Neurologist,4,0,5PM,5PM,11AM,1PM,11AM,12PM
+Dr. Elijah Miller,Chicago,Orthopedic Surgeon,2,0,5PM,9AM,9AM,9AM,1PM,11AM
+Dr. Chloe Stewart,San Diego,Allergist/Immunologist,5,1,10AM,10AM,2PM,2PM,12PM,11AM
+Dr. Elijah Gonzalez,Phoenix,Rheumatologist,1,0,None,11AM,9AM,None,4PM,2PM
+Dr. Michael Gonzalez,Phoenix,Infectious Disease Specialist,4,0,3PM,5PM,10AM,4PM,3PM,12PM
+Dr. Jacob Clark,Phoenix,Gastroenterologist,2,0,2PM,3PM,2PM,12PM,1PM,5PM
+Dr. William Perez,Dallas,"Ear, Nose, and Throat (ENT) Specialist",5,1,3PM,12PM,10AM,12PM,12PM,5PM
+Dr. Harper Mitchell,Los Angeles,Pulmonologist,3,1,11AM,None,1PM,1PM,12PM,1PM
+Dr. Sophia Stewart,San Antonio,Proctologist,1,1,5PM,1PM,12PM,None,10AM,3PM
+Dr. Evelyn Carter,Dallas,Gastroenterologist,2,1,1PM,11AM,10AM,3PM,10AM,2PM
+Dr. Charlotte Gonzales,Chicago,Urologist,5,1,9AM,10AM,9AM,9AM,3PM,10AM
+Dr. Michael Lee,Dallas,Gastroenterologist,5,1,12PM,5PM,1PM,5PM,9AM,4PM
+Dr. Emily Martinez,San Antonio,Endocrinologist,3,1,9AM,1PM,10AM,10AM,None,1PM
+Dr. Elizabeth Jones,Philadelphia,Allergist/Immunologist,5,1,10AM,2PM,2PM,None,5PM,None
+Dr. Ava Jones,Chicago,Cardiologist,2,0,10AM,3PM,9AM,9AM,10AM,11AM
+Dr. Ava Adams,New York,Allergist/Immunologist,5,1,3PM,12PM,10AM,10AM,5PM,10AM
+Dr. Harper Anderson,Los Angeles,Allergist/Immunologist,4,0,11AM,11AM,12PM,11AM,4PM,9AM
+Dr. Olivia Clark,Phoenix,Endocrinologist,5,1,9AM,None,11AM,3PM,12PM,None
+Dr. Abigail Gonzales,Dallas,Endocrinologist,3,0,10AM,1PM,3PM,5PM,4PM,4PM
+Dr. Elijah Adams,San Diego,Urologist,1,0,4PM,12PM,None,4PM,4PM,9AM
+Dr. Benjamin Cook,San Antonio,Cardiologist,1,0,3PM,12PM,3PM,5PM,11AM,1PM
+Dr. William Smith,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,0,11AM,10AM,5PM,11AM,1PM,4PM
+Dr. Mason Rodriguez,Dallas,Orthopedic Surgeon,1,1,3PM,2PM,4PM,1PM,10AM,12PM
+Dr. Matthew Anderson,Houston,Dermatologist,3,1,None,None,3PM,10AM,3PM,4PM
+Dr. Ava King,Chicago,Infectious Disease Specialist,4,1,10AM,None,2PM,3PM,None,4PM
+Dr. Olivia Hill,Philadelphia,Cardiologist,5,1,10AM,2PM,None,3PM,12PM,9AM
+Dr. Ethan Cook,Dallas,Cardiologist,4,1,5PM,None,4PM,5PM,5PM,None
+Dr. Evelyn Adams,Houston,"Ear, Nose, and Throat (ENT) Specialist",1,0,1PM,10AM,9AM,3PM,5PM,5PM
+Dr. Mia Smith,San Jose,Gastroenterologist,5,0,11AM,2PM,5PM,5PM,10AM,None
+Dr. James Adams,Los Angeles,Dermatologist,1,0,1PM,2PM,12PM,9AM,4PM,12PM
+Dr. Sophia Russell,Philadelphia,Pulmonologist,5,1,3PM,5PM,2PM,None,9AM,1PM
+Dr. Jacob Williams,New York,Orthopedic Surgeon,4,0,1PM,9AM,10AM,5PM,1PM,11AM
+Dr. Elizabeth Williams,Chicago,Dermatologist,1,0,1PM,4PM,5PM,2PM,3PM,9AM
+Dr. Amelia Jones,New York,Pharmacologist,3,1,None,11AM,2PM,None,4PM,9AM
+Dr. Ethan Lee,San Diego,Vascular Surgeon,1,0,9AM,2PM,12PM,9AM,10AM,3PM
+Dr. William Miller,San Jose,Pulmonologist,3,0,10AM,12PM,10AM,4PM,4PM,9AM
+Dr. Michael Taylor,New York,"Ear, Nose, and Throat (ENT) Specialist",1,1,10AM,1PM,5PM,1PM,None,5PM
+Dr. Mia Smith,Los Angeles,Dermatologist,4,1,None,2PM,2PM,10AM,9AM,9AM
+Dr. Olivia Williams,Chicago,Gastroenterologist,1,1,11AM,10AM,2PM,11AM,10AM,9AM
+Dr. Isabella Hill,Dallas,Allergist/Immunologist,1,0,12PM,3PM,11AM,2PM,1PM,9AM
+Dr. Noah Williams,New York,Dermatologist,2,0,9AM,11AM,4PM,None,None,2PM
+Dr. Daniel Coleman,New York,Allergist/Immunologist,4,1,12PM,5PM,12PM,3PM,None,9AM
+Dr. Logan Wright,New York,Gastroenterologist,1,1,10AM,3PM,1PM,12PM,2PM,9AM
+Dr. Charlotte Moore,Los Angeles,Infectious Disease Specialist,5,1,5PM,5PM,9AM,2PM,2PM,2PM
+Dr. Ethan Brown,Houston,Orthopedic Surgeon,5,1,10AM,3PM,10AM,5PM,5PM,11AM
+Dr. Sophia Smith,San Jose,Cardiologist,5,0,4PM,4PM,12PM,None,3PM,3PM
+Dr. William Rivera,Chicago,"Ear, Nose, and Throat (ENT) Specialist",2,1,None,11AM,9AM,None,5PM,12PM
+Dr. Emily Gonzalez,Phoenix,Allergist/Immunologist,4,0,5PM,11AM,1PM,None,None,11AM
+Dr. Lucas Miller,San Diego,Pharmacologist,3,0,12PM,12PM,4PM,None,None,3PM
+Dr. Elizabeth Bailey,San Diego,Cardiologist,1,1,9AM,9AM,3PM,None,4PM,9AM
+Dr. Benjamin Gonzales,Phoenix,General Practitioner (GP),5,1,9AM,11AM,None,3PM,11AM,9AM
+Dr. Alexander Martinez,San Antonio,Dermatologist,2,0,2PM,10AM,2PM,11AM,None,10AM
+Dr. William Harris,Phoenix,Cardiologist,1,0,9AM,4PM,9AM,3PM,11AM,10AM
+Dr. James Stewart,San Diego,Gastroenterologist,3,0,5PM,12PM,4PM,9AM,None,4PM
+Dr. William Coleman,San Diego,Rheumatologist,1,0,9AM,4PM,3PM,None,5PM,2PM
+Dr. Mia Perez,Philadelphia,General Practitioner (GP),3,0,1PM,5PM,2PM,9AM,4PM,3PM
+Dr. Lucas Hernandez,Philadelphia,Proctologist,2,0,None,5PM,4PM,9AM,None,5PM
+Dr. Ethan Mitchell,New York,Gastroenterologist,4,0,1PM,5PM,10AM,None,4PM,10AM
+Dr. Olivia Garcia,Philadelphia,Gastroenterologist,4,1,12PM,None,10AM,9AM,2PM,10AM
+Dr. Olivia Morris,Dallas,General Practitioner (GP),3,0,11AM,4PM,10AM,9AM,12PM,None
+Dr. Isabella Phillips,Dallas,Urologist,4,0,10AM,2PM,None,9AM,11AM,10AM
+Dr. Harper Davis,Houston,"Ear, Nose, and Throat (ENT) Specialist",5,1,10AM,5PM,11AM,11AM,1PM,11AM
+Dr. Alexander Green,Dallas,Neurologist,2,0,9AM,11AM,4PM,12PM,2PM,1PM
+Dr. Mia Harris,Dallas,Pulmonologist,4,0,12PM,None,3PM,10AM,4PM,2PM
+Dr. Aiden Baker,Dallas,Gastroenterologist,3,1,4PM,None,5PM,11AM,5PM,None
+Dr. Noah Edwards,San Diego,Urologist,1,1,None,None,9AM,4PM,None,11AM
+Dr. Daniel Lewis,Phoenix,Pharmacologist,2,0,5PM,5PM,4PM,11AM,3PM,3PM
+Dr. Evelyn White,New York,Neurologist,4,0,12PM,3PM,4PM,10AM,10AM,9AM
+Dr. Emily Rivera,Los Angeles,Proctologist,5,0,None,10AM,None,12PM,3PM,9AM
+Dr. Matthew Baker,Chicago,Urologist,2,1,12PM,9AM,None,5PM,5PM,None
+Dr. Sophia Nelson,Phoenix,Vascular Surgeon,4,1,11AM,9AM,12PM,10AM,12PM,11AM
+Dr. Abigail Bailey,San Jose,Rheumatologist,5,1,2PM,3PM,1PM,2PM,4PM,3PM
+Dr. Noah Smith,Chicago,Urologist,2,0,None,3PM,4PM,9AM,2PM,4PM
+Dr. Jacob King,San Jose,Vascular Surgeon,5,1,10AM,4PM,5PM,4PM,9AM,None
+Dr. Mason Evans,Chicago,Neurologist,1,0,4PM,12PM,10AM,3PM,4PM,11AM
+Dr. Mia Lopez,Phoenix,Vascular Surgeon,5,0,1PM,10AM,5PM,3PM,2PM,1PM
+Dr. Charlotte Johnson,San Diego,Dermatologist,5,1,1PM,11AM,3PM,1PM,9AM,1PM
+Dr. Olivia Russell,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",1,0,1PM,1PM,5PM,12PM,None,1PM
+Dr. Benjamin Wilson,Houston,Neurologist,2,0,1PM,None,10AM,3PM,10AM,None
+Dr. Benjamin Wright,San Antonio,Endocrinologist,3,1,5PM,2PM,1PM,3PM,1PM,10AM
+Dr. Abigail Garcia,Philadelphia,Vascular Surgeon,4,0,4PM,3PM,12PM,2PM,12PM,2PM
+Dr. Ava Morris,Houston,Pulmonologist,3,1,10AM,4PM,4PM,12PM,3PM,2PM
+Dr. Olivia Moore,Houston,Endocrinologist,1,0,4PM,9AM,11AM,None,10AM,11AM
+Dr. Daniel Anderson,San Antonio,Pulmonologist,3,1,12PM,None,None,3PM,12PM,4PM
+Dr. Harper Davis,San Antonio,Endocrinologist,2,0,12PM,4PM,3PM,4PM,3PM,9AM
+Dr. Evelyn Clark,Dallas,Orthopedic Surgeon,3,0,9AM,None,12PM,3PM,12PM,9AM
+Dr. Ethan Lopez,Dallas,Rheumatologist,3,1,3PM,9AM,2PM,10AM,None,9AM
+Dr. James Cook,San Antonio,Gastroenterologist,1,1,10AM,5PM,3PM,4PM,None,12PM
+Dr. Evelyn Phillips,San Antonio,Infectious Disease Specialist,1,1,1PM,3PM,None,9AM,1PM,10AM
+Dr. Aiden Wilson,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",2,0,4PM,3PM,None,1PM,3PM,4PM
+Dr. Abigail Brown,Phoenix,Urologist,4,0,11AM,9AM,1PM,10AM,2PM,10AM
+Dr. Charlotte Lee,Chicago,Cardiologist,5,1,5PM,11AM,2PM,None,2PM,9AM
+Dr. Lucas Martinez,Philadelphia,Endocrinologist,2,0,5PM,None,5PM,5PM,9AM,4PM
+Dr. Daniel Rivera,San Antonio,Cardiologist,3,1,11AM,10AM,3PM,9AM,2PM,3PM
+Dr. Amelia Anderson,Chicago,Neurologist,4,1,2PM,9AM,None,3PM,None,None
+Dr. Jacob Gonzalez,Chicago,"Ear, Nose, and Throat (ENT) Specialist",3,1,1PM,None,10AM,10AM,2PM,1PM
+Dr. Michael Morris,Houston,Neurologist,5,1,12PM,2PM,1PM,12PM,2PM,9AM
+Dr. Abigail Lee,San Diego,Urologist,5,1,2PM,4PM,9AM,4PM,12PM,11AM
+Dr. Michael Harris,New York,Pulmonologist,5,1,1PM,None,2PM,2PM,10AM,3PM
+Dr. Daniel Lee,Houston,Infectious Disease Specialist,3,1,None,5PM,5PM,10AM,12PM,12PM
+Dr. Abigail White,New York,Cardiologist,4,0,9AM,1PM,5PM,11AM,4PM,3PM
+Dr. Ethan Adams,Los Angeles,Pharmacologist,2,0,4PM,11AM,4PM,4PM,12PM,1PM
+Dr. Ethan Hill,Phoenix,Infectious Disease Specialist,3,1,9AM,4PM,1PM,12PM,4PM,3PM
+Dr. Elijah Taylor,New York,Vascular Surgeon,4,1,5PM,1PM,1PM,11AM,4PM,4PM
+Dr. Alexander Garcia,Philadelphia,General Practitioner (GP),1,0,12PM,10AM,11AM,11AM,5PM,12PM
+Dr. William Harris,Chicago,Dermatologist,2,1,1PM,None,5PM,None,5PM,12PM
+Dr. Lucas Coleman,Los Angeles,Orthopedic Surgeon,2,1,12PM,10AM,2PM,5PM,11AM,12PM
+Dr. Abigail Lopez,Houston,Proctologist,1,0,None,4PM,3PM,12PM,1PM,1PM
+Dr. Mason Jones,Phoenix,Proctologist,1,0,None,2PM,3PM,None,10AM,3PM
+Dr. Sophia Wilson,Houston,Infectious Disease Specialist,5,0,3PM,5PM,12PM,1PM,2PM,9AM
+Dr. Abigail Lee,Dallas,Endocrinologist,1,1,9AM,1PM,10AM,9AM,2PM,2PM
+Dr. Ethan Evans,San Jose,Pharmacologist,4,0,9AM,10AM,2PM,9AM,1PM,3PM
+Dr. Ava Roberts,Phoenix,Vascular Surgeon,1,1,3PM,1PM,3PM,2PM,9AM,3PM
+Dr. Ethan Coleman,Dallas,Vascular Surgeon,1,1,12PM,9AM,11AM,11AM,9AM,10AM
+Dr. Jacob Rodriguez,Phoenix,Gastroenterologist,4,1,1PM,10AM,5PM,5PM,4PM,10AM
+Dr. James Brown,Philadelphia,Pulmonologist,1,1,9AM,3PM,1PM,11AM,5PM,3PM
+Dr. Michael Lee,Los Angeles,Endocrinologist,3,1,4PM,1PM,12PM,2PM,2PM,5PM
+Dr. Matthew Williams,Houston,Endocrinologist,4,0,11AM,5PM,9AM,9AM,None,3PM
+Dr. Olivia Hernandez,Phoenix,Pharmacologist,1,1,3PM,11AM,None,11AM,10AM,5PM
+Dr. Matthew Smith,Los Angeles,Dermatologist,5,1,3PM,1PM,10AM,4PM,3PM,12PM
+Dr. Emily Russell,Chicago,Rheumatologist,3,0,4PM,2PM,1PM,11AM,11AM,4PM
+Dr. Isabella Wilson,Houston,Allergist/Immunologist,1,1,9AM,1PM,11AM,3PM,10AM,3PM
+Dr. Michael Mitchell,Los Angeles,Orthopedic Surgeon,5,1,1PM,1PM,12PM,4PM,None,None
+Dr. Jacob Jones,San Jose,Orthopedic Surgeon,3,0,9AM,None,1PM,4PM,10AM,9AM
+Dr. Harper Murphy,Phoenix,Neurologist,3,1,2PM,3PM,10AM,11AM,None,10AM
+Dr. Matthew Phillips,San Jose,Proctologist,2,0,None,11AM,1PM,12PM,3PM,None
+Dr. Emily Gonzales,Houston,Dermatologist,3,0,2PM,10AM,10AM,5PM,5PM,10AM
+Dr. William Mitchell,San Antonio,Pharmacologist,3,0,9AM,2PM,2PM,4PM,10AM,4PM
+Dr. Michael Baker,Houston,Neurologist,1,1,4PM,5PM,10AM,10AM,2PM,1PM
+Dr. Ava Miller,Chicago,Infectious Disease Specialist,2,0,3PM,3PM,3PM,5PM,2PM,11AM
+Dr. Mason Adams,Dallas,Pulmonologist,5,1,2PM,9AM,None,3PM,5PM,4PM
+Dr. Ethan Williams,Los Angeles,Allergist/Immunologist,5,0,1PM,9AM,2PM,3PM,3PM,11AM
+Dr. Emily Thompson,San Diego,Neurologist,1,0,11AM,None,12PM,12PM,None,11AM
+Dr. James Rivera,Chicago,Cardiologist,1,0,12PM,2PM,None,2PM,4PM,2PM
+Dr. Sophia Nelson,Houston,"Ear, Nose, and Throat (ENT) Specialist",5,0,None,9AM,None,12PM,10AM,5PM
+Dr. William Gonzalez,San Antonio,Dermatologist,4,1,12PM,1PM,5PM,11AM,11AM,5PM
+Dr. Jacob Rivera,San Antonio,Cardiologist,3,0,None,5PM,10AM,12PM,None,10AM
+Dr. Benjamin Stewart,Houston,Infectious Disease Specialist,4,0,3PM,5PM,None,10AM,5PM,None
+Dr. Isabella Russell,Chicago,Gastroenterologist,3,0,2PM,11AM,5PM,11AM,4PM,2PM
+Dr. Sophia Davis,New York,Proctologist,1,0,4PM,11AM,10AM,11AM,1PM,5PM
+Dr. Alexander Evans,Dallas,Cardiologist,4,1,3PM,10AM,12PM,5PM,1PM,4PM
+Dr. Elijah Stewart,San Antonio,Dermatologist,1,1,1PM,12PM,3PM,10AM,4PM,5PM
+Dr. William Gonzalez,Chicago,Vascular Surgeon,3,0,None,1PM,3PM,4PM,2PM,3PM
+Dr. Ava Mitchell,Phoenix,Rheumatologist,4,0,2PM,3PM,2PM,None,5PM,4PM
+Dr. Charlotte Lewis,Phoenix,Endocrinologist,2,0,2PM,12PM,12PM,3PM,5PM,11AM
+Dr. Harper Perez,Chicago,Neurologist,1,1,11AM,2PM,3PM,11AM,4PM,None
+Dr. Evelyn Edwards,San Antonio,Urologist,3,0,2PM,10AM,None,3PM,9AM,9AM
+Dr. Isabella Harris,Chicago,Cardiologist,5,0,9AM,5PM,11AM,11AM,4PM,9AM

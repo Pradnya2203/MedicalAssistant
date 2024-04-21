@@ -5,6 +5,10 @@ import pickle
 from fuzzywuzzy import process
 from streamlit_extras.add_vertical_space import add_vertical_space
 
+st.markdown('''## Contact Now''')
+
+st.caption("If you're not feeling well, reach out to a doctor right away and share your symptoms for the care you need")
+
 model_path = "../Backend/rnd_forest.sav"
 model = pickle.load(open(model_path, 'rb'))
 
@@ -53,28 +57,30 @@ def predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5):
 
 
 def main():
-    st.subheader('Please give the following information')
-    Name = st.text_input("Enter your name")
-    st.subheader('Please mention your symptoms here')
+    st.markdown('''#### Please give your information''')
+    Name = st.text_input("Enter your name:")
+    st.markdown('''#### Mention your symptoms here''')
     Symptom1 = st.text_input("Symptom 1")
-    Symptom2 = st.text_input("Symptom 2")
-    Symptom3 = st.text_input("Symptom 3")
-    Symptom4 = st.text_input("Symptom 4")
-    Symptom5 = st.text_input("Symptom 5")
+    Symptom2 = st.text_input("Symptom 2 (Optional)")
+    Symptom3 = st.text_input("Symptom 3 (Optional)")
+    Symptom4 = st.text_input("Symptom 4 (Optional)")
+    Symptom5 = st.text_input("Symptom 5 (Optional)")
 
     
-    if st.button("Predict"):
+    if st.button("Check Availability"):
         data=predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5)
         data = data.reset_index()
-        fin = pd.DataFrame(data)
-        st.write(f"{Name}, you should consider reaching out to a {fin.loc[0, 'Specialization']}")
+        st.write(f"{Name}, you should consider reaching out to a {data.loc[0, 'Specialization']}")
         st.write("Here is the list of doctors available at the moment")
-        avail = fin[fin['Availability'] == 1]
-        columns_to_drop = ['Availability', '9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5PM']
-        avail=avail.drop(columns=columns_to_drop)
-        avail=avail.head(5)
-        st.write(avail)
-        st.write("You can choose to have a quick chat/video call with them right now or book an appointment tomorrow by heading to the appointment page")
+        avail = data[data['Availability'] == 1]
+        if avail.empty:
+            st.write("Sorry, none of our doctors are online at the moment")
+        else:
+            columns_to_drop = ['Availability', 'Monday','Tuesday','Wednestday','Thursday','Friday','Saturday','index']
+            avail=avail.drop(columns=columns_to_drop)
+            avail=avail.head(5)
+            st.write(avail)
+            st.write("You can choose to have a quick chat/video call with them right now or book an appointment later by heading to the appointment page")
 
     st.write("Thank You for visiting us")
 if __name__=='__main__':
