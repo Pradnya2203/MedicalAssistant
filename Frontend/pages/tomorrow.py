@@ -44,10 +44,9 @@ def predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5):
     array=array.reshape(1, -1)
     prediction = model.predict(array)
     result = disease_specialization[disease_specialization['Disease']==prediction[0]]['Specialization'].values[0]
-    # print(result)
+    st.write(f"It looks like you may have {prediction[0]}")
     filtered_df = doc_data[doc_data['Specialization'] == result]
     sorted_df_desc = filtered_df.sort_values(by='Rating', ascending=False)
-    # sorted_df_desc=sorted_df_desc.head(5)
     return sorted_df_desc
 
 
@@ -84,12 +83,10 @@ def main():
                     columns_to_drop = ['Availability', '9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5PM','Location']
                     avail=avail.drop(columns=columns_to_drop)
                     avail=avail.head(5)
-                    st.write(f"Hello {Name}, The Doctors available tomorrow at your {answer} at {Location} are:")
+                    st.write(f"{Name}, The Doctors available tomorrow at your {answer} at {Location} are:")
                     st.write(avail)
+                    st.write("You can book an appointment tomorrow at your convinient time and location, or you can also have a quick video call or chat with one of our experts online by heading to the immediate page")
 
-
-
-    st.success("yess")
 
 if __name__=='__main__':
     main()

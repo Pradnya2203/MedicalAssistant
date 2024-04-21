@@ -44,11 +44,10 @@ def predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5):
     array = np.array(array)
     array=array.reshape(1, -1)
     prediction = model.predict(array)
+    st.write(f"It looks like you may have {prediction[0]}")
     result = disease_specialization[disease_specialization['Disease']==prediction[0]]['Specialization'].values[0]
-    # print(result)
     filtered_df = doc_data[doc_data['Specialization'] == result]
     sorted_df_desc = filtered_df.sort_values(by='Rating', ascending=False)
-    # sorted_df_desc=sorted_df_desc.head(5)
     return sorted_df_desc
 
 
@@ -66,17 +65,18 @@ def main():
     
     if st.button("Predict"):
         data=predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5)
+        data = data.reset_index()
         fin = pd.DataFrame(data)
-        st.write(f"Hello {Name}, The Doctors online right now are:")
+        st.write(f"{Name}, you should consider reaching out to a {fin.loc[0, 'Specialization']}")
+        st.write("Here is the list of doctors available at the moment")
         avail = fin[fin['Availability'] == 1]
         columns_to_drop = ['Availability', '9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5PM']
         avail=avail.drop(columns=columns_to_drop)
         avail=avail.head(5)
         st.write(avail)
+        st.write("You can choose to have a quick chat/video call with them right now or book an appointment tomorrow by heading to the appointment page")
 
-        # st.write(fin)
-    st.success("yess")
-
+    st.write("Thank You for visiting us")
 if __name__=='__main__':
     main()
 
