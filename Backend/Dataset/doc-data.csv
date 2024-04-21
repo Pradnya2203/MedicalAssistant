@@ -1,201 +1,501 @@
-Name,Location,Specialization,Rating,Availability,Monday,Tuesday,Wednestday,Thursday,Friday,Saturday
-Dr. Noah Rivera,Dallas,Allergist/Immunologist,5,1,12PM,1PM,9AM,10AM,1PM,5PM
-Dr. Elizabeth Phillips,San Antonio,General Practitioner (GP),3,0,10AM,1PM,1PM,4PM,11AM,11AM
-Dr. Olivia Taylor,San Antonio,Urologist,1,1,5PM,5PM,12PM,11AM,1PM,3PM
-Dr. Harper Martinez,Phoenix,Urologist,5,0,5PM,4PM,4PM,12PM,1PM,12PM
-Dr. Harper Williams,San Diego,Urologist,4,0,3PM,4PM,5PM,5PM,4PM,5PM
-Dr. Harper Evans,Chicago,Allergist/Immunologist,4,0,5PM,3PM,11AM,5PM,4PM,5PM
-Dr. Jacob Miller,San Antonio,Gastroenterologist,4,1,3PM,4PM,12PM,10AM,11AM,None
-Dr. Logan Clark,Los Angeles,Pharmacologist,4,1,10AM,12PM,9AM,1PM,1PM,4PM
-Dr. Daniel Rivera,San Jose,Gastroenterologist,4,0,5PM,None,2PM,9AM,2PM,3PM
-Dr. Benjamin Edwards,Chicago,Allergist/Immunologist,2,1,None,5PM,3PM,12PM,1PM,None
-Dr. Madison Anderson,New York,Pulmonologist,3,0,4PM,10AM,4PM,9AM,2PM,2PM
-Dr. Madison Wilson,San Jose,Orthopedic Surgeon,5,1,12PM,None,5PM,5PM,10AM,10AM
-Dr. Amelia Moore,Phoenix,Gastroenterologist,5,0,3PM,12PM,4PM,9AM,2PM,11AM
-Dr. James Clark,San Jose,Infectious Disease Specialist,2,1,10AM,11AM,9AM,3PM,2PM,None
-Dr. Daniel Russell,Philadelphia,Cardiologist,5,0,3PM,12PM,12PM,1PM,10AM,1PM
-Dr. Ethan Jones,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,1,11AM,5PM,2PM,3PM,5PM,None
-Dr. Mia Lee,San Jose,Pharmacologist,5,1,10AM,11AM,None,12PM,5PM,10AM
-Dr. Daniel Mitchell,Houston,Urologist,1,0,3PM,3PM,4PM,9AM,11AM,None
-Dr. Elizabeth Lopez,Phoenix,Dermatologist,1,0,1PM,2PM,None,12PM,12PM,11AM
-Dr. Jacob Lewis,Dallas,Pharmacologist,2,0,10AM,10AM,12PM,12PM,5PM,9AM
-Dr. Sophia Clark,Philadelphia,General Practitioner (GP),5,1,9AM,4PM,4PM,2PM,9AM,None
-Dr. Noah Lopez,Philadelphia,Rheumatologist,3,1,4PM,10AM,10AM,12PM,10AM,2PM
-Dr. Harper Gonzalez,San Diego,General Practitioner (GP),2,0,4PM,11AM,4PM,1PM,4PM,10AM
-Dr. Mason Murphy,New York,Allergist/Immunologist,2,0,11AM,2PM,5PM,10AM,11AM,3PM
-Dr. Olivia Green,Chicago,Gastroenterologist,1,1,2PM,5PM,1PM,4PM,None,12PM
-Dr. Evelyn Hill,New York,Infectious Disease Specialist,2,0,12PM,None,2PM,11AM,None,3PM
-Dr. Noah Rodriguez,Los Angeles,Pharmacologist,4,1,1PM,None,None,3PM,5PM,None
-Dr. Chloe Wilson,Phoenix,Pulmonologist,2,1,12PM,10AM,12PM,12PM,3PM,4PM
-Dr. Daniel Murphy,Houston,Urologist,4,1,12PM,None,11AM,3PM,2PM,1PM
-Dr. Jacob Phillips,Dallas,Gastroenterologist,3,0,None,3PM,10AM,5PM,1PM,1PM
-Dr. Emily Edwards,San Diego,Pharmacologist,5,0,11AM,3PM,11AM,12PM,4PM,5PM
-Dr. Alexander Murphy,Phoenix,Infectious Disease Specialist,1,1,3PM,2PM,9AM,9AM,10AM,9AM
-Dr. Abigail Perez,Los Angeles,Dermatologist,5,0,12PM,None,10AM,12PM,5PM,4PM
-Dr. Mason Wright,New York,Allergist/Immunologist,2,1,12PM,12PM,4PM,5PM,11AM,5PM
-Dr. Daniel Davis,Chicago,Dermatologist,4,1,10AM,12PM,10AM,11AM,12PM,3PM
-Dr. James White,Dallas,Infectious Disease Specialist,5,0,1PM,2PM,9AM,12PM,2PM,3PM
-Dr. Sophia Gonzales,Houston,Allergist/Immunologist,5,0,12PM,12PM,2PM,5PM,10AM,12PM
-Dr. Logan Garcia,New York,Cardiologist,4,1,10AM,None,4PM,None,2PM,1PM
-Dr. Isabella Phillips,New York,Proctologist,3,1,4PM,11AM,2PM,2PM,11AM,None
-Dr. Michael Thompson,Chicago,Urologist,4,1,9AM,4PM,3PM,5PM,11AM,4PM
-Dr. Abigail Edwards,New York,Allergist/Immunologist,2,0,1PM,4PM,1PM,None,11AM,2PM
-Dr. Ava Mitchell,Philadelphia,Urologist,5,0,11AM,9AM,12PM,3PM,2PM,10AM
-Dr. Ethan Taylor,San Jose,Neurologist,1,1,3PM,12PM,1PM,9AM,3PM,12PM
-Dr. Amelia Mitchell,New York,Vascular Surgeon,3,1,11AM,None,None,11AM,5PM,11AM
-Dr. Mia Lewis,Houston,Neurologist,4,0,5PM,4PM,1PM,None,4PM,2PM
-Dr. Mason Adams,Dallas,"Ear, Nose, and Throat (ENT) Specialist",1,1,12PM,3PM,1PM,11AM,10AM,12PM
-Dr. Charlotte Scott,San Diego,"Ear, Nose, and Throat (ENT) Specialist",4,1,3PM,10AM,11AM,11AM,2PM,5PM
-Dr. Sophia Russell,San Antonio,Neurologist,4,0,12PM,5PM,9AM,9AM,5PM,2PM
-Dr. Mia Taylor,New York,"Ear, Nose, and Throat (ENT) Specialist",4,1,11AM,None,1PM,12PM,None,2PM
-Dr. Ethan Carter,Chicago,"Ear, Nose, and Throat (ENT) Specialist",4,1,5PM,9AM,2PM,3PM,12PM,3PM
-Dr. Emily Gonzalez,Chicago,Dermatologist,4,1,11AM,5PM,1PM,3PM,5PM,9AM
-Dr. Michael Scott,San Jose,Proctologist,5,1,11AM,3PM,None,3PM,5PM,5PM
-Dr. Logan Morris,Philadelphia,Neurologist,4,0,5PM,5PM,11AM,1PM,11AM,12PM
-Dr. Elijah Miller,Chicago,Orthopedic Surgeon,2,0,5PM,9AM,9AM,9AM,1PM,11AM
-Dr. Chloe Stewart,San Diego,Allergist/Immunologist,5,1,10AM,10AM,2PM,2PM,12PM,11AM
-Dr. Elijah Gonzalez,Phoenix,Rheumatologist,1,0,None,11AM,9AM,None,4PM,2PM
-Dr. Michael Gonzalez,Phoenix,Infectious Disease Specialist,4,0,3PM,5PM,10AM,4PM,3PM,12PM
-Dr. Jacob Clark,Phoenix,Gastroenterologist,2,0,2PM,3PM,2PM,12PM,1PM,5PM
-Dr. William Perez,Dallas,"Ear, Nose, and Throat (ENT) Specialist",5,1,3PM,12PM,10AM,12PM,12PM,5PM
-Dr. Harper Mitchell,Los Angeles,Pulmonologist,3,1,11AM,None,1PM,1PM,12PM,1PM
-Dr. Sophia Stewart,San Antonio,Proctologist,1,1,5PM,1PM,12PM,None,10AM,3PM
-Dr. Evelyn Carter,Dallas,Gastroenterologist,2,1,1PM,11AM,10AM,3PM,10AM,2PM
-Dr. Charlotte Gonzales,Chicago,Urologist,5,1,9AM,10AM,9AM,9AM,3PM,10AM
-Dr. Michael Lee,Dallas,Gastroenterologist,5,1,12PM,5PM,1PM,5PM,9AM,4PM
-Dr. Emily Martinez,San Antonio,Endocrinologist,3,1,9AM,1PM,10AM,10AM,None,1PM
-Dr. Elizabeth Jones,Philadelphia,Allergist/Immunologist,5,1,10AM,2PM,2PM,None,5PM,None
-Dr. Ava Jones,Chicago,Cardiologist,2,0,10AM,3PM,9AM,9AM,10AM,11AM
-Dr. Ava Adams,New York,Allergist/Immunologist,5,1,3PM,12PM,10AM,10AM,5PM,10AM
-Dr. Harper Anderson,Los Angeles,Allergist/Immunologist,4,0,11AM,11AM,12PM,11AM,4PM,9AM
-Dr. Olivia Clark,Phoenix,Endocrinologist,5,1,9AM,None,11AM,3PM,12PM,None
-Dr. Abigail Gonzales,Dallas,Endocrinologist,3,0,10AM,1PM,3PM,5PM,4PM,4PM
-Dr. Elijah Adams,San Diego,Urologist,1,0,4PM,12PM,None,4PM,4PM,9AM
-Dr. Benjamin Cook,San Antonio,Cardiologist,1,0,3PM,12PM,3PM,5PM,11AM,1PM
-Dr. William Smith,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,0,11AM,10AM,5PM,11AM,1PM,4PM
-Dr. Mason Rodriguez,Dallas,Orthopedic Surgeon,1,1,3PM,2PM,4PM,1PM,10AM,12PM
-Dr. Matthew Anderson,Houston,Dermatologist,3,1,None,None,3PM,10AM,3PM,4PM
-Dr. Ava King,Chicago,Infectious Disease Specialist,4,1,10AM,None,2PM,3PM,None,4PM
-Dr. Olivia Hill,Philadelphia,Cardiologist,5,1,10AM,2PM,None,3PM,12PM,9AM
-Dr. Ethan Cook,Dallas,Cardiologist,4,1,5PM,None,4PM,5PM,5PM,None
-Dr. Evelyn Adams,Houston,"Ear, Nose, and Throat (ENT) Specialist",1,0,1PM,10AM,9AM,3PM,5PM,5PM
-Dr. Mia Smith,San Jose,Gastroenterologist,5,0,11AM,2PM,5PM,5PM,10AM,None
-Dr. James Adams,Los Angeles,Dermatologist,1,0,1PM,2PM,12PM,9AM,4PM,12PM
-Dr. Sophia Russell,Philadelphia,Pulmonologist,5,1,3PM,5PM,2PM,None,9AM,1PM
-Dr. Jacob Williams,New York,Orthopedic Surgeon,4,0,1PM,9AM,10AM,5PM,1PM,11AM
-Dr. Elizabeth Williams,Chicago,Dermatologist,1,0,1PM,4PM,5PM,2PM,3PM,9AM
-Dr. Amelia Jones,New York,Pharmacologist,3,1,None,11AM,2PM,None,4PM,9AM
-Dr. Ethan Lee,San Diego,Vascular Surgeon,1,0,9AM,2PM,12PM,9AM,10AM,3PM
-Dr. William Miller,San Jose,Pulmonologist,3,0,10AM,12PM,10AM,4PM,4PM,9AM
-Dr. Michael Taylor,New York,"Ear, Nose, and Throat (ENT) Specialist",1,1,10AM,1PM,5PM,1PM,None,5PM
-Dr. Mia Smith,Los Angeles,Dermatologist,4,1,None,2PM,2PM,10AM,9AM,9AM
-Dr. Olivia Williams,Chicago,Gastroenterologist,1,1,11AM,10AM,2PM,11AM,10AM,9AM
-Dr. Isabella Hill,Dallas,Allergist/Immunologist,1,0,12PM,3PM,11AM,2PM,1PM,9AM
-Dr. Noah Williams,New York,Dermatologist,2,0,9AM,11AM,4PM,None,None,2PM
-Dr. Daniel Coleman,New York,Allergist/Immunologist,4,1,12PM,5PM,12PM,3PM,None,9AM
-Dr. Logan Wright,New York,Gastroenterologist,1,1,10AM,3PM,1PM,12PM,2PM,9AM
-Dr. Charlotte Moore,Los Angeles,Infectious Disease Specialist,5,1,5PM,5PM,9AM,2PM,2PM,2PM
-Dr. Ethan Brown,Houston,Orthopedic Surgeon,5,1,10AM,3PM,10AM,5PM,5PM,11AM
-Dr. Sophia Smith,San Jose,Cardiologist,5,0,4PM,4PM,12PM,None,3PM,3PM
-Dr. William Rivera,Chicago,"Ear, Nose, and Throat (ENT) Specialist",2,1,None,11AM,9AM,None,5PM,12PM
-Dr. Emily Gonzalez,Phoenix,Allergist/Immunologist,4,0,5PM,11AM,1PM,None,None,11AM
-Dr. Lucas Miller,San Diego,Pharmacologist,3,0,12PM,12PM,4PM,None,None,3PM
-Dr. Elizabeth Bailey,San Diego,Cardiologist,1,1,9AM,9AM,3PM,None,4PM,9AM
-Dr. Benjamin Gonzales,Phoenix,General Practitioner (GP),5,1,9AM,11AM,None,3PM,11AM,9AM
-Dr. Alexander Martinez,San Antonio,Dermatologist,2,0,2PM,10AM,2PM,11AM,None,10AM
-Dr. William Harris,Phoenix,Cardiologist,1,0,9AM,4PM,9AM,3PM,11AM,10AM
-Dr. James Stewart,San Diego,Gastroenterologist,3,0,5PM,12PM,4PM,9AM,None,4PM
-Dr. William Coleman,San Diego,Rheumatologist,1,0,9AM,4PM,3PM,None,5PM,2PM
-Dr. Mia Perez,Philadelphia,General Practitioner (GP),3,0,1PM,5PM,2PM,9AM,4PM,3PM
-Dr. Lucas Hernandez,Philadelphia,Proctologist,2,0,None,5PM,4PM,9AM,None,5PM
-Dr. Ethan Mitchell,New York,Gastroenterologist,4,0,1PM,5PM,10AM,None,4PM,10AM
-Dr. Olivia Garcia,Philadelphia,Gastroenterologist,4,1,12PM,None,10AM,9AM,2PM,10AM
-Dr. Olivia Morris,Dallas,General Practitioner (GP),3,0,11AM,4PM,10AM,9AM,12PM,None
-Dr. Isabella Phillips,Dallas,Urologist,4,0,10AM,2PM,None,9AM,11AM,10AM
-Dr. Harper Davis,Houston,"Ear, Nose, and Throat (ENT) Specialist",5,1,10AM,5PM,11AM,11AM,1PM,11AM
-Dr. Alexander Green,Dallas,Neurologist,2,0,9AM,11AM,4PM,12PM,2PM,1PM
-Dr. Mia Harris,Dallas,Pulmonologist,4,0,12PM,None,3PM,10AM,4PM,2PM
-Dr. Aiden Baker,Dallas,Gastroenterologist,3,1,4PM,None,5PM,11AM,5PM,None
-Dr. Noah Edwards,San Diego,Urologist,1,1,None,None,9AM,4PM,None,11AM
-Dr. Daniel Lewis,Phoenix,Pharmacologist,2,0,5PM,5PM,4PM,11AM,3PM,3PM
-Dr. Evelyn White,New York,Neurologist,4,0,12PM,3PM,4PM,10AM,10AM,9AM
-Dr. Emily Rivera,Los Angeles,Proctologist,5,0,None,10AM,None,12PM,3PM,9AM
-Dr. Matthew Baker,Chicago,Urologist,2,1,12PM,9AM,None,5PM,5PM,None
-Dr. Sophia Nelson,Phoenix,Vascular Surgeon,4,1,11AM,9AM,12PM,10AM,12PM,11AM
-Dr. Abigail Bailey,San Jose,Rheumatologist,5,1,2PM,3PM,1PM,2PM,4PM,3PM
-Dr. Noah Smith,Chicago,Urologist,2,0,None,3PM,4PM,9AM,2PM,4PM
-Dr. Jacob King,San Jose,Vascular Surgeon,5,1,10AM,4PM,5PM,4PM,9AM,None
-Dr. Mason Evans,Chicago,Neurologist,1,0,4PM,12PM,10AM,3PM,4PM,11AM
-Dr. Mia Lopez,Phoenix,Vascular Surgeon,5,0,1PM,10AM,5PM,3PM,2PM,1PM
-Dr. Charlotte Johnson,San Diego,Dermatologist,5,1,1PM,11AM,3PM,1PM,9AM,1PM
-Dr. Olivia Russell,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",1,0,1PM,1PM,5PM,12PM,None,1PM
-Dr. Benjamin Wilson,Houston,Neurologist,2,0,1PM,None,10AM,3PM,10AM,None
-Dr. Benjamin Wright,San Antonio,Endocrinologist,3,1,5PM,2PM,1PM,3PM,1PM,10AM
-Dr. Abigail Garcia,Philadelphia,Vascular Surgeon,4,0,4PM,3PM,12PM,2PM,12PM,2PM
-Dr. Ava Morris,Houston,Pulmonologist,3,1,10AM,4PM,4PM,12PM,3PM,2PM
-Dr. Olivia Moore,Houston,Endocrinologist,1,0,4PM,9AM,11AM,None,10AM,11AM
-Dr. Daniel Anderson,San Antonio,Pulmonologist,3,1,12PM,None,None,3PM,12PM,4PM
-Dr. Harper Davis,San Antonio,Endocrinologist,2,0,12PM,4PM,3PM,4PM,3PM,9AM
-Dr. Evelyn Clark,Dallas,Orthopedic Surgeon,3,0,9AM,None,12PM,3PM,12PM,9AM
-Dr. Ethan Lopez,Dallas,Rheumatologist,3,1,3PM,9AM,2PM,10AM,None,9AM
-Dr. James Cook,San Antonio,Gastroenterologist,1,1,10AM,5PM,3PM,4PM,None,12PM
-Dr. Evelyn Phillips,San Antonio,Infectious Disease Specialist,1,1,1PM,3PM,None,9AM,1PM,10AM
-Dr. Aiden Wilson,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",2,0,4PM,3PM,None,1PM,3PM,4PM
-Dr. Abigail Brown,Phoenix,Urologist,4,0,11AM,9AM,1PM,10AM,2PM,10AM
-Dr. Charlotte Lee,Chicago,Cardiologist,5,1,5PM,11AM,2PM,None,2PM,9AM
-Dr. Lucas Martinez,Philadelphia,Endocrinologist,2,0,5PM,None,5PM,5PM,9AM,4PM
-Dr. Daniel Rivera,San Antonio,Cardiologist,3,1,11AM,10AM,3PM,9AM,2PM,3PM
-Dr. Amelia Anderson,Chicago,Neurologist,4,1,2PM,9AM,None,3PM,None,None
-Dr. Jacob Gonzalez,Chicago,"Ear, Nose, and Throat (ENT) Specialist",3,1,1PM,None,10AM,10AM,2PM,1PM
-Dr. Michael Morris,Houston,Neurologist,5,1,12PM,2PM,1PM,12PM,2PM,9AM
-Dr. Abigail Lee,San Diego,Urologist,5,1,2PM,4PM,9AM,4PM,12PM,11AM
-Dr. Michael Harris,New York,Pulmonologist,5,1,1PM,None,2PM,2PM,10AM,3PM
-Dr. Daniel Lee,Houston,Infectious Disease Specialist,3,1,None,5PM,5PM,10AM,12PM,12PM
-Dr. Abigail White,New York,Cardiologist,4,0,9AM,1PM,5PM,11AM,4PM,3PM
-Dr. Ethan Adams,Los Angeles,Pharmacologist,2,0,4PM,11AM,4PM,4PM,12PM,1PM
-Dr. Ethan Hill,Phoenix,Infectious Disease Specialist,3,1,9AM,4PM,1PM,12PM,4PM,3PM
-Dr. Elijah Taylor,New York,Vascular Surgeon,4,1,5PM,1PM,1PM,11AM,4PM,4PM
-Dr. Alexander Garcia,Philadelphia,General Practitioner (GP),1,0,12PM,10AM,11AM,11AM,5PM,12PM
-Dr. William Harris,Chicago,Dermatologist,2,1,1PM,None,5PM,None,5PM,12PM
-Dr. Lucas Coleman,Los Angeles,Orthopedic Surgeon,2,1,12PM,10AM,2PM,5PM,11AM,12PM
-Dr. Abigail Lopez,Houston,Proctologist,1,0,None,4PM,3PM,12PM,1PM,1PM
-Dr. Mason Jones,Phoenix,Proctologist,1,0,None,2PM,3PM,None,10AM,3PM
-Dr. Sophia Wilson,Houston,Infectious Disease Specialist,5,0,3PM,5PM,12PM,1PM,2PM,9AM
-Dr. Abigail Lee,Dallas,Endocrinologist,1,1,9AM,1PM,10AM,9AM,2PM,2PM
-Dr. Ethan Evans,San Jose,Pharmacologist,4,0,9AM,10AM,2PM,9AM,1PM,3PM
-Dr. Ava Roberts,Phoenix,Vascular Surgeon,1,1,3PM,1PM,3PM,2PM,9AM,3PM
-Dr. Ethan Coleman,Dallas,Vascular Surgeon,1,1,12PM,9AM,11AM,11AM,9AM,10AM
-Dr. Jacob Rodriguez,Phoenix,Gastroenterologist,4,1,1PM,10AM,5PM,5PM,4PM,10AM
-Dr. James Brown,Philadelphia,Pulmonologist,1,1,9AM,3PM,1PM,11AM,5PM,3PM
-Dr. Michael Lee,Los Angeles,Endocrinologist,3,1,4PM,1PM,12PM,2PM,2PM,5PM
-Dr. Matthew Williams,Houston,Endocrinologist,4,0,11AM,5PM,9AM,9AM,None,3PM
-Dr. Olivia Hernandez,Phoenix,Pharmacologist,1,1,3PM,11AM,None,11AM,10AM,5PM
-Dr. Matthew Smith,Los Angeles,Dermatologist,5,1,3PM,1PM,10AM,4PM,3PM,12PM
-Dr. Emily Russell,Chicago,Rheumatologist,3,0,4PM,2PM,1PM,11AM,11AM,4PM
-Dr. Isabella Wilson,Houston,Allergist/Immunologist,1,1,9AM,1PM,11AM,3PM,10AM,3PM
-Dr. Michael Mitchell,Los Angeles,Orthopedic Surgeon,5,1,1PM,1PM,12PM,4PM,None,None
-Dr. Jacob Jones,San Jose,Orthopedic Surgeon,3,0,9AM,None,1PM,4PM,10AM,9AM
-Dr. Harper Murphy,Phoenix,Neurologist,3,1,2PM,3PM,10AM,11AM,None,10AM
-Dr. Matthew Phillips,San Jose,Proctologist,2,0,None,11AM,1PM,12PM,3PM,None
-Dr. Emily Gonzales,Houston,Dermatologist,3,0,2PM,10AM,10AM,5PM,5PM,10AM
-Dr. William Mitchell,San Antonio,Pharmacologist,3,0,9AM,2PM,2PM,4PM,10AM,4PM
-Dr. Michael Baker,Houston,Neurologist,1,1,4PM,5PM,10AM,10AM,2PM,1PM
-Dr. Ava Miller,Chicago,Infectious Disease Specialist,2,0,3PM,3PM,3PM,5PM,2PM,11AM
-Dr. Mason Adams,Dallas,Pulmonologist,5,1,2PM,9AM,None,3PM,5PM,4PM
-Dr. Ethan Williams,Los Angeles,Allergist/Immunologist,5,0,1PM,9AM,2PM,3PM,3PM,11AM
-Dr. Emily Thompson,San Diego,Neurologist,1,0,11AM,None,12PM,12PM,None,11AM
-Dr. James Rivera,Chicago,Cardiologist,1,0,12PM,2PM,None,2PM,4PM,2PM
-Dr. Sophia Nelson,Houston,"Ear, Nose, and Throat (ENT) Specialist",5,0,None,9AM,None,12PM,10AM,5PM
-Dr. William Gonzalez,San Antonio,Dermatologist,4,1,12PM,1PM,5PM,11AM,11AM,5PM
-Dr. Jacob Rivera,San Antonio,Cardiologist,3,0,None,5PM,10AM,12PM,None,10AM
-Dr. Benjamin Stewart,Houston,Infectious Disease Specialist,4,0,3PM,5PM,None,10AM,5PM,None
-Dr. Isabella Russell,Chicago,Gastroenterologist,3,0,2PM,11AM,5PM,11AM,4PM,2PM
-Dr. Sophia Davis,New York,Proctologist,1,0,4PM,11AM,10AM,11AM,1PM,5PM
-Dr. Alexander Evans,Dallas,Cardiologist,4,1,3PM,10AM,12PM,5PM,1PM,4PM
-Dr. Elijah Stewart,San Antonio,Dermatologist,1,1,1PM,12PM,3PM,10AM,4PM,5PM
-Dr. William Gonzalez,Chicago,Vascular Surgeon,3,0,None,1PM,3PM,4PM,2PM,3PM
-Dr. Ava Mitchell,Phoenix,Rheumatologist,4,0,2PM,3PM,2PM,None,5PM,4PM
-Dr. Charlotte Lewis,Phoenix,Endocrinologist,2,0,2PM,12PM,12PM,3PM,5PM,11AM
-Dr. Harper Perez,Chicago,Neurologist,1,1,11AM,2PM,3PM,11AM,4PM,None
-Dr. Evelyn Edwards,San Antonio,Urologist,3,0,2PM,10AM,None,3PM,9AM,9AM
-Dr. Isabella Harris,Chicago,Cardiologist,5,0,9AM,5PM,11AM,11AM,4PM,9AM
+Name,Location,Specialization,User Rating,Availability,Monday,Tuesday,Wednestday,Thursday,Friday,Saturday
+Dr. Olivia Evans,Philadelphia,Infectious Disease Specialist,3,0,4PM,3PM,9AM,5PM,5PM,11AM
+Dr. Alexander Bailey,Philadelphia,Endocrinologist,2,0,9AM,5PM,2PM,10AM,5PM,11AM
+Dr. Isabella Miller,San Diego,Gastroenterologist,5,0,9AM,9AM,5PM,None,10AM,11AM
+Dr. Mason Hill,Phoenix,Rheumatologist,3,1,12PM,3PM,None,5PM,10AM,1PM
+Dr. Amelia Hill,Phoenix,Cardiologist,3,0,10AM,5PM,1PM,3PM,None,9AM
+Dr. William Johnson,Chicago,Pharmacologist,5,0,11AM,10AM,1PM,2PM,2PM,10AM
+Dr. Emily Rodriguez,San Jose,Infectious Disease Specialist,4,1,4PM,4PM,2PM,9AM,1PM,3PM
+Dr. Daniel Thompson,Dallas,Urologist,2,1,12PM,None,10AM,2PM,None,11AM
+Dr. Olivia Green,Philadelphia,General Practitioner (GP),3,1,1PM,5PM,12PM,10AM,1PM,2PM
+Dr. Jacob Phillips,San Jose,Infectious Disease Specialist,5,0,9AM,12PM,10AM,1PM,10AM,3PM
+Dr. William Murphy,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",1,0,3PM,11AM,5PM,10AM,12PM,1PM
+Dr. William Hernandez,San Antonio,Pharmacologist,1,1,9AM,10AM,5PM,5PM,11AM,1PM
+Dr. Olivia Mitchell,Houston,Proctologist,5,0,9AM,9AM,2PM,9AM,5PM,9AM
+Dr. Madison Mitchell,Houston,Gastroenterologist,1,0,5PM,12PM,9AM,10AM,11AM,2PM
+Dr. Ethan White,New York,Endocrinologist,2,1,None,2PM,3PM,5PM,12PM,1PM
+Dr. Evelyn Roberts,New York,Urologist,2,0,11AM,2PM,3PM,None,10AM,9AM
+Dr. Ava Phillips,Houston,Allergist/Immunologist,4,0,11AM,5PM,12PM,3PM,4PM,12PM
+Dr. Ethan Evans,San Diego,Urologist,5,0,9AM,5PM,3PM,5PM,2PM,3PM
+Dr. Noah Carter,New York,Infectious Disease Specialist,1,1,5PM,3PM,10AM,11AM,4PM,9AM
+Dr. Elizabeth Thompson,Philadelphia,Gastroenterologist,5,1,3PM,2PM,2PM,3PM,2PM,2PM
+Dr. Elizabeth Edwards,Phoenix,Pulmonologist,4,0,1PM,5PM,10AM,11AM,12PM,5PM
+Dr. Olivia Gonzales,Phoenix,Rheumatologist,5,0,11AM,5PM,9AM,4PM,10AM,10AM
+Dr. Ethan Baker,Philadelphia,Neurologist,4,0,1PM,9AM,10AM,3PM,4PM,10AM
+Dr. Elijah Russell,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",2,0,2PM,12PM,12PM,11AM,5PM,3PM
+Dr. Elijah Jones,Philadelphia,Neurologist,2,0,4PM,2PM,1PM,None,12PM,1PM
+Dr. Charlotte Gonzales,Dallas,Cardiologist,3,1,3PM,2PM,12PM,4PM,11AM,2PM
+Dr. Mason Williams,Dallas,Urologist,1,0,3PM,11AM,9AM,2PM,3PM,None
+Dr. Harper Wilson,Chicago,General Practitioner (GP),4,1,4PM,1PM,11AM,4PM,9AM,9AM
+Dr. Daniel Carter,Philadelphia,Pharmacologist,1,1,12PM,9AM,9AM,9AM,None,2PM
+Dr. Matthew Smith,San Antonio,Cardiologist,2,0,12PM,5PM,2PM,12PM,10AM,None
+Dr. Charlotte Baker,Chicago,Allergist/Immunologist,1,0,11AM,1PM,12PM,2PM,3PM,10AM
+Dr. Ethan White,San Diego,"Ear, Nose, and Throat (ENT) Specialist",3,0,5PM,9AM,11AM,12PM,10AM,4PM
+Dr. William Roberts,San Jose,Gastroenterologist,1,0,3PM,None,3PM,11AM,4PM,5PM
+Dr. Benjamin Stewart,New York,Vascular Surgeon,2,1,10AM,10AM,None,2PM,3PM,1PM
+Dr. Harper Hernandez,San Jose,Cardiologist,1,0,5PM,None,9AM,3PM,1PM,4PM
+Dr. Michael Garcia,Dallas,Cardiologist,1,0,10AM,None,5PM,12PM,3PM,3PM
+Dr. Emily Bailey,San Diego,Infectious Disease Specialist,1,0,11AM,2PM,None,2PM,5PM,11AM
+Dr. Harper Smith,San Diego,Urologist,2,1,10AM,2PM,2PM,11AM,10AM,4PM
+Dr. Mason Gonzales,Phoenix,General Practitioner (GP),4,0,4PM,5PM,3PM,1PM,None,1PM
+Dr. Mia Anderson,Los Angeles,Rheumatologist,3,0,9AM,11AM,1PM,4PM,9AM,None
+Dr. Daniel Lewis,Philadelphia,Vascular Surgeon,2,0,9AM,3PM,None,None,1PM,5PM
+Dr. Ava Anderson,Houston,"Ear, Nose, and Throat (ENT) Specialist",2,1,4PM,1PM,5PM,4PM,4PM,4PM
+Dr. Mason Gonzales,San Diego,Rheumatologist,2,0,11AM,9AM,3PM,None,4PM,5PM
+Dr. Charlotte Harris,Chicago,Allergist/Immunologist,1,1,None,2PM,12PM,12PM,2PM,10AM
+Dr. Aiden Morris,San Jose,Proctologist,2,1,3PM,3PM,1PM,2PM,9AM,None
+Dr. Elizabeth Morris,San Antonio,"Ear, Nose, and Throat (ENT) Specialist",2,1,5PM,None,9AM,2PM,5PM,4PM
+Dr. Ava Roberts,Phoenix,Pulmonologist,3,1,9AM,5PM,4PM,11AM,2PM,9AM
+Dr. Benjamin Scott,San Jose,Pulmonologist,3,1,4PM,10AM,12PM,4PM,1PM,11AM
+Dr. James Bailey,Dallas,Endocrinologist,5,1,2PM,11AM,10AM,12PM,2PM,9AM
+Dr. James Nelson,Houston,Allergist/Immunologist,2,0,2PM,9AM,5PM,11AM,9AM,4PM
+Dr. Ava Lopez,New York,Gastroenterologist,1,1,11AM,3PM,5PM,12PM,9AM,None
+Dr. Sophia Hill,San Antonio,Allergist/Immunologist,3,1,12PM,2PM,10AM,12PM,2PM,4PM
+Dr. William Thompson,New York,Rheumatologist,2,1,9AM,12PM,9AM,3PM,3PM,9AM
+Dr. Aiden Lewis,Houston,Allergist/Immunologist,2,1,9AM,9AM,None,9AM,None,None
+Dr. Mia Coleman,San Antonio,Urologist,2,0,11AM,11AM,3PM,4PM,5PM,12PM
+Dr. Benjamin Harris,San Jose,Vascular Surgeon,4,1,11AM,10AM,None,10AM,2PM,None
+Dr. Daniel Cook,Dallas,Neurologist,3,0,1PM,4PM,12PM,4PM,12PM,11AM
+Dr. Chloe Taylor,San Jose,Proctologist,5,1,10AM,9AM,9AM,10AM,5PM,1PM
+Dr. Harper Mitchell,San Diego,Pulmonologist,3,0,4PM,4PM,12PM,12PM,5PM,4PM
+Dr. Chloe Murphy,San Antonio,Infectious Disease Specialist,4,0,2PM,5PM,3PM,12PM,5PM,12PM
+Dr. Ava Edwards,Dallas,Rheumatologist,3,1,2PM,4PM,10AM,9AM,11AM,4PM
+Dr. Olivia Wilson,Houston,Dermatologist,4,1,9AM,9AM,4PM,None,9AM,4PM
+Dr. Ethan Rodriguez,Philadelphia,General Practitioner (GP),3,0,12PM,12PM,12PM,1PM,9AM,9AM
+Dr. Ava Edwards,San Jose,Endocrinologist,1,1,10AM,2PM,10AM,12PM,10AM,1PM
+Dr. William Miller,New York,Pulmonologist,3,1,1PM,None,10AM,None,9AM,5PM
+Dr. Harper Hernandez,San Antonio,Rheumatologist,3,0,3PM,9AM,4PM,12PM,1PM,4PM
+Dr. Chloe Hill,Dallas,Allergist/Immunologist,2,0,12PM,1PM,4PM,1PM,11AM,11AM
+Dr. Lucas Rivera,San Diego,Dermatologist,1,1,9AM,4PM,9AM,9AM,1PM,4PM
+Dr. William Lee,San Jose,Pharmacologist,3,1,11AM,1PM,3PM,2PM,2PM,3PM
+Dr. Benjamin White,Philadelphia,Urologist,5,1,11AM,None,None,4PM,12PM,4PM
+Dr. Logan Edwards,Los Angeles,Dermatologist,3,1,1PM,10AM,10AM,10AM,None,1PM
+Dr. Benjamin Gonzalez,Phoenix,Endocrinologist,2,0,11AM,5PM,5PM,3PM,12PM,1PM
+Dr. Daniel Wright,Dallas,Vascular Surgeon,4,0,3PM,2PM,3PM,1PM,3PM,10AM
+Dr. Jacob Phillips,Chicago,Infectious Disease Specialist,5,0,1PM,None,2PM,None,1PM,10AM
+Dr. Olivia Perez,San Jose,"Ear, Nose, and Throat (ENT) Specialist",5,0,None,None,2PM,1PM,10AM,3PM
+Dr. Lucas Taylor,Dallas,Allergist/Immunologist,1,1,2PM,9AM,11AM,1PM,3PM,2PM
+Dr. Daniel Gonzales,Phoenix,Neurologist,2,1,11AM,9AM,1PM,10AM,1PM,10AM
+Dr. Harper Baker,Chicago,Allergist/Immunologist,1,1,2PM,1PM,2PM,11AM,11AM,None
+Dr. Harper Williams,Houston,Gastroenterologist,1,0,9AM,9AM,3PM,5PM,10AM,11AM
+Dr. William Hernandez,Los Angeles,Gastroenterologist,2,1,9AM,12PM,4PM,12PM,2PM,4PM
+Dr. Sophia Lopez,San Jose,Pharmacologist,5,0,5PM,1PM,10AM,10AM,9AM,None
+Dr. Amelia Lee,Dallas,"Ear, Nose, and Throat (ENT) Specialist",4,0,10AM,4PM,4PM,12PM,11AM,10AM
+Dr. Charlotte Phillips,Chicago,Gastroenterologist,5,1,1PM,11AM,9AM,10AM,12PM,2PM
+Dr. Ethan Cook,Dallas,Infectious Disease Specialist,1,1,4PM,12PM,5PM,9AM,4PM,5PM
+Dr. Michael Lewis,Houston,Urologist,1,0,9AM,2PM,4PM,9AM,4PM,3PM
+Dr. Noah Wilson,Los Angeles,Infectious Disease Specialist,2,1,11AM,9AM,1PM,11AM,11AM,None
+Dr. Olivia Thompson,Phoenix,General Practitioner (GP),5,0,3PM,4PM,11AM,10AM,12PM,12PM
+Dr. Sophia Hernandez,Chicago,Dermatologist,5,1,None,10AM,5PM,3PM,1PM,9AM
+Dr. Emily White,Chicago,Urologist,1,0,11AM,1PM,2PM,4PM,2PM,5PM
+Dr. Elizabeth Gonzales,San Diego,Allergist/Immunologist,3,0,11AM,2PM,1PM,10AM,12PM,4PM
+Dr. Sophia Taylor,San Antonio,General Practitioner (GP),5,0,3PM,3PM,4PM,11AM,1PM,5PM
+Dr. Ava Garcia,San Diego,Endocrinologist,1,1,None,10AM,None,2PM,3PM,10AM
+Dr. Daniel Taylor,San Jose,"Ear, Nose, and Throat (ENT) Specialist",4,0,3PM,3PM,1PM,2PM,9AM,1PM
+Dr. Evelyn Russell,Phoenix,Endocrinologist,3,0,12PM,None,10AM,None,5PM,11AM
+Dr. Mason Russell,San Diego,"Ear, Nose, and Throat (ENT) Specialist",2,1,10AM,1PM,None,9AM,1PM,11AM
+Dr. Alexander Mitchell,Chicago,Urologist,1,0,12PM,2PM,12PM,1PM,9AM,5PM
+Dr. Matthew Taylor,San Antonio,Neurologist,2,1,3PM,9AM,5PM,12PM,3PM,None
+Dr. Aiden Scott,Dallas,Urologist,4,0,3PM,None,9AM,2PM,10AM,9AM
+Dr. Abigail Hill,Dallas,Gastroenterologist,1,1,4PM,2PM,None,3PM,2PM,11AM
+Dr. Jacob Roberts,San Diego,General Practitioner (GP),5,0,11AM,1PM,None,2PM,5PM,1PM
+Dr. Benjamin Murphy,Phoenix,General Practitioner (GP),3,0,11AM,10AM,11AM,2PM,3PM,11AM
+Dr. Mason Cook,San Antonio,Pulmonologist,2,1,10AM,None,4PM,None,None,4PM
+Dr. Mia Clark,Phoenix,Infectious Disease Specialist,3,0,4PM,4PM,3PM,5PM,12PM,3PM
+Dr. James Evans,San Diego,Urologist,1,0,4PM,2PM,4PM,5PM,5PM,11AM
+Dr. Benjamin Russell,Dallas,Urologist,5,0,5PM,5PM,3PM,12PM,None,10AM
+Dr. Harper Mitchell,San Jose,Proctologist,3,0,4PM,4PM,10AM,None,12PM,4PM
+Dr. Ethan Davis,Philadelphia,Cardiologist,5,0,10AM,11AM,5PM,12PM,5PM,3PM
+Dr. Amelia Hall,San Jose,Infectious Disease Specialist,2,0,3PM,10AM,10AM,4PM,3PM,11AM
+Dr. Jacob Wilson,Philadelphia,Neurologist,2,1,10AM,3PM,1PM,3PM,None,11AM
+Dr. Emily Roberts,Los Angeles,Infectious Disease Specialist,5,0,5PM,None,2PM,4PM,10AM,11AM
+Dr. Jacob Evans,Philadelphia,Allergist/Immunologist,5,0,5PM,5PM,11AM,None,1PM,2PM
+Dr. Mason Bailey,San Antonio,Cardiologist,5,1,4PM,10AM,5PM,11AM,11AM,4PM
+Dr. Ethan Roberts,New York,Orthopedic Surgeon,3,1,3PM,12PM,11AM,11AM,None,11AM
+Dr. Emily Carter,San Diego,Gastroenterologist,1,0,9AM,9AM,11AM,12PM,12PM,10AM
+Dr. Aiden Davis,New York,Urologist,1,1,5PM,9AM,9AM,9AM,1PM,3PM
+Dr. Ava Jones,Los Angeles,Neurologist,3,0,12PM,2PM,None,1PM,3PM,None
+Dr. Aiden Smith,Philadelphia,General Practitioner (GP),4,0,12PM,1PM,4PM,12PM,11AM,3PM
+Dr. Ethan Wilson,New York,Allergist/Immunologist,3,0,2PM,4PM,12PM,1PM,2PM,4PM
+Dr. Benjamin Rodriguez,Chicago,General Practitioner (GP),1,0,1PM,9AM,1PM,5PM,9AM,2PM
+Dr. Ava Bailey,Philadelphia,Proctologist,1,1,9AM,5PM,None,11AM,11AM,3PM
+Dr. Ava Lopez,San Jose,"Ear, Nose, and Throat (ENT) Specialist",3,0,9AM,3PM,9AM,11AM,11AM,1PM
+Dr. Isabella Jones,Houston,Neurologist,4,0,3PM,None,10AM,10AM,12PM,5PM
+Dr. Elizabeth Phillips,Los Angeles,Rheumatologist,3,0,11AM,1PM,9AM,9AM,2PM,None
+Dr. Olivia Anderson,Dallas,"Ear, Nose, and Throat (ENT) Specialist",4,0,None,11AM,11AM,None,2PM,3PM
+Dr. Benjamin Lopez,San Antonio,Orthopedic Surgeon,2,1,2PM,3PM,12PM,5PM,11AM,4PM
+Dr. Mia Gonzales,New York,Cardiologist,1,0,4PM,12PM,9AM,12PM,5PM,10AM
+Dr. James Lee,San Diego,Allergist/Immunologist,1,0,1PM,4PM,10AM,10AM,2PM,10AM
+Dr. Sophia Hall,Dallas,Proctologist,2,1,3PM,2PM,5PM,10AM,None,1PM
+Dr. Emily Scott,Chicago,Dermatologist,4,1,None,None,3PM,12PM,2PM,5PM
+Dr. Alexander Baker,Houston,Vascular Surgeon,4,0,2PM,11AM,2PM,None,12PM,9AM
+Dr. Olivia Coleman,San Antonio,Neurologist,4,1,1PM,1PM,12PM,10AM,None,12PM
+Dr. Mason Scott,Dallas,Urologist,4,1,4PM,10AM,12PM,10AM,1PM,11AM
+Dr. Chloe Hill,New York,Neurologist,4,1,2PM,5PM,3PM,12PM,1PM,10AM
+Dr. Ethan Hernandez,Houston,Vascular Surgeon,4,0,1PM,1PM,1PM,11AM,3PM,2PM
+Dr. Olivia Clark,Philadelphia,Pharmacologist,5,1,3PM,2PM,11AM,1PM,4PM,3PM
+Dr. William Hill,San Jose,Pharmacologist,4,0,2PM,9AM,12PM,5PM,3PM,3PM
+Dr. Olivia Carter,Philadelphia,Pharmacologist,1,1,10AM,1PM,1PM,4PM,5PM,3PM
+Dr. Abigail Anderson,Houston,Proctologist,3,0,None,9AM,10AM,None,9AM,4PM
+Dr. Daniel Carter,Houston,"Ear, Nose, and Throat (ENT) Specialist",5,0,10AM,None,9AM,1PM,11AM,11AM
+Dr. William Adams,San Diego,Orthopedic Surgeon,5,1,5PM,3PM,3PM,12PM,None,10AM
+Dr. Isabella Nelson,San Antonio,Dermatologist,1,1,1PM,4PM,12PM,2PM,9AM,4PM
+Dr. Jacob Lewis,Los Angeles,Orthopedic Surgeon,3,1,None,10AM,1PM,12PM,10AM,11AM
+Dr. Ava Stewart,Phoenix,Dermatologist,3,1,12PM,5PM,11AM,9AM,10AM,1PM
+Dr. Olivia Evans,Phoenix,Endocrinologist,4,0,12PM,1PM,12PM,10AM,1PM,2PM
+Dr. William Adams,Dallas,Neurologist,3,0,4PM,10AM,2PM,3PM,None,5PM
+Dr. Lucas Hill,New York,Urologist,1,1,1PM,2PM,12PM,12PM,11AM,12PM
+Dr. Michael Johnson,Dallas,Infectious Disease Specialist,4,1,10AM,1PM,9AM,None,2PM,4PM
+Dr. Harper Lopez,San Diego,Dermatologist,3,1,9AM,5PM,10AM,5PM,5PM,5PM
+Dr. Harper Green,Dallas,Vascular Surgeon,5,0,12PM,11AM,9AM,11AM,9AM,4PM
+Dr. Ava Perez,San Jose,Rheumatologist,5,0,4PM,None,11AM,2PM,None,12PM
+Dr. Isabella Coleman,Los Angeles,Vascular Surgeon,5,0,3PM,12PM,None,11AM,11AM,11AM
+Dr. Isabella Mitchell,Houston,Infectious Disease Specialist,3,1,12PM,4PM,3PM,None,5PM,2PM
+Dr. James Garcia,Phoenix,Rheumatologist,5,1,3PM,3PM,11AM,10AM,10AM,3PM
+Dr. Ethan Taylor,San Diego,Gastroenterologist,5,0,12PM,4PM,4PM,1PM,5PM,3PM
+Dr. Michael Clark,San Antonio,Neurologist,3,1,5PM,12PM,5PM,2PM,None,10AM
+Dr. Olivia Hall,Chicago,Neurologist,5,1,2PM,1PM,5PM,9AM,9AM,2PM
+Dr. Sophia Carter,Chicago,Pulmonologist,3,0,5PM,3PM,5PM,12PM,10AM,10AM
+Dr. Evelyn Green,Phoenix,General Practitioner (GP),2,0,None,3PM,11AM,4PM,11AM,11AM
+Dr. Daniel Roberts,San Diego,Endocrinologist,4,1,5PM,12PM,9AM,1PM,1PM,12PM
+Dr. Olivia Morris,Chicago,Pulmonologist,4,0,None,None,9AM,11AM,1PM,None
+Dr. Lucas Baker,San Diego,Allergist/Immunologist,3,1,5PM,1PM,10AM,9AM,2PM,5PM
+Dr. Harper Adams,Dallas,Gastroenterologist,1,0,11AM,2PM,5PM,12PM,1PM,None
+Dr. Harper Anderson,San Jose,Proctologist,5,1,2PM,9AM,None,5PM,9AM,5PM
+Dr. Ava Wright,Dallas,Orthopedic Surgeon,1,0,9AM,1PM,2PM,11AM,10AM,2PM
+Dr. Olivia White,San Jose,Infectious Disease Specialist,1,0,9AM,2PM,1PM,3PM,1PM,5PM
+Dr. Olivia Phillips,Los Angeles,Rheumatologist,1,1,12PM,4PM,None,3PM,9AM,2PM
+Dr. Harper Lee,Dallas,Pulmonologist,4,1,11AM,5PM,12PM,3PM,2PM,5PM
+Dr. Olivia Johnson,San Diego,Vascular Surgeon,2,1,12PM,1PM,10AM,9AM,4PM,2PM
+Dr. Logan Gonzalez,San Antonio,Allergist/Immunologist,3,1,10AM,3PM,3PM,None,5PM,3PM
+Dr. William Cook,San Antonio,"Ear, Nose, and Throat (ENT) Specialist",4,1,1PM,None,2PM,9AM,2PM,5PM
+Dr. Elijah Roberts,Los Angeles,Allergist/Immunologist,1,1,3PM,10AM,1PM,3PM,5PM,10AM
+Dr. William Hernandez,San Jose,Pharmacologist,5,0,None,None,3PM,10AM,9AM,2PM
+Dr. Emily Phillips,Los Angeles,Infectious Disease Specialist,2,0,9AM,2PM,1PM,5PM,2PM,9AM
+Dr. Benjamin Nelson,Dallas,Rheumatologist,2,1,10AM,4PM,11AM,3PM,2PM,10AM
+Dr. Ava Evans,Philadelphia,Urologist,4,0,11AM,1PM,2PM,None,11AM,None
+Dr. Noah Mitchell,Houston,General Practitioner (GP),3,1,9AM,None,9AM,4PM,9AM,4PM
+Dr. Isabella Lee,Houston,Vascular Surgeon,2,0,4PM,None,9AM,10AM,3PM,None
+Dr. Alexander Williams,Chicago,Proctologist,5,1,None,3PM,9AM,None,1PM,4PM
+Dr. Abigail Bailey,Chicago,Cardiologist,5,0,5PM,9AM,11AM,1PM,2PM,9AM
+Dr. Emily Lopez,Chicago,Endocrinologist,3,0,10AM,9AM,3PM,5PM,2PM,11AM
+Dr. Logan Johnson,San Antonio,Urologist,3,1,11AM,None,None,1PM,None,10AM
+Dr. Ethan Wright,Philadelphia,Neurologist,2,1,1PM,4PM,3PM,1PM,11AM,12PM
+Dr. Chloe Cook,Los Angeles,Gastroenterologist,5,0,4PM,3PM,4PM,2PM,9AM,12PM
+Dr. Daniel Carter,Philadelphia,Neurologist,3,0,3PM,1PM,10AM,2PM,9AM,12PM
+Dr. William White,Dallas,Gastroenterologist,4,0,12PM,9AM,11AM,3PM,None,None
+Dr. Elizabeth Morris,San Diego,Pharmacologist,1,1,None,10AM,12PM,3PM,5PM,1PM
+Dr. Sophia Hernandez,Houston,Cardiologist,3,1,1PM,None,9AM,2PM,12PM,1PM
+Dr. Olivia Stewart,New York,Rheumatologist,1,0,12PM,12PM,10AM,4PM,1PM,10AM
+Dr. Daniel Harris,Phoenix,Endocrinologist,3,0,4PM,4PM,5PM,4PM,9AM,None
+Dr. Jacob Cook,Phoenix,Orthopedic Surgeon,5,0,12PM,1PM,1PM,5PM,5PM,None
+Dr. Chloe Adams,Dallas,General Practitioner (GP),2,0,2PM,2PM,1PM,1PM,11AM,11AM
+Dr. Isabella Brown,Houston,Neurologist,2,1,5PM,10AM,9AM,None,12PM,4PM
+Dr. Ava Garcia,Houston,Pharmacologist,1,0,2PM,5PM,9AM,4PM,9AM,10AM
+Dr. Amelia Hill,San Antonio,Orthopedic Surgeon,4,0,4PM,10AM,None,9AM,2PM,3PM
+Dr. Daniel Edwards,Phoenix,Pharmacologist,2,0,None,None,10AM,4PM,None,5PM
+Dr. Sophia Harris,Chicago,Urologist,4,1,1PM,4PM,9AM,9AM,None,3PM
+Dr. Matthew Hernandez,Los Angeles,Neurologist,3,0,3PM,10AM,2PM,10AM,12PM,9AM
+Dr. Elizabeth Perez,Los Angeles,Endocrinologist,5,0,None,4PM,11AM,11AM,1PM,5PM
+Dr. Mason Green,Dallas,Allergist/Immunologist,3,1,11AM,2PM,4PM,5PM,10AM,5PM
+Dr. Ethan Johnson,Dallas,Infectious Disease Specialist,2,1,10AM,None,1PM,9AM,2PM,11AM
+Dr. Mason Wilson,Chicago,Endocrinologist,2,1,12PM,2PM,None,9AM,1PM,9AM
+Dr. Jacob Scott,Philadelphia,Gastroenterologist,1,1,10AM,2PM,1PM,5PM,11AM,4PM
+Dr. William Rodriguez,Houston,General Practitioner (GP),5,1,9AM,2PM,1PM,9AM,12PM,9AM
+Dr. Chloe Baker,New York,Dermatologist,1,1,9AM,10AM,9AM,9AM,4PM,12PM
+Dr. Chloe Martinez,San Jose,Rheumatologist,5,0,9AM,2PM,5PM,None,1PM,5PM
+Dr. Olivia Phillips,San Diego,Cardiologist,3,0,10AM,12PM,4PM,1PM,1PM,None
+Dr. Benjamin White,Los Angeles,Pharmacologist,5,1,3PM,12PM,11AM,11AM,1PM,10AM
+Dr. Emily Gonzales,Philadelphia,Neurologist,1,0,2PM,11AM,4PM,11AM,3PM,1PM
+Dr. Mia Evans,Dallas,Pharmacologist,1,0,1PM,1PM,2PM,4PM,12PM,4PM
+Dr. Harper Lee,Dallas,Gastroenterologist,1,1,10AM,3PM,1PM,None,10AM,3PM
+Dr. Benjamin Adams,Dallas,General Practitioner (GP),2,1,9AM,1PM,10AM,9AM,4PM,9AM
+Dr. Lucas Jones,San Jose,Urologist,4,1,1PM,10AM,None,4PM,1PM,10AM
+Dr. Ethan Perez,San Jose,Dermatologist,4,0,12PM,1PM,10AM,5PM,12PM,3PM
+Dr. Michael Gonzalez,Los Angeles,Vascular Surgeon,5,1,4PM,11AM,4PM,1PM,10AM,4PM
+Dr. Elijah Morris,San Diego,Neurologist,3,0,1PM,2PM,3PM,10AM,1PM,None
+Dr. Sophia Stewart,Los Angeles,Vascular Surgeon,5,0,4PM,9AM,3PM,10AM,10AM,4PM
+Dr. Mia Coleman,Houston,Neurologist,5,0,4PM,11AM,4PM,1PM,4PM,5PM
+Dr. Elizabeth Gonzales,Los Angeles,Endocrinologist,5,0,3PM,None,11AM,9AM,5PM,10AM
+Dr. Ethan King,Houston,Dermatologist,3,0,10AM,5PM,10AM,11AM,12PM,9AM
+Dr. Harper Rodriguez,San Jose,Pulmonologist,5,0,4PM,1PM,10AM,12PM,None,4PM
+Dr. Olivia Clark,Phoenix,Allergist/Immunologist,4,0,4PM,11AM,None,10AM,1PM,None
+Dr. Lucas Adams,Phoenix,Orthopedic Surgeon,3,0,2PM,3PM,4PM,3PM,10AM,2PM
+Dr. Isabella Edwards,Phoenix,Dermatologist,5,1,4PM,None,2PM,9AM,10AM,9AM
+Dr. Emily Rivera,Dallas,Gastroenterologist,2,0,5PM,10AM,11AM,5PM,None,11AM
+Dr. Amelia Rodriguez,Dallas,Orthopedic Surgeon,5,0,4PM,10AM,5PM,None,10AM,11AM
+Dr. Chloe Lopez,San Diego,Vascular Surgeon,3,1,4PM,4PM,2PM,10AM,12PM,3PM
+Dr. Benjamin Hill,San Diego,Vascular Surgeon,1,1,3PM,11AM,5PM,2PM,9AM,1PM
+Dr. Michael Carter,Dallas,Orthopedic Surgeon,2,0,3PM,4PM,1PM,2PM,9AM,None
+Dr. Harper Anderson,San Jose,"Ear, Nose, and Throat (ENT) Specialist",1,0,2PM,9AM,5PM,5PM,None,4PM
+Dr. Ava Hall,Dallas,Pharmacologist,5,1,9AM,4PM,None,5PM,11AM,10AM
+Dr. Michael Murphy,Houston,General Practitioner (GP),2,1,12PM,11AM,None,4PM,1PM,12PM
+Dr. Michael Edwards,San Diego,"Ear, Nose, and Throat (ENT) Specialist",3,1,4PM,9AM,9AM,5PM,5PM,2PM
+Dr. Olivia Hernandez,Los Angeles,Pulmonologist,1,1,3PM,10AM,12PM,10AM,11AM,2PM
+Dr. Olivia Stewart,Dallas,Vascular Surgeon,2,1,1PM,1PM,9AM,4PM,4PM,1PM
+Dr. Matthew Edwards,San Jose,Urologist,3,1,11AM,10AM,3PM,1PM,11AM,3PM
+Dr. Lucas Johnson,Houston,Cardiologist,4,0,12PM,10AM,5PM,2PM,None,12PM
+Dr. Harper Jones,Philadelphia,Dermatologist,3,1,10AM,5PM,3PM,11AM,9AM,11AM
+Dr. Mia Davis,New York,Orthopedic Surgeon,3,0,2PM,10AM,12PM,2PM,1PM,4PM
+Dr. William Coleman,San Diego,Cardiologist,3,1,10AM,4PM,11AM,10AM,10AM,None
+Dr. Amelia Hernandez,Los Angeles,"Ear, Nose, and Throat (ENT) Specialist",1,1,1PM,10AM,11AM,11AM,11AM,4PM
+Dr. Abigail Jones,Phoenix,Infectious Disease Specialist,1,1,3PM,4PM,4PM,10AM,2PM,10AM
+Dr. Emily Lopez,Chicago,Pulmonologist,1,1,11AM,9AM,12PM,5PM,10AM,4PM
+Dr. Mason Lopez,Philadelphia,Orthopedic Surgeon,1,1,4PM,5PM,4PM,11AM,None,1PM
+Dr. Emily Rodriguez,San Diego,Urologist,4,0,9AM,9AM,3PM,1PM,None,11AM
+Dr. Charlotte Adams,Los Angeles,Endocrinologist,5,0,10AM,5PM,4PM,3PM,11AM,11AM
+Dr. Mason Cook,Phoenix,Pharmacologist,4,0,5PM,None,5PM,1PM,3PM,9AM
+Dr. William Roberts,San Diego,Allergist/Immunologist,3,0,3PM,9AM,1PM,9AM,None,3PM
+Dr. Olivia Jones,Philadelphia,Endocrinologist,1,1,1PM,3PM,5PM,12PM,5PM,10AM
+Dr. Matthew Brown,Philadelphia,Endocrinologist,1,1,4PM,10AM,4PM,9AM,2PM,None
+Dr. Emily Smith,San Antonio,Pharmacologist,1,0,11AM,11AM,None,9AM,2PM,12PM
+Dr. Chloe Jones,Chicago,Pharmacologist,5,1,4PM,5PM,4PM,9AM,5PM,11AM
+Dr. Madison Phillips,Los Angeles,Endocrinologist,3,0,11AM,10AM,3PM,None,None,5PM
+Dr. Evelyn Taylor,San Antonio,Infectious Disease Specialist,5,0,11AM,12PM,3PM,3PM,10AM,2PM
+Dr. Elizabeth Edwards,San Diego,Neurologist,2,1,11AM,1PM,None,3PM,11AM,11AM
+Dr. Madison Garcia,San Diego,Rheumatologist,2,0,1PM,10AM,None,11AM,11AM,10AM
+Dr. Mason Carter,Dallas,Neurologist,1,1,9AM,4PM,None,9AM,2PM,3PM
+Dr. Ava Edwards,Philadelphia,General Practitioner (GP),4,1,9AM,12PM,12PM,3PM,10AM,12PM
+Dr. Ava Edwards,Los Angeles,Allergist/Immunologist,1,0,3PM,11AM,None,4PM,None,1PM
+Dr. Mason Morris,Chicago,Pharmacologist,4,1,9AM,10AM,10AM,4PM,12PM,5PM
+Dr. Harper Martinez,Dallas,Orthopedic Surgeon,5,1,3PM,10AM,10AM,9AM,9AM,10AM
+Dr. William Jones,Philadelphia,Gastroenterologist,2,1,10AM,3PM,12PM,9AM,None,None
+Dr. Sophia Harris,San Jose,Orthopedic Surgeon,2,0,2PM,1PM,4PM,4PM,1PM,12PM
+Dr. Noah Roberts,San Diego,Gastroenterologist,1,1,5PM,10AM,11AM,1PM,None,3PM
+Dr. Charlotte Rivera,Los Angeles,Neurologist,5,1,5PM,4PM,10AM,12PM,None,11AM
+Dr. Elizabeth Stewart,New York,Neurologist,2,0,12PM,11AM,1PM,1PM,10AM,1PM
+Dr. Sophia Martinez,San Diego,Allergist/Immunologist,2,1,4PM,4PM,4PM,4PM,3PM,10AM
+Dr. Isabella Rivera,New York,Neurologist,2,0,9AM,11AM,3PM,3PM,4PM,3PM
+Dr. Emily Brown,Houston,Endocrinologist,2,1,3PM,2PM,1PM,4PM,9AM,12PM
+Dr. Isabella Coleman,New York,Pulmonologist,1,1,1PM,4PM,11AM,5PM,9AM,5PM
+Dr. Ava Smith,Dallas,Cardiologist,1,1,10AM,2PM,9AM,9AM,12PM,1PM
+Dr. Ethan Gonzalez,San Antonio,Vascular Surgeon,4,1,5PM,5PM,4PM,10AM,11AM,None
+Dr. Amelia Taylor,Los Angeles,Pulmonologist,3,0,1PM,10AM,5PM,12PM,2PM,3PM
+Dr. Michael Adams,San Diego,Infectious Disease Specialist,2,0,1PM,9AM,3PM,1PM,9AM,None
+Dr. Ava Evans,Los Angeles,General Practitioner (GP),1,1,9AM,1PM,9AM,12PM,11AM,12PM
+Dr. Benjamin Lopez,San Diego,Neurologist,4,0,9AM,1PM,3PM,11AM,11AM,9AM
+Dr. Mason Smith,Phoenix,Urologist,5,1,11AM,1PM,10AM,3PM,9AM,2PM
+Dr. Harper Coleman,San Antonio,Dermatologist,4,0,11AM,12PM,2PM,2PM,1PM,10AM
+Dr. Logan Green,Philadelphia,Vascular Surgeon,1,1,11AM,9AM,2PM,2PM,4PM,1PM
+Dr. Olivia Nelson,Los Angeles,Orthopedic Surgeon,5,0,1PM,3PM,10AM,10AM,4PM,3PM
+Dr. Madison Lewis,Chicago,Dermatologist,3,1,1PM,12PM,9AM,5PM,3PM,9AM
+Dr. Evelyn Perez,Phoenix,Orthopedic Surgeon,4,1,12PM,11AM,None,None,2PM,2PM
+Dr. Michael Lee,Chicago,Endocrinologist,4,1,9AM,11AM,12PM,2PM,4PM,2PM
+Dr. Ethan Johnson,New York,Urologist,1,0,5PM,3PM,1PM,1PM,None,12PM
+Dr. William Hill,San Jose,Dermatologist,2,0,3PM,9AM,1PM,2PM,10AM,11AM
+Dr. Mason Bailey,Dallas,Pharmacologist,5,0,12PM,None,3PM,5PM,5PM,2PM
+Dr. Daniel Nelson,Phoenix,Endocrinologist,4,0,4PM,3PM,3PM,5PM,12PM,12PM
+Dr. Emily Clark,Chicago,Orthopedic Surgeon,5,1,10AM,11AM,3PM,10AM,3PM,5PM
+Dr. Matthew Garcia,San Diego,Cardiologist,5,0,1PM,11AM,3PM,12PM,11AM,1PM
+Dr. Elizabeth Davis,Los Angeles,Urologist,2,0,11AM,11AM,3PM,10AM,1PM,5PM
+Dr. Benjamin Cook,Houston,Rheumatologist,5,0,4PM,3PM,3PM,2PM,4PM,5PM
+Dr. Mason White,San Antonio,Dermatologist,4,0,10AM,5PM,9AM,5PM,12PM,1PM
+Dr. Ethan Gonzales,Dallas,Allergist/Immunologist,3,1,11AM,11AM,2PM,1PM,9AM,2PM
+Dr. Ava Anderson,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",4,0,10AM,4PM,9AM,None,2PM,11AM
+Dr. Benjamin Wilson,Phoenix,Pharmacologist,5,0,3PM,9AM,None,10AM,1PM,11AM
+Dr. Isabella Evans,Phoenix,Rheumatologist,3,1,5PM,3PM,10AM,1PM,3PM,5PM
+Dr. Daniel Bailey,San Jose,Dermatologist,4,1,2PM,11AM,3PM,11AM,12PM,4PM
+Dr. Abigail Lewis,San Antonio,Cardiologist,1,0,2PM,2PM,1PM,2PM,12PM,5PM
+Dr. Isabella Morris,Dallas,Dermatologist,5,0,2PM,3PM,12PM,4PM,11AM,None
+Dr. Ethan Garcia,Philadelphia,Endocrinologist,3,0,11AM,12PM,1PM,12PM,2PM,4PM
+Dr. Benjamin Brown,Houston,Infectious Disease Specialist,1,0,5PM,5PM,11AM,4PM,1PM,3PM
+Dr. Isabella Thompson,Houston,Pharmacologist,5,0,2PM,2PM,2PM,2PM,1PM,None
+Dr. Mason Lee,San Jose,Allergist/Immunologist,1,1,2PM,11AM,5PM,4PM,10AM,5PM
+Dr. Benjamin Murphy,San Jose,Proctologist,3,1,11AM,11AM,5PM,10AM,1PM,10AM
+Dr. James King,Los Angeles,Dermatologist,5,1,11AM,4PM,12PM,9AM,2PM,10AM
+Dr. Elizabeth Jones,Chicago,Gastroenterologist,5,1,3PM,10AM,10AM,12PM,5PM,3PM
+Dr. Elizabeth Anderson,San Jose,Infectious Disease Specialist,3,0,11AM,11AM,1PM,2PM,2PM,2PM
+Dr. William Garcia,San Antonio,Urologist,5,1,9AM,None,12PM,9AM,None,9AM
+Dr. Evelyn Adams,Dallas,Allergist/Immunologist,5,1,10AM,5PM,10AM,3PM,10AM,10AM
+Dr. Mason Evans,New York,Proctologist,3,1,12PM,2PM,2PM,9AM,9AM,11AM
+Dr. Jacob Anderson,Dallas,Gastroenterologist,3,1,3PM,12PM,12PM,10AM,11AM,11AM
+Dr. Michael Hill,Los Angeles,Cardiologist,3,0,1PM,12PM,1PM,10AM,1PM,2PM
+Dr. Mason Perez,San Antonio,Pulmonologist,5,0,5PM,12PM,3PM,4PM,3PM,2PM
+Dr. Harper Johnson,San Antonio,Allergist/Immunologist,4,1,11AM,10AM,None,11AM,11AM,2PM
+Dr. Ava White,Dallas,Vascular Surgeon,2,1,10AM,12PM,10AM,10AM,10AM,2PM
+Dr. Ethan Hernandez,New York,Proctologist,1,0,11AM,9AM,9AM,3PM,12PM,12PM
+Dr. Sophia Williams,Dallas,Rheumatologist,2,1,10AM,5PM,10AM,9AM,11AM,10AM
+Dr. Isabella Jones,Dallas,Urologist,2,1,12PM,2PM,10AM,2PM,2PM,3PM
+Dr. Jacob Moore,Phoenix,Allergist/Immunologist,5,0,3PM,2PM,12PM,10AM,9AM,None
+Dr. Harper Lewis,Los Angeles,Endocrinologist,4,0,12PM,2PM,10AM,None,4PM,2PM
+Dr. Aiden Gonzales,Chicago,Gastroenterologist,2,0,1PM,9AM,1PM,9AM,3PM,1PM
+Dr. Noah Davis,Dallas,Dermatologist,3,0,2PM,2PM,2PM,9AM,None,3PM
+Dr. Elijah Lee,Phoenix,Dermatologist,1,0,4PM,12PM,2PM,9AM,2PM,2PM
+Dr. Logan Gonzales,Los Angeles,Proctologist,2,1,4PM,12PM,4PM,4PM,2PM,5PM
+Dr. William Martinez,San Diego,Rheumatologist,2,1,12PM,3PM,None,2PM,None,10AM
+Dr. Charlotte Garcia,San Jose,Cardiologist,2,1,12PM,1PM,12PM,9AM,10AM,2PM
+Dr. Lucas Evans,Chicago,Gastroenterologist,1,1,10AM,5PM,3PM,10AM,9AM,1PM
+Dr. Olivia Edwards,San Antonio,Proctologist,1,1,1PM,4PM,4PM,9AM,1PM,10AM
+Dr. Ethan White,Houston,Urologist,5,1,5PM,10AM,12PM,10AM,None,1PM
+Dr. Mia Coleman,Los Angeles,Rheumatologist,3,0,11AM,5PM,12PM,3PM,4PM,1PM
+Dr. Ethan Lee,Houston,Orthopedic Surgeon,2,1,None,4PM,9AM,10AM,9AM,4PM
+Dr. Madison Garcia,Philadelphia,Rheumatologist,1,1,12PM,2PM,None,4PM,9AM,12PM
+Dr. Benjamin Johnson,San Antonio,"Ear, Nose, and Throat (ENT) Specialist",1,0,2PM,10AM,10AM,4PM,4PM,2PM
+Dr. Daniel Baker,Houston,Vascular Surgeon,4,0,None,10AM,9AM,10AM,10AM,3PM
+Dr. Isabella White,Los Angeles,Gastroenterologist,1,0,12PM,11AM,5PM,4PM,3PM,12PM
+Dr. William Stewart,Chicago,Infectious Disease Specialist,4,1,10AM,None,11AM,5PM,9AM,1PM
+Dr. Amelia Adams,Philadelphia,Cardiologist,2,0,None,10AM,1PM,4PM,10AM,5PM
+Dr. Daniel Jones,San Jose,Orthopedic Surgeon,5,0,10AM,12PM,2PM,3PM,11AM,5PM
+Dr. William Roberts,San Jose,Dermatologist,2,0,4PM,4PM,1PM,1PM,4PM,4PM
+Dr. Amelia King,Philadelphia,Neurologist,2,1,11AM,None,2PM,5PM,9AM,3PM
+Dr. Aiden Coleman,New York,Dermatologist,2,1,4PM,4PM,5PM,10AM,12PM,12PM
+Dr. Charlotte Davis,Dallas,Cardiologist,2,1,9AM,12PM,1PM,9AM,None,5PM
+Dr. Ava Stewart,San Diego,Infectious Disease Specialist,1,0,2PM,2PM,3PM,3PM,10AM,10AM
+Dr. Elizabeth Thompson,Phoenix,Orthopedic Surgeon,5,0,12PM,4PM,10AM,1PM,10AM,1PM
+Dr. Olivia Moore,San Jose,Endocrinologist,1,1,11AM,5PM,11AM,11AM,1PM,9AM
+Dr. Olivia Taylor,Los Angeles,Allergist/Immunologist,4,1,None,1PM,9AM,1PM,2PM,10AM
+Dr. Olivia Perez,New York,Neurologist,4,1,10AM,None,4PM,3PM,1PM,3PM
+Dr. Ethan Russell,San Diego,Pulmonologist,4,1,4PM,5PM,9AM,3PM,10AM,None
+Dr. Logan Martinez,Philadelphia,Neurologist,5,1,12PM,5PM,2PM,2PM,11AM,11AM
+Dr. Ava Davis,Dallas,Neurologist,1,1,9AM,5PM,9AM,1PM,3PM,9AM
+Dr. Ava Anderson,San Antonio,Endocrinologist,4,1,2PM,9AM,3PM,None,None,4PM
+Dr. Mia Lopez,San Diego,"Ear, Nose, and Throat (ENT) Specialist",5,1,9AM,1PM,5PM,5PM,1PM,None
+Dr. Emily Evans,Phoenix,General Practitioner (GP),5,0,3PM,9AM,2PM,None,1PM,None
+Dr. Isabella Green,San Diego,Pulmonologist,1,0,10AM,9AM,None,11AM,2PM,10AM
+Dr. Alexander Davis,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",3,1,9AM,3PM,3PM,3PM,1PM,5PM
+Dr. Jacob Green,San Jose,Vascular Surgeon,3,0,12PM,5PM,None,10AM,11AM,4PM
+Dr. Emily Carter,New York,Neurologist,2,1,5PM,1PM,5PM,2PM,3PM,11AM
+Dr. Mason Murphy,Houston,Endocrinologist,3,1,4PM,None,None,10AM,1PM,2PM
+Dr. Ethan Scott,Chicago,Cardiologist,5,1,12PM,None,4PM,1PM,2PM,4PM
+Dr. Ethan Rivera,Philadelphia,Infectious Disease Specialist,1,1,3PM,3PM,5PM,None,1PM,9AM
+Dr. Olivia Evans,Houston,Dermatologist,2,1,5PM,3PM,1PM,9AM,12PM,4PM
+Dr. Ethan Cook,San Diego,Orthopedic Surgeon,3,0,12PM,5PM,10AM,1PM,4PM,9AM
+Dr. Ethan Wright,New York,Rheumatologist,4,0,1PM,3PM,5PM,12PM,1PM,1PM
+Dr. Matthew Lee,Philadelphia,General Practitioner (GP),5,1,3PM,5PM,5PM,9AM,10AM,2PM
+Dr. Ethan Hill,San Jose,Rheumatologist,1,0,5PM,1PM,1PM,None,3PM,12PM
+Dr. Jacob Evans,Philadelphia,Cardiologist,2,0,3PM,10AM,10AM,11AM,None,12PM
+Dr. Isabella Carter,San Antonio,Urologist,4,0,5PM,3PM,9AM,9AM,1PM,12PM
+Dr. Amelia Moore,Houston,Rheumatologist,3,1,3PM,None,9AM,5PM,None,1PM
+Dr. William Cook,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",2,1,5PM,2PM,None,4PM,None,1PM
+Dr. Abigail Hernandez,San Antonio,Urologist,1,1,11AM,1PM,5PM,4PM,12PM,9AM
+Dr. Ava Carter,San Antonio,Neurologist,2,1,10AM,11AM,12PM,9AM,12PM,9AM
+Dr. Isabella Hill,Chicago,Allergist/Immunologist,1,1,10AM,10AM,9AM,9AM,4PM,12PM
+Dr. Mason Gonzales,San Jose,Neurologist,4,1,1PM,9AM,3PM,10AM,12PM,4PM
+Dr. Daniel White,San Jose,"Ear, Nose, and Throat (ENT) Specialist",1,1,12PM,12PM,10AM,2PM,3PM,10AM
+Dr. Olivia Russell,Chicago,Cardiologist,2,0,4PM,10AM,11AM,4PM,None,9AM
+Dr. Sophia Mitchell,Los Angeles,Endocrinologist,4,1,4PM,10AM,1PM,9AM,3PM,None
+Dr. Elizabeth Morris,San Antonio,Neurologist,3,1,12PM,3PM,9AM,11AM,11AM,5PM
+Dr. Mia Perez,New York,Endocrinologist,2,0,None,1PM,11AM,9AM,11AM,9AM
+Dr. Sophia Miller,San Diego,Pulmonologist,2,1,4PM,1PM,11AM,None,None,4PM
+Dr. Olivia Evans,New York,Urologist,4,1,11AM,3PM,9AM,10AM,None,2PM
+Dr. Michael Jones,Dallas,Urologist,3,0,1PM,10AM,5PM,3PM,2PM,1PM
+Dr. Matthew Adams,Chicago,General Practitioner (GP),5,0,3PM,12PM,3PM,1PM,3PM,5PM
+Dr. Madison Garcia,San Jose,"Ear, Nose, and Throat (ENT) Specialist",3,1,3PM,2PM,9AM,11AM,10AM,3PM
+Dr. William Lopez,Phoenix,Gastroenterologist,3,1,None,4PM,12PM,12PM,10AM,10AM
+Dr. Chloe Scott,Dallas,General Practitioner (GP),1,0,5PM,11AM,4PM,9AM,4PM,9AM
+Dr. Logan Clark,San Jose,Vascular Surgeon,1,0,2PM,10AM,2PM,9AM,4PM,None
+Dr. Evelyn Clark,San Diego,Pulmonologist,2,1,4PM,10AM,None,2PM,10AM,12PM
+Dr. William Johnson,Houston,Endocrinologist,1,1,9AM,9AM,5PM,2PM,3PM,4PM
+Dr. Isabella Wright,Los Angeles,Cardiologist,5,0,12PM,5PM,9AM,5PM,12PM,11AM
+Dr. Aiden Russell,Los Angeles,Gastroenterologist,4,0,4PM,12PM,10AM,4PM,12PM,11AM
+Dr. Isabella Lopez,Chicago,Infectious Disease Specialist,4,0,11AM,None,None,12PM,5PM,None
+Dr. Harper Jones,San Diego,Pharmacologist,4,1,11AM,5PM,12PM,12PM,4PM,2PM
+Dr. William Morris,New York,General Practitioner (GP),4,0,4PM,2PM,4PM,10AM,3PM,10AM
+Dr. Ethan Thompson,Phoenix,Pulmonologist,3,0,2PM,10AM,5PM,12PM,12PM,3PM
+Dr. Emily Anderson,New York,Allergist/Immunologist,4,0,5PM,12PM,11AM,5PM,None,2PM
+Dr. William Garcia,Philadelphia,Pulmonologist,2,1,4PM,3PM,11AM,1PM,5PM,3PM
+Dr. Emily Adams,San Antonio,Cardiologist,4,0,12PM,9AM,2PM,1PM,None,12PM
+Dr. Michael Wright,New York,Cardiologist,5,0,12PM,1PM,10AM,None,1PM,12PM
+Dr. Michael Gonzales,New York,Orthopedic Surgeon,4,0,2PM,9AM,2PM,10AM,2PM,4PM
+Dr. Olivia Baker,Philadelphia,Pharmacologist,5,0,9AM,12PM,1PM,2PM,1PM,5PM
+Dr. Daniel Perez,San Jose,"Ear, Nose, and Throat (ENT) Specialist",5,0,3PM,2PM,5PM,2PM,2PM,10AM
+Dr. Ava Coleman,Chicago,Pharmacologist,1,0,2PM,3PM,3PM,4PM,9AM,4PM
+Dr. Logan Coleman,San Jose,Cardiologist,5,1,12PM,12PM,12PM,1PM,10AM,10AM
+Dr. William Rivera,Houston,Vascular Surgeon,1,1,9AM,None,11AM,2PM,10AM,9AM
+Dr. Harper Taylor,San Antonio,Infectious Disease Specialist,4,1,2PM,2PM,3PM,10AM,10AM,2PM
+Dr. Ava Lee,San Jose,Proctologist,1,1,11AM,None,None,None,1PM,4PM
+Dr. Ava Jones,Dallas,Endocrinologist,4,1,1PM,1PM,3PM,9AM,None,1PM
+Dr. Lucas Nelson,Philadelphia,"Ear, Nose, and Throat (ENT) Specialist",5,0,11AM,2PM,5PM,9AM,None,2PM
+Dr. Matthew Edwards,San Jose,Dermatologist,2,1,11AM,None,9AM,3PM,3PM,11AM
+Dr. William Carter,Dallas,Endocrinologist,1,1,4PM,10AM,12PM,10AM,1PM,11AM
+Dr. Ethan Davis,Phoenix,"Ear, Nose, and Throat (ENT) Specialist",5,1,4PM,10AM,9AM,3PM,5PM,5PM
+Dr. Jacob Baker,Dallas,General Practitioner (GP),3,1,4PM,4PM,12PM,5PM,5PM,4PM
+Dr. Harper Miller,Chicago,Rheumatologist,1,0,11AM,3PM,9AM,3PM,9AM,2PM
+Dr. Harper Martinez,Philadelphia,Neurologist,5,0,11AM,3PM,12PM,11AM,None,10AM
+Dr. Mason Davis,New York,Proctologist,1,1,5PM,11AM,12PM,10AM,2PM,1PM
+Dr. Elijah Coleman,Phoenix,Rheumatologist,2,0,4PM,12PM,12PM,2PM,4PM,9AM
+Dr. Matthew Phillips,Chicago,"Ear, Nose, and Throat (ENT) Specialist",1,1,12PM,1PM,5PM,11AM,11AM,2PM
+Dr. Mason Martinez,Los Angeles,Pharmacologist,2,1,None,3PM,9AM,12PM,10AM,2PM
+Dr. Emily Adams,Los Angeles,Endocrinologist,2,1,11AM,3PM,5PM,5PM,9AM,9AM
+Dr. Madison Adams,Dallas,Infectious Disease Specialist,1,1,5PM,11AM,9AM,11AM,9AM,5PM
+Dr. Amelia Nelson,Houston,Urologist,2,1,5PM,3PM,10AM,5PM,12PM,4PM
+Dr. William Green,San Jose,Vascular Surgeon,4,1,12PM,12PM,11AM,3PM,4PM,1PM
+Dr. Aiden Lee,San Jose,Pharmacologist,2,1,9AM,12PM,1PM,5PM,5PM,1PM
+Dr. Ava Phillips,Los Angeles,Rheumatologist,3,1,1PM,9AM,3PM,11AM,10AM,11AM
+Dr. Jacob Wilson,Chicago,Orthopedic Surgeon,3,0,11AM,2PM,4PM,4PM,None,3PM
+Dr. William Taylor,Phoenix,Orthopedic Surgeon,4,0,3PM,9AM,11AM,10AM,2PM,2PM
+Dr. Madison Miller,Phoenix,Orthopedic Surgeon,5,0,12PM,1PM,2PM,4PM,4PM,12PM
+Dr. Aiden Garcia,New York,"Ear, Nose, and Throat (ENT) Specialist",5,0,11AM,3PM,3PM,9AM,10AM,11AM
+Dr. William Anderson,Chicago,Urologist,2,0,1PM,5PM,10AM,4PM,None,4PM
+Dr. Emily Wilson,Philadelphia,Cardiologist,5,1,1PM,4PM,1PM,4PM,12PM,12PM
+Dr. Michael Bailey,San Antonio,Gastroenterologist,4,0,4PM,12PM,1PM,1PM,11AM,11AM
+Dr. Michael Gonzales,Los Angeles,"Ear, Nose, and Throat (ENT) Specialist",5,0,9AM,2PM,4PM,9AM,4PM,2PM
+Dr. Benjamin Lopez,New York,Rheumatologist,3,0,1PM,None,10AM,11AM,5PM,12PM
+Dr. Evelyn Bailey,Phoenix,General Practitioner (GP),3,1,2PM,12PM,3PM,12PM,10AM,9AM
+Dr. Harper Gonzalez,Los Angeles,Rheumatologist,2,0,4PM,1PM,4PM,9AM,1PM,2PM
+Dr. Michael Brown,San Antonio,General Practitioner (GP),4,1,5PM,None,2PM,11AM,None,None
+Dr. Emily Thompson,San Jose,General Practitioner (GP),2,0,1PM,1PM,2PM,2PM,2PM,9AM
+Dr. Chloe Taylor,San Jose,Neurologist,2,1,9AM,4PM,2PM,5PM,None,5PM
+Dr. Benjamin Bailey,Philadelphia,Proctologist,2,0,3PM,1PM,1PM,2PM,1PM,3PM
+Dr. Isabella Scott,San Diego,Endocrinologist,1,1,9AM,10AM,None,10AM,2PM,None
+Dr. Sophia White,Houston,Urologist,2,1,5PM,3PM,10AM,12PM,1PM,None
+Dr. Chloe Clark,San Diego,Orthopedic Surgeon,2,1,9AM,11AM,5PM,10AM,9AM,10AM
+Dr. Madison Cook,Chicago,Infectious Disease Specialist,3,1,5PM,2PM,2PM,5PM,1PM,None
+Dr. Alexander Anderson,San Diego,Pulmonologist,3,1,None,4PM,2PM,3PM,3PM,3PM
+Dr. Ethan Davis,San Antonio,Neurologist,4,0,10AM,2PM,5PM,12PM,10AM,10AM
+Dr. Abigail Williams,Chicago,Vascular Surgeon,2,1,10AM,12PM,12PM,12PM,11AM,9AM
+Dr. Harper Gonzales,New York,Neurologist,4,1,4PM,2PM,1PM,3PM,None,10AM
+Dr. Ava Thompson,Chicago,Infectious Disease Specialist,4,0,12PM,5PM,1PM,9AM,5PM,3PM
+Dr. Elizabeth Hernandez,Dallas,Proctologist,1,1,10AM,9AM,12PM,3PM,5PM,10AM
+Dr. Charlotte Martinez,San Diego,Urologist,5,1,12PM,4PM,10AM,3PM,4PM,None
+Dr. Mia White,Houston,Neurologist,1,0,2PM,5PM,1PM,11AM,11AM,10AM
+Dr. Ava Jones,Phoenix,Dermatologist,3,0,2PM,10AM,None,10AM,4PM,10AM
+Dr. Mia Smith,Dallas,Pulmonologist,3,0,9AM,None,10AM,None,1PM,4PM
+Dr. Ava Carter,New York,Gastroenterologist,2,0,3PM,12PM,5PM,11AM,9AM,10AM
+Dr. Benjamin Wright,New York,Endocrinologist,5,1,1PM,2PM,None,10AM,3PM,3PM
+Dr. Ava Adams,Dallas,Dermatologist,2,1,1PM,9AM,5PM,12PM,10AM,11AM
+Dr. Logan Gonzales,Dallas,Endocrinologist,4,1,None,None,2PM,9AM,10AM,4PM
+Dr. Sophia Harris,New York,Orthopedic Surgeon,4,1,2PM,4PM,5PM,4PM,9AM,5PM
+Dr. Elijah Morris,Dallas,Endocrinologist,1,1,1PM,None,3PM,4PM,12PM,None
+Dr. Olivia Adams,Houston,Infectious Disease Specialist,1,0,2PM,1PM,1PM,11AM,3PM,11AM
+Dr. Benjamin Bailey,Los Angeles,General Practitioner (GP),5,0,3PM,3PM,1PM,5PM,None,9AM
+Dr. Mason Anderson,San Jose,"Ear, Nose, and Throat (ENT) Specialist",5,0,9AM,3PM,9AM,None,1PM,4PM
+Dr. Michael Morris,Philadelphia,Allergist/Immunologist,4,1,2PM,10AM,4PM,2PM,12PM,4PM
+Dr. Mia Williams,San Antonio,Pulmonologist,2,1,9AM,4PM,2PM,11AM,None,4PM
+Dr. Isabella Hernandez,Phoenix,Pharmacologist,2,1,None,11AM,1PM,None,5PM,12PM
+Dr. Abigail Moore,New York,Endocrinologist,5,1,1PM,11AM,4PM,3PM,3PM,1PM
+Dr. Isabella Miller,Dallas,"Ear, Nose, and Throat (ENT) Specialist",5,1,2PM,1PM,5PM,4PM,1PM,None
+Dr. Benjamin Hernandez,Chicago,Pharmacologist,1,0,9AM,1PM,10AM,11AM,9AM,11AM
+Dr. Olivia Stewart,Houston,Rheumatologist,3,0,3PM,1PM,9AM,4PM,3PM,4PM
+Dr. Elizabeth Evans,New York,"Ear, Nose, and Throat (ENT) Specialist",3,1,1PM,11AM,12PM,12PM,9AM,2PM
+Dr. Daniel Johnson,Philadelphia,Rheumatologist,3,1,3PM,12PM,4PM,12PM,2PM,None
+Dr. Amelia King,Phoenix,Rheumatologist,3,0,12PM,12PM,9AM,5PM,5PM,None
+Dr. Jacob Johnson,Philadelphia,Pulmonologist,5,1,4PM,5PM,3PM,3PM,None,9AM
+Dr. Benjamin Rivera,Chicago,Orthopedic Surgeon,3,0,4PM,11AM,9AM,2PM,2PM,11AM
+Dr. Ethan Clark,Los Angeles,Orthopedic Surgeon,4,1,2PM,5PM,1PM,9AM,3PM,4PM
+Dr. Olivia Williams,Dallas,Vascular Surgeon,5,0,3PM,12PM,3PM,4PM,12PM,9AM
+Dr. William Lewis,San Jose,Dermatologist,3,0,3PM,4PM,10AM,5PM,11AM,12PM
+Dr. Olivia Phillips,Phoenix,Vascular Surgeon,5,1,12PM,11AM,12PM,11AM,4PM,10AM
+Dr. William Anderson,San Jose,Allergist/Immunologist,3,1,3PM,1PM,4PM,12PM,9AM,11AM
+Dr. Sophia Coleman,Phoenix,Endocrinologist,4,0,2PM,4PM,10AM,1PM,11AM,None
+Dr. Harper Baker,Dallas,Vascular Surgeon,2,1,2PM,11AM,12PM,9AM,None,10AM
+Dr. William Stewart,Dallas,Endocrinologist,4,1,4PM,3PM,2PM,12PM,9AM,1PM
+Dr. Ava White,Philadelphia,Endocrinologist,5,0,1PM,9AM,None,10AM,11AM,2PM
+Dr. Chloe Coleman,Chicago,Allergist/Immunologist,4,1,11AM,11AM,10AM,3PM,10AM,12PM
+Dr. Harper Gonzalez,San Jose,Pulmonologist,3,1,5PM,4PM,1PM,5PM,2PM,5PM
+Dr. Emily Clark,Chicago,"Ear, Nose, and Throat (ENT) Specialist",5,1,9AM,10AM,10AM,5PM,4PM,None
+Dr. Emily Rivera,Dallas,Neurologist,1,1,None,11AM,9AM,3PM,11AM,2PM
+Dr. Ava King,Dallas,Gastroenterologist,1,1,11AM,12PM,1PM,2PM,2PM,11AM
+Dr. Michael Taylor,San Antonio,Cardiologist,3,1,11AM,4PM,11AM,12PM,1PM,9AM
+Dr. James Murphy,Chicago,Neurologist,2,0,12PM,2PM,10AM,2PM,None,1PM
+Dr. Elizabeth Rivera,Houston,Vascular Surgeon,4,0,1PM,5PM,2PM,11AM,4PM,9AM
+Dr. Ethan Phillips,San Jose,Orthopedic Surgeon,3,1,9AM,4PM,4PM,3PM,None,3PM
+Dr. Olivia Wilson,San Diego,Rheumatologist,3,1,None,10AM,10AM,5PM,1PM,1PM
+Dr. Noah Rodriguez,San Jose,Dermatologist,2,0,9AM,12PM,1PM,10AM,11AM,2PM
+Dr. Elizabeth Wright,New York,Orthopedic Surgeon,2,0,10AM,None,10AM,3PM,11AM,4PM
+Dr. Madison Hall,San Antonio,Pharmacologist,3,1,4PM,4PM,4PM,3PM,4PM,3PM
+Dr. Elijah Adams,Los Angeles,Neurologist,5,1,11AM,3PM,1PM,11AM,None,12PM
+Dr. Jacob Russell,Houston,Rheumatologist,4,0,3PM,12PM,1PM,1PM,10AM,10AM
+Dr. Ethan Martinez,San Jose,Gastroenterologist,1,0,5PM,11AM,9AM,2PM,4PM,10AM
+Dr. Isabella Brown,New York,Pharmacologist,1,1,3PM,None,11AM,4PM,5PM,None
+Dr. Ava Anderson,Dallas,"Ear, Nose, and Throat (ENT) Specialist",2,0,5PM,11AM,12PM,5PM,2PM,5PM
