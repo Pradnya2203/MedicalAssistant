@@ -15,6 +15,9 @@ model = pickle.load(open(model_path, 'rb'))
 list_of_symptoms = pd.read_csv("../Backend/Dataset/list_of_symptoms.csv")
 symptoms = list_of_symptoms['Symptoms'].to_list()
 
+symptom_precaution = pd.read_csv("../Backend/Dataset/symptom_precaution.csv")
+symptom_description = pd.read_csv("../Backend/Dataset/symptom_Description.csv")
+
 symptoms_severity = pd.read_csv("../Backend/Dataset/Symptom-severity.csv")
 symptoms_severity['Symptom'] = symptoms_severity['Symptom'].str.replace('_',' ')
 
@@ -48,11 +51,19 @@ def predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5):
     array = np.array(array)
     array=array.reshape(1, -1)
     prediction = model.predict(array)
-    st.write(f"It looks like you may have {prediction[0]}")
     result = disease_specialization[disease_specialization['Disease']==prediction[0]]['Specialization'].values[0]
+    st.write(f"It looks like you may have {prediction[0]}, you should consult a {result}")
+    description = symptom_description[symptom_description['Disease']==prediction[0]]
+    description = description['Description'].tolist()
+    st.write(description[0])
+    precaution = symptom_precaution[symptom_precaution['Disease']==prediction[0]]
+    precaution1 = precaution['Precaution_1'].tolist()
+    precaution2 = precaution['Precaution_2'].tolist()
+    precaution3 = precaution['Precaution_3'].tolist()
+    precaution4 = precaution['Precaution_4'].tolist()
     filtered_df = doc_data[doc_data['Specialization'] == result]
     sorted_df_desc = filtered_df.sort_values(by='User Rating', ascending=False)
-    return sorted_df_desc
+    return [sorted_df_desc,precaution1[0],precaution2[0],precaution3[0],precaution4[0],prediction[0]]
 
 
 
@@ -89,10 +100,10 @@ def main():
 
     
     if st.button("Analyze Symptoms"):
-        data=predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5)
+        output=predict_disease(Symptom1,Symptom2,Symptom3,Symptom4,Symptom5)
+        data = output[0]
         data = data.reset_index()
-        st.write(f"{Name}, you should consider reaching out to a {data.loc[0, 'Specialization']}")
-        st.write("Here is the list of doctors available at the moment")
+        
         avail = data[data['Availability'] == 1]
         if avail.empty:
             st.write(f"Sorry {Name}, none of our doctors are online at the moment")
@@ -100,10 +111,13 @@ def main():
             columns_to_drop = ['Availability', 'Monday','Tuesday','Wednestday','Thursday','Friday','Saturday','index']
             avail=avail.drop(columns=columns_to_drop)
             avail=avail.head(5)
-            st.write(f"The following {answer} are online right now, you can choose to have a chat or video call session with them")
+            st.write(f" {Name}, Here is the list of doctors available at the moment, you can choose to have a chat or video call session with them")
             st.write(avail)
             st.write("If you want to have an in-person appointment, Head on to our Schedule Appointment page")
-    st.write("Thank You for visiting us")
+            st.markdown('''##### Few preventive measures you can try for relief''')
+            for i in range(4):
+                st.markdown("- " +output[i+1])
+    st.markdown('''###### Thank You for visiting us''')
 if __name__=='__main__':
     main()
 
