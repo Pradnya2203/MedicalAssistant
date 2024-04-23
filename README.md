@@ -57,10 +57,9 @@ Logistic regression is a statistical model that is used to predict the probabili
 In my project, I used logistic regression to classify the diabetes and heart disease dataset into high risk and low risk categories. The model achieved an accuracy of 75% for diabetes and 70% for heart disease.
 
 #### Results
-![Image Name](Assets/heatmap.png)
-![Image Name](Assets/confusion_matrix.png)
-![Image Name](Assets/confusion_matrix_diabetes.png)
-![Image Name](Assets/confusion_matrix_heart_risk.png)
+![Confusion Matrix of Symptom-Disease Model](Assets/confusion_matrix.png)
+![Confusion Matrix of Diabetes Model](Assets/confusion_matrix_diabetes.png)
+![Confusion Matrix of Heart-Disease Model](Assets/confusion_matrix_heart_risk.png)
 
 ### Website Structure
 
