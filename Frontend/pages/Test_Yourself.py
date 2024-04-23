@@ -11,7 +11,7 @@ heart_risk_pred = pickle.load(open(model_path_heart_risk, 'rb'))
 
 def main():
     st.subheader("Diabetes")
-    st.write("Diabetes is a chronic condition that affects how your body turns food into energy. There are two main types of diabetes")
+    st.write("Diabetes is a chronic condition that affects how your body turns food into energy. Diabetes can lead to high blood sugar levels, which can cause serious health complications over time if not properly managed. Managing diabetes involves regular monitoring of blood sugar levels, following a healthy diet, getting regular exercise, and taking medications as prescribed by your doctor.")
     Glucose = st.number_input('Glucose',min_value=1, max_value=200,value=100,step=2)
     BMI = st.number_input('BMI',min_value=1.0, max_value=200.0,value=20.0,step=0.5)
     Age = st.number_input('Age',min_value=1, max_value=200,value=25,step=1)
