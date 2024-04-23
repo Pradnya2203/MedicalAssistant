@@ -4,6 +4,12 @@
 Develop a healthcare recommendation system that analyzes user symptoms leveraging symptom data (using mock data), healthcare provider databases, and user ratings,  recommends doctors with matching specialties and aligned schedules
 
 ## Solution Summary
+Recommendation system that recommends a specialist on the basis on user symptoms, user ratings, availability, location.
+
+The app is divided into two segments
+1. Online meet that a user can have right nowmin case of immediate help
+2. Schedule an in-person meet by choosing which day of the week they are comfortable with and the doctors availability
+
 
 
 ## Steps to run this file
@@ -24,11 +30,17 @@ Step 5: Run the app  ```streamlit run Home.py```
 
 ### Dataset
 
+1. Open Source Dataset
+2. Mock Dataset
+
+
 ### Machine Learning
 
 #### Random Forest Classifier
 
 #### Results
+![Image Name](Assets/heatmap.png)
+![Image Name](Assets/confusion_matrix.png)
 
 ### Backend
 

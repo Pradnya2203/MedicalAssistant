@@ -1,20 +1,9 @@
 import streamlit as st
 
-
-
-# if st.button('Call Ambulance',button_color='red'):
-#     st.markdown('[Click here to call] (tel:100)')
-
-page= """
-<style>
-</style>
-"""
-
-st.markdown(page,unsafe_allow_html=True)
 st.title("Health Guardian")
 st.write("Transforming Healthcare: Recommendations That Fit Your Life")
 
-image = st.image('../Assets/doctors.jpg',width=500)
+image = st.image('../Assets/doctor.png',width=500)
 
 st.page_link("pages/Connect_Now.py", label="Connect Now",icon="1️⃣")
 st.caption("To have an immediate video call or chat with one of our experts, Head on to the Contact Now Page")
