@@ -31,7 +31,7 @@ Step 5: Run the app  ```streamlit run Home.py```
 
 ### Dataset
 
-1. Open Source Dataset
+##### 1. Open Source Dataset
 [dataset](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset/data)
 I chose this dataset because it provides a comprehensive mapping of symptoms to diseases, along with recommended precautions and weights. Using this information, I then identified the specific type of specialization that deals with each disease. I created a mapping using Python to associate each disease with its corresponding specialization.
 Along with this dataset, the folder also contained a dataset mapping every disease to its definition and another which mapped every disease to its precautionary measures.
@@ -40,7 +40,7 @@ Along with this dataset, the folder also contained a dataset mapping every disea
 [diabetes](https://www.kaggle.com/datasets/piyushborhade/diabetes-dataset)
 Apart from this I used two more open-source datasets for classifying the risk of a patient for diabetes and heart disease. I chose these datasets because diabetes and heart disease are among the most common diseases that affect a large portion of the population, and the datasets had a very straightforward implementation.
 
-2. Mock Dataset:
+##### 2. Mock Dataset:
 I created a mock dataset of 500 rows using Python. Each row includes the name of a doctor, randomly generated from a combination of names and surnames. The location is also randomly generated from a small list of cities in the USA. The specialization is randomly selected from a set of specialties obtained from the previous dataset. The availability at the moment is indicated by a random 0 or 1, where 0 means unavailable and 1 means available. Additionally, each row includes the doctor's availability for in-person sessions for each day of the week (Monday to Saturday), with specific hours allotted for appointments. This part could be extended to create a complete calendar of a doctor's appointments for the next months, with slots for every working hour indicating availability.
 
 
@@ -58,21 +58,24 @@ In my project, I used logistic regression to classify the diabetes and heart dis
 
 #### Results
 ![Confusion Matrix of Symptom-Disease Model](Assets/confusion_matrix.png)
+Heatmap of Symptom-Disease Model
 ![Confusion Matrix of Diabetes Model](Assets/confusion_matrix_diabetes.png)
+Confusion Matrix of Diabetes Model
 ![Confusion Matrix of Heart-Disease Model](Assets/confusion_matrix_heart_risk.png)
+Confusion Matrix of Heart-Disease Model
 
 ### Website Structure
 
-1. Contact Now:
-    -Part 1 - Specialist Identification: Users are presented with a list of specialist types (e.g., cardiologist, dermatologist, etc.). They can select the type of specialist they need based on their symptoms or health concerns.
-    -Part 2 - Symptom Analysis: Users who are unsure about the type of specialist they need can input their symptoms. The application analyzes these symptoms to suggest potential diseases and the corresponding specialist they should consult. This analysis also includes information about the disease and its symptoms, along with preventive measures.
-2. Schedule Appointment:
-    -Part 1 - Specialist Selection: Users who know the specialization of the doctor they want to consult can select from a list of available specialists. The application then recommends specialists available for online chat or video call.
-    -Part 2 - Symptom-Based Specialist Recommendation: For users unsure about the specialist, they can input their symptoms. The application predicts the possible disease and recommends specialists available on the chosen day. It also provides available time slots for these specialists.
-3. Test Yourself:
-    -Users can input certain information (e.g., age, weight, family history) to assess their risk for diabetes and heart disease. The application provides an analysis of their risk level and may offer preventive measures for these diseases.
-4. About Us
-    -Provides information about the website and its services. Additionally, it offers a feedback form for users to provide their feedback and ratings. This feedback is stored as a text file in the repository and can be utilized to enhance the application.
+##### 1. Contact Now:
+-Part 1 - Specialist Identification: Users are presented with a list of specialist types (e.g., cardiologist, dermatologist, etc.). They can select the type of specialist they need based on their symptoms or health concerns.
+-Part 2 - Symptom Analysis: Users who are unsure about the type of specialist they need can input their symptoms. The application analyzes these symptoms to suggest potential diseases and the corresponding specialist they should consult. This analysis also includes information about the disease and its symptoms, along with preventive measures.
+##### 2. Schedule Appointment:
+-Part 1 - Specialist Selection: Users who know the specialization of the doctor they want to consult can select from a list of available specialists. The application then recommends specialists available for online chat or video call.
+-Part 2 - Symptom-Based Specialist Recommendation: For users unsure about the specialist, they can input their symptoms. The application predicts the possible disease and recommends specialists available on the chosen day. It also provides available time slots for these specialists.
+##### 3. Test Yourself:
+-Users can input certain information (e.g., age, weight, family history) to assess their risk for diabetes and heart disease. The application provides an analysis of their risk level and may offer preventive measures for these diseases.
+##### 4. About Us
+-Provides information about the website and its services. Additionally, it offers a feedback form for users to provide their feedback and ratings. This feedback is stored as a text file in the repository and can be utilized to enhance the application.
     
 ### Backend
 For the backend of the website, I saved models that were trained using Jupyter Notebook as pickle files. These models are then used to predict on user data, providing valuable insights and recommendations. Additionally, I utilized other datasets to extract relevant information from user data. By sorting and filtering this data, I was able to provide personalized recommendations and suggestions to users based on their input and needs. This approach ensured that the website's backend could efficiently process user data and deliver meaningful results.
